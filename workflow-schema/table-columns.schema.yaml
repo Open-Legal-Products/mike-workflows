@@ -1,0 +1,60 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "Mike tabular review table columns"
+type: object
+additionalProperties: false
+required:
+  - columns
+properties:
+  $schema:
+    type: string
+  columns:
+    type: array
+    minItems: 1
+    items:
+      type: object
+      additionalProperties: false
+      required:
+        - index
+        - name
+        - format
+        - prompt
+      properties:
+        index:
+          type: integer
+          minimum: 0
+        name:
+          type: string
+          minLength: 1
+        format:
+          enum:
+            - text
+            - date
+            - monetary_amount
+            - percentage
+            - bulleted_list
+            - yes_no
+            - tag
+        tags:
+          type: array
+          minItems: 1
+          uniqueItems: true
+          items:
+            type: string
+            minLength: 1
+        prompt:
+          type: string
+          minLength: 1
+      allOf:
+        - if:
+            properties:
+              format:
+                const: tag
+            required:
+              - format
+          then:
+            required:
+              - tags
+          else:
+            not:
+              required:
+                - tags

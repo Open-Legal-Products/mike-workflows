@@ -1,0 +1,42 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Parties"
+    format: "bulleted_list"
+    prompt: >-
+      Identify all parties to this agreement. For each party state their full legal name and their role (e.g. counterparty, licensor, lender, supplier).
+  - index: 1
+    name: "Date"
+    format: "date"
+    prompt: >-
+      What is the date of this agreement? If a commencement date differs from the signing date, state both.
+  - index: 2
+    name: "Term"
+    format: "text"
+    prompt: >-
+      What is the term or duration of this agreement? State the start and end dates or the length of the term.
+  - index: 3
+    name: "Change of Control Clause"
+    format: "text"
+    prompt: >-
+      Identify and summarize the change of control clause(s) in this document. Quote the exact triggering language and specify what constitutes a 'change of control'.
+  - index: 4
+    name: "Consent Required"
+    format: "text"
+    prompt: >-
+      Does a change of control require prior consent from any party? Identify who must consent, the notice period, and any conditions.
+  - index: 5
+    name: "Termination Rights"
+    format: "text"
+    prompt: >-
+      What termination rights arise upon a change of control? Who can terminate, and what are the notice requirements?
+  - index: 6
+    name: "Put/Call Options"
+    format: "text"
+    prompt: >-
+      Are there any put or call options triggered by a change of control? Summarize the terms, pricing, and exercise period.
+  - index: 7
+    name: "Financial Implications"
+    format: "text"
+    prompt: >-
+      What are the financial implications of a change of control? Include any fees, payments, accelerated obligations, or pricing adjustments.

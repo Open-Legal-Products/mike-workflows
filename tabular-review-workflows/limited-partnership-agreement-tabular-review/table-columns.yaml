@@ -1,0 +1,102 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "General Partner"
+    format: "text"
+    prompt: >-
+      Identify the General Partner(s) of the fund. State the full legal name, jurisdiction of establishment, and any affiliated management entity (e.g. the fund manager or investment adviser) named in the agreement.
+  - index: 1
+    name: "Fund Name & Jurisdiction"
+    format: "text"
+    prompt: >-
+      What is the full name of the fund and in which jurisdiction is the limited partnership established or registered?
+  - index: 2
+    name: "Total Committed Capital"
+    format: "monetary_amount"
+    prompt: >-
+      What is the total committed capital of the fund? State the target size, any hard cap, the currency, and the closing date or dates if specified.
+  - index: 3
+    name: "Capital Calls & Drawdowns"
+    format: "text"
+    prompt: >-
+      How and when may the GP call capital from LPs? State the notice period for capital calls, the mechanics for issuing a call notice, any limit on the frequency or size of calls, and whether undrawn commitments can be recalled after repayment.
+  - index: 4
+    name: "Penalties for Failure to Fund"
+    format: "text"
+    prompt: >-
+      What are the consequences if an LP fails to fund a capital call? Describe any penalties (e.g. interest on the shortfall, dilution of interest, forced transfer at a discount, loss of voting or distribution rights, exclusion from future investments). Are there any cure periods before penalties apply?
+  - index: 5
+    name: "Investment Scope & Restrictions"
+    format: "text"
+    prompt: >-
+      What is the fund's stated investment strategy, scope, and any restrictions? Include permitted sectors, geographies, investment stages, instrument types, and any concentration limits (e.g. maximum % of committed capital per single investment). Note how much discretion the GP has to deviate from the stated strategy.
+  - index: 6
+    name: "Fund Term"
+    format: "text"
+    prompt: >-
+      What is the term of the fund? State the initial term (e.g. 10 years from final closing), any permitted extension periods (e.g. 2 × 1-year extensions), who has the right to approve extensions (GP alone or with LP/LPAC consent), and any early termination mechanics.
+  - index: 7
+    name: "Management Fee"
+    format: "text"
+    prompt: >-
+      What management fee is payable to the GP or manager? State the fee rate, the basis on which it is calculated (e.g. committed capital during the investment period, then invested or net asset value thereafter), any step-downs over the fund life, and the payment frequency.
+  - index: 8
+    name: "Carried Interest"
+    format: "text"
+    prompt: >-
+      What carried interest (carry) is payable to the GP? State the carry percentage, the structure (European/fund-level waterfall vs American/deal-by-deal), and identify each step of the distribution waterfall in sequence (e.g. return of capital, preferred return, GP catch-up, then profit split).
+  - index: 9
+    name: "Preferred Return (Hurdle Rate)"
+    format: "percentage"
+    prompt: >-
+      Is there a preferred return or hurdle rate that LPs must receive before the GP earns carry? State the rate, whether it is compounded (and on what basis), and how it is calculated (e.g. on invested capital, on contributed capital). If there is no preferred return, state this explicitly.
+  - index: 10
+    name: "GP Catch-Up"
+    format: "text"
+    prompt: >-
+      Is there a GP catch-up mechanism after the preferred return is met? If so, describe how it operates: what percentage of distributions go to the GP during the catch-up, and what economic result the catch-up is designed to achieve (e.g. the GP receives 20% of all profits to date).
+  - index: 11
+    name: "Clawback"
+    format: "text"
+    prompt: >-
+      Is there a clawback obligation on the GP if it receives excess carry? State whether the clawback is calculated at fund level or individual partner level, when it is triggered, any cap or limit on the clawback obligation, and whether there is any escrow or security arrangement to support the GP's clawback obligation.
+  - index: 12
+    name: "Fees & Expenses (Beyond Management Fee)"
+    format: "bulleted_list"
+    prompt: >-
+      What fees and expenses are charged to the fund or LPs beyond the management fee? List each category (e.g. transaction fees, monitoring fees, broken deal costs, formation expenses, legal fees, fund administration costs, organisational expenses). For each, state who bears the cost and whether any amounts are offset against the management fee.
+  - index: 13
+    name: "Distributions"
+    format: "text"
+    prompt: >-
+      How and when are distributions made to LPs? Describe the timing of distributions (e.g. upon realisation of investments or at the GP's discretion), whether the GP can reinvest proceeds within the investment period, and whether distributions may be made in-kind (i.e. as securities rather than cash).
+  - index: 14
+    name: "Key Person Clause"
+    format: "text"
+    prompt: >-
+      Is there a key person clause? Identify the designated key persons. What triggers the key person event (e.g. departure, incapacity, reduced time commitment below a threshold)? What are the consequences (e.g. suspension of the investment period)? Do LPs have any right to terminate or vote on continuation following a key person event?
+  - index: 15
+    name: "Removal of the GP"
+    format: "text"
+    prompt: >-
+      Under what circumstances can the GP be removed? Distinguish between removal for cause (e.g. fraud, gross negligence, wilful misconduct — state the LP voting threshold required) and removal without cause (state the LP voting threshold and any associated consequences such as carried interest treatment on removal).
+  - index: 16
+    name: "Advisory Committee (LPAC)"
+    format: "text"
+    prompt: >-
+      Is there an LP Advisory Committee (LPAC) or similar governance body? If so, describe its composition, how members are selected, its key powers and responsibilities (e.g. approving conflicts of interest, valuations, extensions, related-party transactions), and whether its approval is binding or merely advisory.
+  - index: 17
+    name: "Transfer Restrictions"
+    format: "text"
+    prompt: >-
+      What restrictions apply to an LP transferring or assigning its interest in the fund? Is GP consent required? Are there any permitted transfer exceptions (e.g. to affiliates)? Are secondary market sales permitted and, if so, subject to what conditions or rights of first refusal?
+  - index: 18
+    name: "Conflicts of Interest"
+    format: "text"
+    prompt: >-
+      How does the agreement address conflicts of interest? Describe the deal allocation policy across funds, any co-investment rights granted to LPs, restrictions on related-party transactions, and the role of the LPAC in reviewing or approving conflicts. Note any specific conflict scenarios expressly contemplated.
+  - index: 19
+    name: "Governing Law"
+    format: "text"
+    prompt: >-
+      What governing law applies to this agreement and which courts or arbitral tribunals have jurisdiction over disputes?

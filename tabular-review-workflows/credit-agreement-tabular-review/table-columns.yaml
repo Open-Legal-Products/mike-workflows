@@ -1,0 +1,107 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Lenders"
+    format: "bulleted_list"
+    prompt: >-
+      Identify all lenders (or the lender syndicate) named in this agreement. For each, state their full legal name and role (e.g. mandated lead arranger, original lender, agent bank).
+  - index: 1
+    name: "Borrowers"
+    format: "bulleted_list"
+    prompt: >-
+      Identify all borrowers named in this agreement, including their full legal name and jurisdiction of incorporation.
+  - index: 2
+    name: "Guarantors"
+    format: "bulleted_list"
+    prompt: >-
+      Identify all guarantors named in this agreement, including their full legal name and the scope of their guarantee obligation.
+  - index: 3
+    name: "Other Parties"
+    format: "bulleted_list"
+    prompt: >-
+      Identify any other material parties to this agreement (e.g. facility agent, security agent, hedge counterparties, issuing bank). State their name and role.
+  - index: 4
+    name: "Date of Agreement"
+    format: "date"
+    prompt: >-
+      What is the date of this credit agreement?
+  - index: 5
+    name: "Facility"
+    format: "bulleted_list"
+    prompt: >-
+      List each facility available under this agreement (e.g. Revolving Credit Facility, Term Loan A, Term Loan B, Term Loan C). For each, state the facility type, tranche name, and any key structural features.
+  - index: 6
+    name: "Amount"
+    format: "monetary_amount"
+    prompt: >-
+      What is the total committed amount available under this agreement across all facilities? State the amount, currency, and breakdown by tranche if applicable.
+  - index: 7
+    name: "Purpose"
+    format: "text"
+    prompt: >-
+      What is the stated purpose for which borrowings under this agreement may be used? Identify any restrictions on use of proceeds.
+  - index: 8
+    name: "Interest"
+    format: "text"
+    prompt: >-
+      What interest rate applies to borrowings under this agreement? Identify the applicable rate (e.g. SOFR, EURIBOR, base rate), the margin, any margin ratchet mechanism, and how interest periods are structured.
+  - index: 9
+    name: "Commitment Fee"
+    format: "text"
+    prompt: >-
+      Is there a commitment fee or utilisation fee? If so, state the applicable rate, how it is calculated, and on what basis (e.g. undrawn commitment, average utilisation).
+  - index: 10
+    name: "Repayment Schedule"
+    format: "text"
+    prompt: >-
+      Summarise the repayment schedule for each facility. Identify whether repayment is by scheduled instalments or bullet repayment, and state the repayment dates and amounts where specified.
+  - index: 11
+    name: "Maturity"
+    format: "date"
+    prompt: >-
+      What is the final maturity date of the facilities under this agreement? If different facilities have different maturities, state each.
+  - index: 12
+    name: "Security"
+    format: "bulleted_list"
+    prompt: >-
+      What security is granted or required to be granted under this agreement? List each class of security (e.g. share pledges, fixed and floating charges, real estate mortgages, account pledges) and the assets or entities over which security is taken.
+  - index: 13
+    name: "Guarantees"
+    format: "bulleted_list"
+    prompt: >-
+      What guarantee obligations are given under or in connection with this agreement? Identify the guarantors, the scope of the guarantee, and any limitations (e.g. up-stream guarantee limitations, guarantor coverage test).
+  - index: 14
+    name: "Financial Covenants"
+    format: "bulleted_list"
+    prompt: >-
+      What financial covenants are included in this agreement? For each covenant identify the metric (e.g. leverage ratio, interest cover, cashflow cover), the applicable test, the testing frequency, and any equity cure rights.
+  - index: 15
+    name: "Events of Default"
+    format: "bulleted_list"
+    prompt: >-
+      List the events of default under this agreement. For each, note any grace periods, materiality thresholds, or cross-default provisions.
+  - index: 16
+    name: "Assignment"
+    format: "text"
+    prompt: >-
+      What restrictions or permissions apply to assignment or transfer of rights under this agreement? Identify restrictions on lender transfers (e.g. white/blacklists, borrower consent) and on borrower assignment.
+  - index: 17
+    name: "Change of Control"
+    format: "text"
+    prompt: >-
+      Is there a change of control provision? If so, what constitutes a change of control, what obligations does it trigger (e.g. mandatory prepayment, cancellation, lender consent), and is there any cure period?
+  - index: 18
+    name: "Prepayment Fee"
+    format: "text"
+    prompt: >-
+      Are there any prepayment fees, make-whole premiums, or soft-call protections? If so, state the applicable fee, the period during which it applies, and any exceptions (e.g. prepayment from insurance proceeds or asset disposal).
+  - index: 19
+    name: "Governing Law"
+    format: "text"
+    prompt: >-
+      What governing law applies to this agreement? State the jurisdiction and any specific legal system referenced.
+  - index: 20
+    name: "Dispute Resolution"
+    format: "text"
+    prompt: >-
+      How are disputes resolved under this agreement? Identify whether disputes go to litigation or arbitration, the chosen forum or seat, and any submission to jurisdiction provisions.

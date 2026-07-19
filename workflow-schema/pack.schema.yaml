@@ -1,0 +1,79 @@
+"$schema": "https://json-schema.org/draft/2020-12/schema"
+title: "Mike workflow pack metadata"
+type: object
+additionalProperties: false
+required:
+  - id
+  - title
+  - description
+  - publisher
+  - license
+  - version
+  - workflows
+properties:
+  "$schema":
+    type: string
+  id:
+    description: Stable pack identifier matching the folder name without the -pack suffix.
+    type: string
+    minLength: 1
+    maxLength: 64
+    pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+  title:
+    type: string
+    minLength: 1
+  description:
+    type: string
+    minLength: 1
+  publisher:
+    type: object
+    additionalProperties: false
+    required:
+      - name
+    properties:
+      name:
+        type: string
+        minLength: 1
+      url:
+        type:
+          - string
+          - "null"
+  license:
+    type: string
+    minLength: 1
+  version:
+    type: string
+    pattern: "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$"
+  source:
+    type:
+      - object
+      - "null"
+    additionalProperties: false
+    properties:
+      repo:
+        type: string
+        minLength: 1
+      ref:
+        type: string
+        minLength: 1
+      path:
+        type: string
+        minLength: 1
+      url:
+        type: string
+        minLength: 1
+  workflows:
+    type: array
+    minItems: 1
+    items:
+      type: string
+      minLength: 1
+      maxLength: 64
+      pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    uniqueItems: true
+  required_connectors:
+    type: array
+    items:
+      type: string
+      minLength: 1
+    uniqueItems: true

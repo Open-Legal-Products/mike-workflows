@@ -1,0 +1,72 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Parties"
+    format: "bulleted_list"
+    prompt: >-
+      Identify all parties to this supply agreement. For each, state their full legal name, jurisdiction of incorporation (if stated), and their role (e.g. supplier, buyer, distributor).
+  - index: 1
+    name: "Effective Date"
+    format: "date"
+    prompt: >-
+      What is the effective date or commencement date of this agreement? If no explicit date is stated, note the date it is deemed to take effect.
+  - index: 2
+    name: "Products"
+    format: "bulleted_list"
+    prompt: >-
+      What products are to be supplied under this agreement? List each product or product category, including any relevant specifications, part numbers, or standards referenced.
+  - index: 3
+    name: "Term"
+    format: "text"
+    prompt: >-
+      What is the initial term or duration of this agreement? State the start date (or reference to when it commences) and the end date or duration.
+  - index: 4
+    name: "Renewal"
+    format: "text"
+    prompt: >-
+      What renewal provisions apply? Is renewal automatic or by agreement? State the renewal period, notice requirements to prevent renewal, and any conditions on renewal.
+  - index: 5
+    name: "Delivery"
+    format: "text"
+    prompt: >-
+      What delivery obligations and terms apply? Identify the delivery terms (e.g. Incoterms), delivery lead times, delivery locations, risk of loss, and any consequences for late or failed delivery.
+  - index: 6
+    name: "Quality"
+    format: "text"
+    prompt: >-
+      What quality standards or specifications apply to the products? Identify any applicable standards (e.g. ISO, regulatory requirements), inspection rights, acceptance procedures, and consequences of non-conformance.
+  - index: 7
+    name: "Warranties"
+    format: "text"
+    prompt: >-
+      What warranties does the supplier give in relation to the products? State the warranty period, the scope of the warranty (e.g. free from defects, conformance to specifications), the remedy for breach (e.g. repair, replacement, refund), and any exclusions.
+  - index: 8
+    name: "Liquidated Damages"
+    format: "text"
+    prompt: >-
+      Are there any liquidated damages provisions? If so, identify what triggers them (e.g. late delivery, failure to meet quality standards), the applicable rate or formula, any aggregate cap, and whether they are stated to be the exclusive remedy.
+  - index: 9
+    name: "Limitation of Liability"
+    format: "text"
+    prompt: >-
+      What limitations of liability apply? Identify any caps on liability (and how they are calculated, e.g. contract value, fees paid), exclusions of consequential or indirect loss, and any carve-outs from the limitation (e.g. fraud, wilful misconduct, death or personal injury).
+  - index: 10
+    name: "Force Majeure"
+    format: "text"
+    prompt: >-
+      Summarise the force majeure clause. What events qualify, what obligations are suspended, what notice must be given, how long must the event persist before either party may terminate, and what are the consequences of termination for force majeure?
+  - index: 11
+    name: "Termination Rights"
+    format: "text"
+    prompt: >-
+      What are the termination rights of each party? Distinguish between termination for convenience (including notice period) and termination for cause (including cure periods and triggers). Note what happens on termination, including any outstanding purchase orders or payment obligations.
+  - index: 12
+    name: "Governing Law"
+    format: "text"
+    prompt: >-
+      What governing law applies to this agreement? State the jurisdiction and any specific legal system referenced.
+  - index: 13
+    name: "Dispute Resolution"
+    format: "text"
+    prompt: >-
+      How are disputes resolved under this agreement? Identify whether disputes go to litigation or arbitration, the chosen forum or seat, and any mandatory escalation steps (e.g. negotiation, mediation) before formal proceedings.

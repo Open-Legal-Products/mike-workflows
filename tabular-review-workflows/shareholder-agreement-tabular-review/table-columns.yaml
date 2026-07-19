@@ -1,0 +1,102 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Parties"
+    format: "bulleted_list"
+    prompt: >-
+      Identify all parties to this shareholder agreement. For each, state their full legal name, jurisdiction of incorporation or establishment (if stated), and their role (e.g. company, majority shareholder, minority shareholder, investor, founder, management shareholder).
+  - index: 1
+    name: "Date"
+    format: "date"
+    prompt: >-
+      What is the date of this shareholder agreement?
+  - index: 2
+    name: "Share Capital & Classes"
+    format: "bulleted_list"
+    prompt: >-
+      What classes of shares are in issue or contemplated by this agreement? For each class, describe the key rights attaching to it including voting rights, dividend rights, liquidation preference (if any), and any conversion or redemption features.
+  - index: 3
+    name: "Shareholdings"
+    format: "bulleted_list"
+    prompt: >-
+      What are the shareholdings of each party as set out or contemplated in this agreement? For each shareholder, state the number of shares held, the class, and the percentage of total share capital (on a fully diluted basis if stated).
+  - index: 4
+    name: "Board Composition"
+    format: "text"
+    prompt: >-
+      How is the board of directors constituted under this agreement? State the total number of directors, each shareholder's or class of shareholders' right to appoint or nominate directors (and the threshold shareholding required to maintain that right), and any provisions for a chairman or casting vote.
+  - index: 5
+    name: "Reserved Matters"
+    format: "bulleted_list"
+    prompt: >-
+      What are the reserved matters or veto rights set out in this agreement? List each matter that requires shareholder or director approval beyond an ordinary majority (e.g. special majority, unanimity, or the consent of a specific shareholder). Identify the applicable threshold or whose consent is required for each.
+  - index: 6
+    name: "Pre-emption on New Shares"
+    format: "text"
+    prompt: >-
+      What pre-emption rights apply on the issuance of new shares? Describe who holds pre-emption rights, the procedure for offering new shares to existing shareholders, the timeline for acceptance, and any carve-outs or exceptions (e.g. shares issued under an employee option scheme, permitted issuances).
+  - index: 7
+    name: "Transfer Restrictions"
+    format: "text"
+    prompt: >-
+      What restrictions apply to the transfer of shares? Identify any lock-up periods (and their duration), which transfers are prohibited outright, and which transfers are permitted without consent (e.g. transfers to affiliates or family trusts). Note any board or shareholder approval requirements for transfers.
+  - index: 8
+    name: "Right of First Refusal / Pre-emption on Transfer"
+    format: "text"
+    prompt: >-
+      Is there a right of first refusal or pre-emption right on a proposed transfer of shares? If so, describe who holds the right, the procedure for triggering and exercising it (including notice periods and pricing mechanics), and any exceptions.
+  - index: 9
+    name: "Drag-Along Rights"
+    format: "text"
+    prompt: >-
+      Are there drag-along rights? If so, identify who holds the drag right (e.g. majority shareholders above a specified threshold), the threshold required to trigger a drag, the obligations imposed on dragged shareholders, any conditions on the drag (e.g. minimum price, independent valuation), and any protections for minority shareholders.
+  - index: 10
+    name: "Tag-Along Rights"
+    format: "text"
+    prompt: >-
+      Are there tag-along rights? If so, identify who holds the tag right, the threshold transfer that triggers the tag, the procedure for exercising the tag (including notice periods), the price and terms on which the tagging shareholder may sell, and any exceptions.
+  - index: 11
+    name: "Anti-Dilution Protections"
+    format: "text"
+    prompt: >-
+      Are there any anti-dilution protections for any class of shareholders? If so, describe the type of protection (e.g. full ratchet, weighted average, broad-based or narrow-based), the trigger events, how the adjusted price or entitlement is calculated, and any exceptions (e.g. permitted issuances excluded from the calculation).
+  - index: 12
+    name: "Dividend Policy"
+    format: "text"
+    prompt: >-
+      What dividend provisions are set out in this agreement? Describe any obligation or policy to pay dividends (e.g. a minimum percentage of distributable profits), any preferential dividend rights attaching to a particular class of shares, and any restrictions on dividend payments (e.g. subject to available profits, board or shareholder approval, lender consent).
+  - index: 13
+    name: "Exit & Liquidity Provisions"
+    format: "text"
+    prompt: >-
+      What exit or liquidity provisions are included? Describe any agreed exit mechanisms (e.g. trade sale, IPO, drag-along sale), any timelines or milestones by which an exit is targeted, any shareholder rights to initiate or compel an exit process after a specified period, and any preference on exit proceeds attaching to a particular class of shares.
+  - index: 14
+    name: "Deadlock"
+    format: "text"
+    prompt: >-
+      How is deadlock addressed? Describe any deadlock resolution mechanisms (e.g. escalation to senior management, mediation, Russian roulette / shoot-out provisions, put/call options). For each mechanism, state the trigger conditions, the procedure, and the consequences if deadlock is not resolved.
+  - index: 15
+    name: "Non-Compete & Non-Solicitation"
+    format: "text"
+    prompt: >-
+      Are any shareholders subject to non-compete or non-solicitation obligations? If so, identify which shareholders are bound, the scope of the restriction (activities and geography), and the duration (during the term of the agreement and/or for a period after a shareholder ceases to hold shares). Note any carve-outs.
+  - index: 16
+    name: "Confidentiality"
+    format: "text"
+    prompt: >-
+      What confidentiality obligations are imposed on the shareholders? State the scope of confidential information covered, the permitted disclosures (e.g. to professional advisers, affiliates, lenders), and the duration of the obligation. Note whether the obligation survives termination of the agreement.
+  - index: 17
+    name: "Warranties"
+    format: "text"
+    prompt: >-
+      What warranties are given by the shareholders under this agreement? Identify who gives warranties, the subject matter (e.g. title to shares, capacity, no encumbrances, no conflicts), any limitations on warranty claims (e.g. time limits, caps, knowledge qualifications), and any indemnities given alongside the warranties.
+  - index: 18
+    name: "Governing Law"
+    format: "text"
+    prompt: >-
+      What governing law applies to this agreement? State the jurisdiction and any specific legal system referenced.
+  - index: 19
+    name: "Dispute Resolution"
+    format: "text"
+    prompt: >-
+      How are disputes resolved under this agreement? Identify whether disputes go to litigation or arbitration, the chosen forum or seat, any mandatory escalation steps, and whether jurisdiction is exclusive.

@@ -1,0 +1,102 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Landlord"
+    format: "text"
+    prompt: >-
+      Who is the landlord under this lease? State the full legal name, jurisdiction of incorporation or registration (if applicable), and any registered address or title number stated.
+  - index: 1
+    name: "Tenant"
+    format: "text"
+    prompt: >-
+      Who is the tenant under this lease? State the full legal name, jurisdiction of incorporation or registration (if applicable), and any registered address stated.
+  - index: 2
+    name: "Guarantor"
+    format: "text"
+    prompt: >-
+      Is there a guarantor under this lease? If so, state the guarantor's full legal name and the scope of the guarantee (e.g. full guarantee of the tenant's obligations, or limited to specific obligations). If there is no guarantor, state this explicitly.
+  - index: 3
+    name: "Premises"
+    format: "text"
+    prompt: >-
+      Describe the premises demised under this lease. Include the address, floor(s), unit reference, net internal area (if stated), and any areas included or excluded from the demise (e.g. common parts, roof, structure, car parking).
+  - index: 4
+    name: "Date of Lease"
+    format: "date"
+    prompt: >-
+      What is the date of this lease? If the lease is undated or if the term commencement date differs from the execution date, note both.
+  - index: 5
+    name: "Term"
+    format: "text"
+    prompt: >-
+      What is the contractual term of this lease? State the length of the term and the term commencement and expiry dates.
+  - index: 6
+    name: "Rent"
+    format: "monetary_amount"
+    prompt: >-
+      What is the initial annual rent payable under this lease? State the amount, the currency, the payment frequency (e.g. quarterly in advance), and the payment dates. Note any rent-free period or initial concessionary rent.
+  - index: 7
+    name: "Rent Review"
+    format: "text"
+    prompt: >-
+      Are there rent review provisions? If so, state the review dates or frequency, the review mechanism (e.g. open market rent review, RPI/CPI indexation, fixed uplift), whether the review is upward-only, any assumptions and disregards applicable to an open market review, and the dispute resolution mechanism if the parties cannot agree the reviewed rent.
+  - index: 8
+    name: "Service Charge"
+    format: "text"
+    prompt: >-
+      Is the tenant liable for a service charge? If so, describe what costs are included within the service charge, the tenant's apportionment or percentage share, any cap on the service charge, and how the service charge is administered and reconciled.
+  - index: 9
+    name: "Insurance"
+    format: "text"
+    prompt: >-
+      What are the insurance obligations under this lease? State who insures (landlord or tenant), what risks must be insured, who bears the insurance premium cost, and the tenant's obligations in respect of the landlord's insurance (e.g. not to vitiate the policy, to pay the premium as additional rent).
+  - index: 10
+    name: "Permitted Use"
+    format: "text"
+    prompt: >-
+      What is the permitted use of the premises under this lease? State the use class or specific use permitted and identify any restrictions on use. Note whether the landlord's consent is required to change use and on what basis consent may be withheld.
+  - index: 11
+    name: "Repair & Maintenance"
+    format: "text"
+    prompt: >-
+      Who is responsible for repair and maintenance of the premises? Describe the extent of the tenant's repairing obligation (e.g. full repairing, internal repairing only, subject to a schedule of condition). State the landlord's repairing obligations, if any, in respect of the structure, exterior, or common parts.
+  - index: 12
+    name: "Alterations"
+    format: "text"
+    prompt: >-
+      What alterations may the tenant make to the premises? Distinguish between structural and non-structural alterations. Is landlord consent required, and if so on what basis may it be withheld? Must the tenant reinstate alterations at the end of the term?
+  - index: 13
+    name: "Assignment & Subletting"
+    format: "text"
+    prompt: >-
+      What rights does the tenant have to assign or sublet the premises? State whether assignment and subletting are permitted with landlord consent, on what grounds consent may be withheld, any conditions to be satisfied (e.g. an authorised guarantee agreement on assignment, rent at no less than the passing rent on subletting), and whether any dealings are prohibited outright.
+  - index: 14
+    name: "Break Rights"
+    format: "text"
+    prompt: >-
+      Are there any break rights in this lease? If so, identify who holds the break right (landlord, tenant, or both), the break date(s), the notice period and form required to exercise the break, and any pre-conditions to effective exercise (e.g. no material breach, vacant possession, payment of all sums due).
+  - index: 15
+    name: "Security of Tenure"
+    format: "text"
+    prompt: >-
+      Does the tenant have statutory security of tenure (e.g. under the Landlord and Tenant Act 1954 in England and Wales, or equivalent legislation in another jurisdiction)? Answer Yes if the lease is contracted in or benefits from security of tenure. Answer No if the lease has been contracted out or if security of tenure does not apply. State the basis for your answer.
+  - index: 16
+    name: "Dilapidations"
+    format: "text"
+    prompt: >-
+      What dilapidations obligations apply at the end of the term? Describe the tenant's yield-up obligations (e.g. to deliver the premises in repair, to reinstate alterations, to redecorate). Is there a schedule of condition limiting the tenant's liability? Note any dilapidations cap or other limitation on the landlord's claim.
+  - index: 17
+    name: "Rent Deposit"
+    format: "text"
+    prompt: >-
+      Is a rent deposit required? If so, state the amount, the period for which it is held, the conditions under which the landlord may draw on it, and the circumstances in which it is returned to the tenant.
+  - index: 18
+    name: "Forfeiture & Termination"
+    format: "text"
+    prompt: >-
+      What are the landlord's forfeiture or termination rights? Identify the events that entitle the landlord to forfeit the lease (e.g. non-payment of rent after a grace period, material breach of covenant, insolvency) and any notice requirements before forfeiture can be exercised.
+  - index: 19
+    name: "Governing Law"
+    format: "text"
+    prompt: >-
+      What governing law applies to this lease and which courts have jurisdiction over disputes?

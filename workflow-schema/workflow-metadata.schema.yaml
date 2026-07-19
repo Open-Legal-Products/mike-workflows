@@ -1,0 +1,73 @@
+"$schema": "https://json-schema.org/draft/2020-12/schema"
+title: "Mike workflow SKILL.md frontmatter"
+description: "The Agent Skills frontmatter format with Mike workflow metadata."
+type: object
+additionalProperties: false
+required:
+  - name
+  - description
+  - license
+  - metadata
+properties:
+  name:
+    type: string
+    minLength: 1
+    maxLength: 64
+    pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+  description:
+    type: string
+    minLength: 1
+    maxLength: 1024
+  license:
+    type: string
+    minLength: 1
+  compatibility:
+    type: string
+    minLength: 1
+    maxLength: 500
+  metadata:
+    type: object
+    required:
+      - version
+      - author
+      - language
+      - mike-display-name
+      - mike-type
+      - mike-availability
+      - practice
+      - jurisdictions
+    properties:
+      version:
+        type: string
+        minLength: 1
+      author:
+        description: "Name of the workflow author or publishing organisation."
+        type: string
+        minLength: 1
+      language:
+        type: string
+        minLength: 1
+      mike-display-name:
+        type: string
+        minLength: 1
+      mike-type:
+        enum:
+          - assistant
+          - tabular
+      mike-availability:
+        description: Whether the workflow ships with Mike or is installed as an add-on.
+        enum:
+          - system
+          - add-on
+      practice:
+        type: string
+        minLength: 1
+      jurisdictions:
+        description: A comma-separated list of applicable jurisdictions.
+        type: string
+        minLength: 1
+    additionalProperties:
+      type: string
+  allowed-tools:
+    type: string
+    minLength: 1

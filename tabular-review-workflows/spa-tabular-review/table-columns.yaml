@@ -1,0 +1,67 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Parties"
+    format: "bulleted_list"
+    prompt: >-
+      Identify all parties to this share purchase agreement. For each, state their full legal name, jurisdiction of incorporation (if stated), and their role (e.g. seller, buyer, target company, warrantor, guarantor).
+  - index: 1
+    name: "Date"
+    format: "date"
+    prompt: >-
+      What is the date of this share purchase agreement?
+  - index: 2
+    name: "Transaction"
+    format: "text"
+    prompt: >-
+      Summarise the transaction. What shares or interests are being acquired, in which target company or companies, and what is the nature of the transaction (e.g. 100% acquisition, majority stake, minority investment)?
+  - index: 3
+    name: "Consideration"
+    format: "monetary_amount"
+    prompt: >-
+      What is the consideration payable under this agreement? State the total headline price, the currency, and the structure (e.g. cash, shares, loan notes, deferred consideration, earnout). If the price is subject to adjustment (e.g. locked box, completion accounts), describe the mechanism.
+  - index: 4
+    name: "Key Conditions Precedent"
+    format: "bulleted_list"
+    prompt: >-
+      List the key conditions precedent (CPs) to completion. For each CP, state what must be satisfied or waived and by whom. Identify any long-stop date by which CPs must be satisfied.
+  - index: 5
+    name: "Completion Date"
+    format: "text"
+    prompt: >-
+      When does completion occur? State how many business days after satisfaction or waiver of all CPs completion must occur, and/or any fixed outside date for completion. Note whether there is any obligation to complete by a specific date after signing.
+  - index: 6
+    name: "Warranties"
+    format: "text"
+    prompt: >-
+      Summarise the warranty package. Who gives the warranties (e.g. seller, management, all sellers jointly and severally)? Are there business warranties and/or title warranties? Identify the scope of any warranty disclosure process and any limitations on warranty claims (e.g. time limits, minimum claim thresholds, aggregate cap).
+  - index: 7
+    name: "Indemnities"
+    format: "text"
+    prompt: >-
+      Are there specific indemnities in this agreement? If so, list the key indemnities given, by whom, and for what potential liabilities (e.g. tax indemnity, environmental indemnity, litigation indemnity). Note any time limits or caps applicable to indemnity claims.
+  - index: 8
+    name: "Limitation of Liability"
+    format: "text"
+    prompt: >-
+      What limitations on liability apply to warranty and indemnity claims? Identify the aggregate cap (and how it is calculated, e.g. as a percentage of consideration), any separate cap for fundamental warranties or indemnities, minimum claim thresholds (de minimis and basket/deductible), and time limits for bringing claims.
+  - index: 9
+    name: "Covenants"
+    format: "text"
+    prompt: >-
+      What restrictive or other covenants are given by the seller or management? Include non-compete, non-solicitation, and non-dealing covenants, stating the scope (activities and geography) and duration of each.
+  - index: 10
+    name: "Exclusivity"
+    format: "text"
+    prompt: >-
+      Is there an exclusivity or no-shop provision in this agreement? If so, state the period of exclusivity, what activities are restricted (e.g. soliciting competing offers, engaging with third parties), and any carve-outs or break fee arrangements.
+  - index: 11
+    name: "Governing Law and Jurisdiction"
+    format: "text"
+    prompt: >-
+      What governing law applies to this agreement and what courts or arbitral tribunals have jurisdiction? State the chosen law, the forum for disputes, and whether jurisdiction is exclusive or non-exclusive.
+  - index: 12
+    name: "Dispute Resolution"
+    format: "text"
+    prompt: >-
+      How are disputes to be resolved under this agreement? Identify whether disputes go to litigation or arbitration, the chosen seat or forum, the applicable rules (if arbitration), and any mandatory pre-dispute escalation steps.

@@ -1,0 +1,55 @@
+name: Validate workflows
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install validation dependencies
+        run: python3 -m pip install check-jsonschema PyYAML
+
+      - name: Verify generated tabular instructions
+        run: |
+          python3 workflow-schema/generate-tabular-skills.py
+          git diff --exit-code
+
+      - name: Validate repository conventions
+        run: python3 workflow-schema/validate-workflows.py
+
+      - name: Validate schema documents
+        run: check-jsonschema --check-metaschema workflow-schema/*.schema.yaml
+
+      - name: Validate skill frontmatter schemas
+        run: |
+          frontmatter_dir="$(mktemp -d)"
+          python3 - "$frontmatter_dir" <<'PY'
+          import re
+          import sys
+          from pathlib import Path
+
+          destination = Path(sys.argv[1])
+          files = sorted(Path("assistant-workflows").glob("**/SKILL.md")) + sorted(Path("tabular-review-workflows").glob("**/SKILL.md"))
+          for index, file in enumerate(files):
+              match = re.match(r"---\n(.*?)\n---\n", file.read_text(), re.DOTALL)
+              if not match:
+                  raise SystemExit(f"Missing frontmatter: {file}")
+              (destination / f"{index}.yaml").write_text(match.group(1))
+          PY
+          check-jsonschema --schemafile workflow-schema/workflow-metadata.schema.yaml "$frontmatter_dir"/*.yaml
+
+      - name: Validate table-column schemas
+        run: find tabular-review-workflows -name table-columns.yaml -print0 | xargs -0 check-jsonschema --schemafile workflow-schema/table-columns.schema.yaml
+
+      - name: Validate pack schemas
+        run: find assistant-workflows tabular-review-workflows -path '*-pack/pack.json' -print0 | xargs -0 -r check-jsonschema --schemafile workflow-schema/pack.schema.yaml

@@ -1,0 +1,82 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Employer"
+    format: "text"
+    prompt: >-
+      Who is the employer under this agreement? State the full legal name and jurisdiction of incorporation or establishment.
+  - index: 1
+    name: "Employee"
+    format: "text"
+    prompt: >-
+      Who is the employee under this agreement? State their full name and, if provided, their address or location.
+  - index: 2
+    name: "Date"
+    format: "date"
+    prompt: >-
+      What is the date of this employment agreement? If a commencement date or start date differs from the signing date, state both.
+  - index: 3
+    name: "Title"
+    format: "text"
+    prompt: >-
+      What is the employee's job title or position as stated in this agreement? If a reporting line is specified, include it.
+  - index: 4
+    name: "Compensation"
+    format: "text"
+    prompt: >-
+      What is the employee's compensation under this agreement? State the base salary or wage, the currency, and the payment frequency (e.g. monthly, bi-weekly). Include any guaranteed bonus, commission, or other fixed remuneration elements.
+  - index: 5
+    name: "Full Time / Part Time"
+    format: "text"
+    prompt: >-
+      Is this a full-time or part-time position? If part-time, state the number of days or hours per week where specified.
+  - index: 6
+    name: "Independent Contractor?"
+    format: "text"
+    prompt: >-
+      Does the agreement characterise the worker as an independent contractor rather than an employee? Answer Yes if the agreement uses contractor, consultant, or self-employed language. Note any provisions that address the nature of the relationship.
+  - index: 7
+    name: "Benefits"
+    format: "bulleted_list"
+    prompt: >-
+      What benefits are the employee entitled to under this agreement? List each benefit (e.g. health insurance, pension/retirement contributions, life assurance, car allowance, share options, expense reimbursement). Note any eligibility conditions or limits.
+  - index: 8
+    name: "Notice Period (Employer to Employee)"
+    format: "text"
+    prompt: >-
+      What notice must the employer give to terminate the employee's employment (other than for cause)? State the notice period and any provisions for payment in lieu of notice.
+  - index: 9
+    name: "Notice Period (Employee to Employer)"
+    format: "text"
+    prompt: >-
+      What notice must the employee give to resign? State the notice period and any provisions for payment in lieu of notice or garden leave.
+  - index: 10
+    name: "Overtime"
+    format: "text"
+    prompt: >-
+      What provisions apply to overtime? Is the employee eligible for overtime pay, and if so at what rate? Or does the agreement state that the salary is inclusive of any overtime? Note any opt-out of statutory working time limits.
+  - index: 11
+    name: "Working Hours"
+    format: "text"
+    prompt: >-
+      What working hours are specified in this agreement? State the normal hours of work, any flexibility provisions, and whether the employee is expected to work additional hours as required.
+  - index: 12
+    name: "Variation"
+    format: "text"
+    prompt: >-
+      What provisions govern variation of the terms of this agreement? Can the employer unilaterally vary terms, or is the employee's consent required? Note any specific terms that are stated to be variable without consent.
+  - index: 13
+    name: "Intellectual Property Assignment"
+    format: "text"
+    prompt: >-
+      What intellectual property assignment provisions are included? Does the employee assign to the employer all IP created in the course of employment? Are there any carve-outs for pre-existing IP or inventions created outside working hours? Note any moral rights waiver.
+  - index: 14
+    name: "Grounds for Termination"
+    format: "bulleted_list"
+    prompt: >-
+      What grounds for summary dismissal or termination for cause are set out in the agreement? List each ground (e.g. gross misconduct, breach of confidentiality, insolvency, criminal conviction). Note whether summary dismissal is without notice or payment in lieu.
+  - index: 15
+    name: "Annual Leave Entitlement"
+    format: "text"
+    prompt: >-
+      What is the employee's annual leave entitlement? State the number of days (or weeks) per year, whether this is inclusive of or in addition to public holidays, and any provisions for accrual, carry-over, or payment of untaken leave on termination.

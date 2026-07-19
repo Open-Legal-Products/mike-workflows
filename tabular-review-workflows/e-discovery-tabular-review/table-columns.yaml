@@ -1,0 +1,37 @@
+$schema: "../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Date"
+    format: "date"
+    prompt: >-
+      What is the date of this document? For emails or correspondence, use the date sent. For other documents, use the date of creation, signature, or the most prominent date shown.
+  - index: 1
+    name: "Type of Document"
+    format: "text"
+    prompt: >-
+      What type of document is this? (e.g. email, memorandum, letter, contract, report, meeting minutes, text message, invoice, presentation). Be specific.
+  - index: 2
+    name: "Sender"
+    format: "text"
+    prompt: >-
+      Who is the sender or author of this document? State their full name, title, and organisation where identifiable.
+  - index: 3
+    name: "Recipient(s)"
+    format: "bulleted_list"
+    prompt: >-
+      Who are the recipients of this document? List all To, CC, and BCC recipients where identifiable. State their full name, title, and organisation for each. Note whether they appear in To, CC, or BCC fields.
+  - index: 4
+    name: "Summary"
+    format: "text"
+    prompt: >-
+      Provide a concise factual summary of the content of this document in 2–4 sentences. Focus on the key subject matter, any decisions made, actions requested, or information conveyed. Do not include legal conclusions.
+  - index: 5
+    name: "Persons Mentioned"
+    format: "bulleted_list"
+    prompt: >-
+      List all individuals mentioned in this document (other than the sender and recipients already identified). For each person, state their name and, if discernible, their role or organisation.
+  - index: 6
+    name: "Privileged?"
+    format: "text"
+    prompt: >-
+      Does this document appear to be legally privileged? Answer Yes if it appears to be a communication between a lawyer and client made for the dominant purpose of obtaining or giving legal advice, or created for the dominant purpose of litigation. Answer No otherwise. If uncertain, note the basis for uncertainty.
