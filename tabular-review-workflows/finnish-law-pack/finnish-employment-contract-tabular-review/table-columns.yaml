@@ -1,0 +1,67 @@
+$schema: "../../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Sopijapuolet"
+    format: "text"
+    prompt: >-
+      Ketkä ovat työsopimuksen osapuolet? Ilmoita työnantajan täydellinen nimi (ja Y-tunnus, jos mainittu) sekä työntekijän nimi. Merkitse lähteeksi sopimuksen kohta. Jos osapuolia ei ole yksilöity, merkitse "ei mainittu".
+  - index: 1
+    name: "Työsuhteen alkamispäivä"
+    format: "date"
+    prompt: >-
+      Milloin työnteko alkaa sopimuksen mukaan? Ilmoita alkamispäivä muodossa VVVV-KK-PP. Jos allekirjoituspäivä eroaa alkamispäivästä, ilmoita molemmat. Jos alkamispäivää ei ole mainittu, merkitse "ei mainittu".
+  - index: 2
+    name: "Sopimuksen kesto"
+    format: "text"
+    prompt: >-
+      Onko sopimus toistaiseksi voimassa oleva vai määräaikainen? Jos määräaikainen, ilmoita päättymispäivä tai kesto sekä sopimukseen kirjattu määräaikaisuuden peruste sanatarkasti. Lain olettama (TSL 1:3): sopimus on voimassa toistaiseksi, jollei sitä ole perustellusta syystä tehty määräaikaiseksi; työnantajan aloitteesta ilman perusteltua syytä tehty määräaikainen sopimus katsotaan toistaiseksi voimassa olevaksi. Jos määräaikaisuudelle ei ole kirjattu perustetta, merkitse se.
+  - index: 3
+    name: "Koeaika"
+    format: "text"
+    prompt: >-
+      Onko sopimuksessa sovittu koeajasta? Ilmoita koeajan pituus ja mahdolliset ehdot. Lain olettama (TSL 1:4): koeaikaa ei ole, ellei siitä ole sovittu; sovittu koeaika saa olla enintään kuusi kuukautta ja määräaikaisessa työsuhteessa enintään puolet sopimuksen kestosta. Jos sovittu koeaika ylittää nämä rajat, merkitse se. Jos koeajasta ei ole mainintaa, merkitse "ei mainittu".
+  - index: 4
+    name: "Työtehtävät"
+    format: "text"
+    prompt: >-
+      Mikä on työntekijän tehtävänimike ja mitkä ovat sovitut pääasialliset työtehtävät? Ilmoita myös mahdollinen ehto muiden tehtävien tekemisestä tai tehtävien yksipuolisesta muuttamisesta. Jos tehtäviä ei ole kuvattu, merkitse "ei mainittu".
+  - index: 5
+    name: "Työntekopaikka"
+    format: "text"
+    prompt: >-
+      Missä työ tehdään? Ilmoita sovittu työntekopaikka tai -paikkakunta sekä mahdolliset etätyö- ja liikkuvuusehdot (esim. velvollisuus työskennellä muissa toimipisteissä). Jos työntekopaikkaa ei ole mainittu, merkitse "ei mainittu".
+  - index: 6
+    name: "Työaika"
+    format: "text"
+    prompt: >-
+      Mikä on sovittu työaika? Ilmoita tuntimäärä vuorokaudessa ja/tai viikossa, koko- vai osa-aikaisuus, mahdollinen vaihteleva työaika (tuntihaarukka) sekä liukuma-, lisä- ja ylityöehdot. Lain olettama: yleinen säännöllinen työaika on työaikalain (872/2019) mukaan enintään 8 tuntia vuorokaudessa ja 40 tuntia viikossa; sovellettava työehtosopimus voi määrätä toisin. Jos työaikaa ei ole mainittu, merkitse "ei mainittu".
+  - index: 7
+    name: "Palkka ja luontoisedut"
+    format: "text"
+    prompt: >-
+      Mikä on sovittu palkka? Ilmoita palkan määrä ja valuutta, palkanmaksukausi ja palkanmaksupäivä sekä luontoisedut (esim. puhelin-, auto-, lounas- tai asuntoetu) ja mahdolliset bonus- tai provisioehdot. Lain olettama (TSL 2:10): jos palkasta ei ole sovittu eikä työehtosopimusta sovelleta, työntekijälle on maksettava tavanomainen ja kohtuullinen palkka. Jos palkkaa ei ole mainittu, merkitse "ei mainittu".
+  - index: 8
+    name: "Irtisanomisaika"
+    format: "text"
+    prompt: >-
+      Mitä irtisanomisajoista on sovittu? Ilmoita työnantajan ja työntekijän irtisanomisajat erikseen. Lain olettama (TSL 6:2–6:3): jos irtisanomisajasta ei ole sovittu, noudatetaan työsuhteen kestoon sidottuja yleisiä irtisanomisaikoja (työnantajalla 14 päivästä 6 kuukauteen, työntekijällä 14 päivästä 1 kuukauteen); työntekijän irtisanomisaika ei saa olla työnantajan aikaa pidempi. Jos irtisanomisajoista ei ole mainintaa, merkitse "ei mainittu".
+  - index: 9
+    name: "Kilpailukielto"
+    format: "text"
+    prompt: >-
+      Sisältääkö sopimus kilpailukieltoehdon? Ilmoita ehdon kesto työsuhteen päättymisen jälkeen, alueellinen ja asiallinen laajuus, sovittu korvaus rajoitusajalta ja mahdollinen sopimussakko, sekä lainaa kirjattu peruste sanatarkasti. Lain lähtökohta (TSL 3:5): kilpailukieltosopimus edellyttää erityisen painavaa syytä ja työnantajan on maksettava rajoitusajalta korvaus; ilman erityisen painavaa syytä ehto on mitätön. Jos kilpailukieltoa ei ole, merkitse "ei mainittu".
+  - index: 10
+    name: "Salassapito"
+    format: "text"
+    prompt: >-
+      Sisältääkö sopimus salassapitoehdon? Ilmoita ehdon kattavuus (liikesalaisuudet, muu luottamuksellinen tieto), kesto työsuhteen aikana ja sen päättymisen jälkeen sekä mahdollinen sopimussakko. Lain lähtökohta: liikesalaisuuksien suoja työsuhteen aikana seuraa suoraan laista (TSL 3:4 ja liikesalaisuuslaki 595/2018) ilman sopimusehtoakin; työsuhteen jälkeinen laajempi salassapito edellyttää sopimista. Jos salassapidosta ei ole mainintaa, merkitse "ei mainittu".
+  - index: 11
+    name: "Sovellettava työehtosopimus"
+    format: "text"
+    prompt: >-
+      Mitä työehtosopimusta (TES) sopimuksen mukaan sovelletaan? Ilmoita työehtosopimuksen nimi sellaisena kuin se on sopimukseen kirjattu. Lain lähtökohta (TSL 2:7): työnantajan on noudatettava vähintään alan yleissitovan työehtosopimuksen määräyksiä, vaikka sopimuksessa ei olisi TES-viittausta. Jos työehtosopimusta ei ole mainittu, merkitse "ei mainittu" ja huomioi, että yleissitova TES voi silti tulla sovellettavaksi.
+  - index: 12
+    name: "Poikkeavat ehdot ja riskihavainnot"
+    format: "bulleted_list"
+    prompt: >-
+      Luettele ehdot, jotka poikkeavat tavanomaisesta tai voivat olla pakottavan lain tai työehtosopimuksen vastaisia työntekijän vahingoksi: perusteeton määräaikaisuus, lain rajat ylittävä koeaika, kilpailukielto ilman perustetta tai korvausta, TES:n alittava palkka, yksipuoliset muutosoikeudet, epätavalliset sopimussakot tai muut riskiehdot. Merkitse jokaiseen havaintoon sopimuksen kohta, johon se perustuu. Jos poikkeavia ehtoja ei havaita, merkitse "ei havaintoja".

@@ -1,0 +1,57 @@
+$schema: "../../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Sopijapuolet"
+    format: "text"
+    prompt: >-
+      Ketkä ovat vuokrasopimuksen osapuolet? Ilmoita vuokranantajan ja vuokralaisen (tai vuokralaisten) täydelliset nimet sekä mahdollinen Y-tunnus ja maininta yhteisvastuusta, jos vuokralaisia on useita. Merkitse lähteeksi sopimuksen kohta. Jos osapuolia ei ole yksilöity, merkitse "ei mainittu".
+  - index: 1
+    name: "Huoneiston tiedot"
+    format: "text"
+    prompt: >-
+      Mikä huoneisto on vuokrattu? Ilmoita osoite, huoneistotyyppi ja pinta-ala sekä sopimukseen kirjatut lisätilat ja -oikeudet (autopaikka, varasto, avaimet) ja maininta huoneiston kunnosta tai alkukatselmuksesta. Jos tietoja ei ole kirjattu, merkitse "ei mainittu".
+  - index: 2
+    name: "Vuokran määrä"
+    format: "monetary_amount"
+    prompt: >-
+      Mikä on sovittu vuokra? Ilmoita vuokran määrä ja valuutta kuukaudessa sekä erikseen laskutettavat erät (vesimaksu, sähkö, autopaikka, saunamaksu), jos ne on kirjattu. Vuokran määrä perustuu sopimukseen; laissa ei ole olettamavuokraa. Jos vuokran määrää ei ole mainittu, merkitse "ei mainittu".
+  - index: 3
+    name: "Vuokran maksuaika ja -tapa"
+    format: "text"
+    prompt: >-
+      Milloin ja miten vuokra on maksettava? Ilmoita eräpäivä, maksukausi ja maksutapa tai tilitiedot, jos ne on kirjattu. Lain olettama (AHVL 34 §): jollei toisin ole sovittu, vuokra on maksettava viimeistään toisena päivänä vuokranmaksukauden alusta ja maksukausi on kuukausi. Jos maksuehtoja ei ole mainittu, merkitse "ei mainittu".
+  - index: 4
+    name: "Vuokrankorotusehto"
+    format: "text"
+    prompt: >-
+      Miten vuokraa tarkistetaan? Lainaa korotusehto sanatarkasti: korotusmekanismi (indeksi, prosentti, tasokorotus), tarkistusajankohta ja ilmoitusmenettely. Lain lähtökohta (AHVL 27 §): ilman sovittua korotusehtoa vuokranantaja ei voi korottaa vuokraa yksipuolisesti, vaan korotus edellyttää sopimista tai laissa säädettyä menettelyä. Jos korotusehtoa ei ole, merkitse "ei mainittu".
+  - index: 5
+    name: "Vakuus"
+    format: "text"
+    prompt: >-
+      Mitä vakuudesta on sovittu? Ilmoita vakuuden määrä (euroina tai kuukausivuokrina), muoto (rahavakuus, pankkitakaus, Kela-sitoumus), mitä velvoitteita se kattaa ja milloin se palautetaan. Lain pakottava raja (AHVL 8 §): vakuus saa olla enintään kolmen kuukauden vuokraa vastaava määrä; ylittävä ehto on tehoton — merkitse ylitys riskihavaintoihin. Jos vakuudesta ei ole sovittu, merkitse "ei mainittu".
+  - index: 6
+    name: "Sopimuksen kesto"
+    format: "text"
+    prompt: >-
+      Onko sopimus toistaiseksi voimassa oleva vai määräaikainen? Jos määräaikainen, ilmoita alkamis- ja päättymispäivä sekä mahdollinen ehto sopimuksen jatkumisesta määräajan jälkeen. Lain olettama (AHVL 4 §): vuokrasopimus on toistaiseksi voimassa oleva, jollei sitä ole sovittu määräaikaiseksi. Huomioi lyhyiden määräaikaisten sopimusten ketjutus riskihavaintona. Jos kestosta ei ole mainintaa, merkitse "ei mainittu".
+  - index: 7
+    name: "Irtisanomisaika"
+    format: "text"
+    prompt: >-
+      Mitä irtisanomisajoista on sovittu? Ilmoita vuokranantajan ja vuokralaisen irtisanomisajat erikseen ja mistä irtisanomisaika lasketaan. Lain olettama (AHVL 51–52 §): vuokralaisen irtisanomisaika on yksi kuukausi; vuokranantajan irtisanomisaika on kuusi kuukautta, jos vuokrasuhde on kestänyt yhtäjaksoisesti vähintään vuoden, muuten kolme kuukautta. Vuokralaisen vahingoksi poikkeava ehto on pakottavan lain vastainen — merkitse riskihavaintoihin. Jos irtisanomisajoista ei ole mainintaa, merkitse "ei mainittu".
+  - index: 8
+    name: "Vastuunjako kunnossapidosta"
+    format: "text"
+    prompt: >-
+      Miten kunnossapitovastuu on jaettu? Ilmoita, mitä vuokralaisen vastuulle on sopimuksessa siirretty (esim. pienet korjaukset, lamput, tulpat) ja mitä muutostöistä on sovittu. Lain olettama (AHVL 20 §): vuokranantaja vastaa huoneiston kunnosta ja kunnossapidosta, jollei toisin ole sovittu; vuokralaisella on ilmoitusvelvollisuus vioista. Jos vastuunjaosta ei ole sovittu, merkitse "ei mainittu".
+  - index: 9
+    name: "Alivuokraus ja huoneiston luovutus"
+    format: "text"
+    prompt: >-
+      Mitä alivuokrauksesta tai huoneiston hallinnan luovutuksesta on sovittu? Lainaa ehto, joka sallii, rajoittaa tai kieltää alivuokrauksen tai lyhytaikaisen edelleenvuokrauksen. Lain lähtökohta (AHVL 17 §): vuokralainen saa ilman lupaa käyttää tai luovuttaa alivuokralaiselle enintään puolet huoneistosta, jollei siitä aiheudu vuokranantajalle huomattavaa haittaa; koko huoneiston luovutus edellyttää pääsääntöisesti vuokranantajan lupaa tai laissa säädettyä perustetta. Jos asiasta ei ole mainintaa, merkitse "ei mainittu".
+  - index: 10
+    name: "Muut ehdot ja riskihavainnot"
+    format: "bulleted_list"
+    prompt: >-
+      Luettele muut olennaiset ehdot (tupakointi- ja lemmikkiehdot, kotivakuutusvelvoite, sopimussakot, häiriöehdot) sekä ehdot, jotka voivat olla pakottavan lain vastaisia vuokralaisen vahingoksi: vakuus yli kolmen kuukauden vuokran (AHVL 8 §), vuokralaisen irtisanomisaika yli yhden kuukauden (AHVL 51–52 §), yksipuolinen korotusoikeus ilman täsmällistä mekanismia, ehdot jotka rajoittavat lakisääteisiä oikeuksia. Merkitse jokaiseen havaintoon sopimuksen kohta, johon se perustuu. Jos havaintoja ei ole, merkitse "ei havaintoja".
