@@ -52,4 +52,4 @@ jobs:
         run: find tabular-review-workflows -name table-columns.yaml -print0 | xargs -0 check-jsonschema --schemafile workflow-schema/table-columns.schema.yaml
 
       - name: Validate pack schemas
-        run: find assistant-workflows tabular-review-workflows -path '*-pack/pack.json' -print0 | xargs -0 -r check-jsonschema --schemafile workflow-schema/pack.schema.yaml
+        run: find assistant-workflows tabular-review-workflows -path '*-pack/pack.yaml' -print0 | xargs -0 -r check-jsonschema --schemafile workflow-schema/pack.schema.yaml

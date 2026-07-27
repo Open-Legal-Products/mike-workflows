@@ -44,6 +44,14 @@ properties:
   version:
     type: string
     pattern: "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$"
+  practice:
+    description: Optional practice area represented by the pack.
+    type: string
+    minLength: 1
+  jurisdiction:
+    description: Optional jurisdiction represented by the pack.
+    type: string
+    minLength: 1
   source:
     type:
       - object

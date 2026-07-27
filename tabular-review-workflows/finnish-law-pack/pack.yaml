@@ -1,0 +1,16 @@
+$schema: "../../workflow-schema/pack.schema.yaml"
+id: "finnish-law"
+title: "Finnish Law Tabular Reviews"
+description: "Tabular review workflows for Finnish legal documents: Finnish employment contracts (tyosopimus) under the Employment Contracts Act (55/2001) and Finnish residential leases (vuokrasopimus) under the Act on Residential Leases (481/1995). Column prompts are in Finnish; adapted from the open-source claude-for-legal-finland collection."
+publisher:
+  name: "Aku Nikkola"
+  url: "https://akunikkola.github.io/claude-for-legal-finland/"
+license: "MIT"
+version: "1.0.1"
+jurisdiction: "Finland"
+source:
+  repo: "https://github.com/akunikkola/claude-for-legal-finland"
+  url: "https://akunikkola.github.io/claude-for-legal-finland/"
+workflows:
+  - "finnish-employment-contract-tabular-review"
+  - "finnish-residential-lease-tabular-review"
