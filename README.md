@@ -23,7 +23,7 @@ mike-legal-workflows/
     <workflow-id>/
       SKILL.md
     <pack-id>-pack/
-      pack.json
+      pack.yaml
       <workflow-id>/
         SKILL.md
 
@@ -32,7 +32,7 @@ mike-legal-workflows/
       SKILL.md
       table-columns.yaml
     <pack-id>-pack/
-      pack.json
+      pack.yaml
       <workflow-id>/
         SKILL.md
         table-columns.yaml
@@ -148,33 +148,33 @@ easy for both people and Mike to identify.
 ```text
 assistant-workflows/
   commercial-drafting-pack/
-    pack.json
+    pack.yaml
     draft-service-agreement/
       SKILL.md
     draft-nda/
       SKILL.md
 ```
 
-The pack's `pack.json` lists its direct child workflow folders:
+The pack's `pack.yaml` lists its direct child workflow folders:
 
-```json
-{
-  "$schema": "../../workflow-schema/pack.schema.yaml",
-  "id": "commercial-drafting",
-  "title": "Commercial Drafting",
-  "description": "Add-on workflows for drafting commercial agreements.",
-  "publisher": {
-    "name": "Mike"
-  },
-  "license": "MIT",
-  "version": "1.0.0",
-  "workflows": [
-    "draft-service-agreement",
-    "draft-nda"
-  ],
-  "required_connectors": []
-}
+```yaml
+$schema: "../../workflow-schema/pack.schema.yaml"
+id: "commercial-drafting"
+title: "Commercial Drafting"
+description: "Add-on workflows for drafting commercial agreements."
+publisher:
+  name: "Mike"
+license: "MIT"
+version: "1.0.0"
+practice: "General Transactions"
+workflows:
+  - "draft-service-agreement"
+  - "draft-nda"
+required_connectors: []
 ```
+
+Packs may optionally declare a `practice`, a `jurisdiction`, or both to
+describe the bundle. These values are non-empty strings when present.
 
 Each listed directory must exist directly inside the pack folder, and each
 workflow in a pack must declare `mike-availability: "add-on"` inside its

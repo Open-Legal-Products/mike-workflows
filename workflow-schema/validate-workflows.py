@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import json
 import re
 import sys
 from pathlib import Path
@@ -14,6 +13,10 @@ SKILL_KEYS = {"name", "description", "license", "compatibility", "metadata", "al
 METADATA_KEYS = {
     "version", "author", "language", "mike-display-name", "mike-type",
     "mike-availability", "practice", "jurisdictions",
+}
+PACK_KEYS = {
+    "$schema", "id", "title", "description", "publisher", "license", "version",
+    "practice", "jurisdiction", "source", "workflows", "required_connectors",
 }
 NAME_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 SEMVER_PATTERN = re.compile(r"^[0-9]+\.[0-9]+\.[0-9]+(?:-[0-9A-Za-z.-]+)?$")
@@ -200,8 +203,8 @@ for file in column_files:
             errors.append(f"{file}: {label} may only define tags when format is tag")
 
 pack_files = unique_sorted(
-    list((ROOT / "assistant-workflows").glob("*-pack/pack.json"))
-    + list((ROOT / "tabular-review-workflows").glob("*-pack/pack.json"))
+    list((ROOT / "assistant-workflows").glob("*-pack/pack.yaml"))
+    + list((ROOT / "tabular-review-workflows").glob("*-pack/pack.yaml"))
 )
 pack_folders = unique_sorted(
     list((ROOT / "assistant-workflows").glob("*-pack"))
@@ -209,20 +212,22 @@ pack_folders = unique_sorted(
 )
 
 for folder in pack_folders:
-    if folder.is_dir() and not (folder / "pack.json").is_file():
-        errors.append(f"{folder}: missing pack.json")
+    if folder.is_dir() and not (folder / "pack.yaml").is_file():
+        errors.append(f"{folder}: missing pack.yaml")
 
 for file in pack_files:
-    try:
-        data = json.loads(file.read_text())
-    except json.JSONDecodeError as error:
-        errors.append(f"{file}: invalid JSON: {error}")
+    data = load_yaml(file)
+    if not isinstance(data, dict):
         continue
 
     required = {"id", "title", "description", "publisher", "license", "version", "workflows"}
     missing = required - set(data)
     if missing:
         errors.append(f"{file}: missing fields: {', '.join(sorted(missing))}")
+
+    unknown_keys = set(data) - PACK_KEYS
+    if unknown_keys:
+        errors.append(f"{file}: unsupported fields: {', '.join(sorted(unknown_keys))}")
 
     folder = file.parent
     expected_id = folder.name.removesuffix("-pack")
@@ -233,6 +238,10 @@ for file in pack_files:
         errors.append(f"{file}: invalid id")
     if not SEMVER_PATTERN.fullmatch(str(data.get("version", ""))):
         errors.append(f"{file}: version must use semantic versioning")
+
+    for field in ("practice", "jurisdiction"):
+        if field in data and (not isinstance(data[field], str) or not data[field]):
+            errors.append(f"{file}: {field} must be a non-empty string")
 
     schema_ref = data.get("$schema")
     schema_file = (folder / schema_ref).resolve() if isinstance(schema_ref, str) else None
