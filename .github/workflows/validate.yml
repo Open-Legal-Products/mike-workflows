@@ -27,6 +27,9 @@ jobs:
       - name: Validate repository conventions
         run: python3 workflow-schema/validate-workflows.py
 
+      - name: Test workflow validation helpers
+        run: python3 -m unittest discover -s workflow-schema -p 'test_*.py'
+
       - name: Validate schema documents
         run: check-jsonschema --check-metaschema workflow-schema/*.schema.yaml
 

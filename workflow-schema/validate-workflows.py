@@ -2,15 +2,17 @@
 
 import re
 import sys
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 import yaml
+
+from workflow_validation import docx_assets, docx_references, validate_docx
 
 
 ROOT = Path(__file__).resolve().parent.parent
 FORMATS = {"text", "date", "monetary_amount", "percentage", "bulleted_list", "yes_no", "tag"}
 SKILL_KEYS = {"name", "description", "license", "compatibility", "metadata", "allowed-tools"}
-METADATA_KEYS = {
+REQUIRED_METADATA_KEYS = {
     "version", "author", "language", "mike-display-name", "mike-type",
     "mike-availability", "practice", "jurisdictions",
 }
@@ -108,7 +110,7 @@ for file in skill_files:
         errors.append(f"{file}: metadata must be a map")
         continue
 
-    missing_metadata = METADATA_KEYS - set(metadata)
+    missing_metadata = REQUIRED_METADATA_KEYS - set(metadata)
     if missing_metadata:
         errors.append(f"{file}: missing metadata: {', '.join(sorted(missing_metadata))}")
     if not all(isinstance(value, str) for value in metadata.values()):
@@ -135,6 +137,42 @@ for file in skill_files:
             errors.append(f"{file}: missing table-columns.yaml")
 
     body = frontmatter_pattern.sub("", text, count=1)
+    referenced_documents = docx_references(body)
+    asset_documents = docx_assets(file.parent)
+    if (referenced_documents or asset_documents) and expected_type != "assistant":
+        errors.append(
+            f"{file}: DOCX assets are only supported for assistant workflows"
+        )
+
+    for reference in sorted(referenced_documents):
+        reference_path = PurePosixPath(reference)
+        valid_path = (
+            reference == reference_path.as_posix()
+            and len(reference_path.parts) >= 2
+            and reference_path.parts[0] == "assets"
+            and ".." not in reference_path.parts
+        )
+        if not valid_path:
+            errors.append(f"{file}: invalid DOCX reference: {reference}")
+            continue
+
+        target = file.parent / reference
+        within_workflow = target.resolve().is_relative_to(file.parent.resolve())
+        if not within_workflow or target.is_symlink() or not target.is_file():
+            errors.append(f"{file}: missing DOCX asset: {reference}")
+
+    for asset_document in asset_documents:
+        reference = asset_document.relative_to(file.parent).as_posix()
+        within_workflow = asset_document.resolve().is_relative_to(file.parent.resolve())
+        if not within_workflow or asset_document.is_symlink() or not asset_document.is_file():
+            errors.append(f"{file}: invalid DOCX asset: {reference}")
+            continue
+        docx_error = validate_docx(asset_document)
+        if docx_error:
+            errors.append(f"{file}: invalid DOCX asset {reference}: {docx_error}")
+        if reference not in referenced_documents:
+            errors.append(f"{file}: SKILL.md must reference {reference}")
+
     for pattern, label in PROHIBITED_SKILL_PATTERNS.items():
         if pattern.search(body):
             errors.append(f"{file}: contains {label}")

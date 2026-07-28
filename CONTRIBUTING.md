@@ -15,6 +15,8 @@ portable, and easy to review.
   commands, named harness tools, or implementation-specific object models.
 - Do not invent legal conclusions that are unsupported by the source material.
 - Preserve stable workflow and pack identifiers after publication.
+- Store assistant workflow document templates under `assets/` and reference
+  each relative path in `SKILL.md`.
 
 ## Tabular Reviews
 
