@@ -4,7 +4,7 @@ description: "Review an uploaded Business Process Outsourcing (BPO), IS outsourc
 license: "MIT"
 metadata:
   version: "1.0.0"
-  author: "Open Legal Products"
+  author: "Polina Chtchelok"
   language: "English"
   mike-display-name: "BPO Agreement Review"
   mike-type: "assistant"
