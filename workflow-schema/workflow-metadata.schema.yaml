@@ -39,7 +39,7 @@ properties:
     properties:
       version:
         type: string
-        minLength: 1
+        pattern: '^[0-9]+\.[0-9]+\.[0-9]+(?:-[0-9A-Za-z.-]+)?$'
       author:
         description: "Name of the workflow author or publishing organisation."
         type: string

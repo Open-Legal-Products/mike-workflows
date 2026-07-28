@@ -229,6 +229,31 @@ display name, treat `mike-display-name` as immutable after publication. A
 breaking rename requires an explicit migration or alias in the consuming
 application.
 
+## Reference Documents
+
+Assistant workflows may bundle document templates and other reference
+documents in the standard Agent Skills `assets/` directory:
+
+```text
+assistant-workflows/
+  draft-service-agreement/
+    SKILL.md
+    assets/
+      service-agreement-template.docx
+```
+
+Reference each document directly from the `SKILL.md` body using its relative
+path:
+
+```markdown
+Use the bundled template at `assets/service-agreement-template.docx` as the
+starting document.
+```
+
+Reference documents are currently supported only for assistant workflows.
+Every bundled `.docx` file must be located under `assets/` and referenced by
+`SKILL.md`; no additional metadata declaration is required.
+
 Tabular review `table-columns.yaml` files use:
 
 ```yaml
