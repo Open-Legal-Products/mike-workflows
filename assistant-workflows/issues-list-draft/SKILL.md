@@ -1,18 +1,18 @@
 ---
-name: "draft-issues-list"
+name: "issues-list-draft"
 description: "Review the uploaded agreement and draft a comprehensive issues list from the perspective of the party represented by the user/client."
 license: "MIT"
 metadata:
-  version: "1.0.0"
+  version: "2.0.0"
   author: "Open Legal Products"
   language: "English"
-  mike-display-name: "Draft Issues List"
+  mike-display-name: "Issues List Draft"
   mike-type: "assistant"
   mike-availability: "system"
   practice: "General Transactions"
   jurisdictions: "General"
 ---
-# Draft Issues List
+# Issues List Draft
 
 ## Instructions
 
