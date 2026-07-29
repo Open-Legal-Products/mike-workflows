@@ -1,18 +1,18 @@
 ---
-name: "draft-cp-checklist"
+name: "cp-checklist-draft"
 description: "Review the uploaded credit agreement or financing document and generate a comprehensive Conditions Precedent (CP) checklist."
 license: "MIT"
 metadata:
-  version: "1.0.0"
+  version: "2.0.0"
   author: "Open Legal Products"
   language: "English"
-  mike-display-name: "Draft CP Checklist"
+  mike-display-name: "CP Checklist Draft"
   mike-type: "assistant"
   mike-availability: "system"
   practice: "General Transactions"
   jurisdictions: "General"
 ---
-# Draft Conditions Precedent Checklist
+# CP Checklist Draft
 
 Review the uploaded credit agreement or financing document and generate a comprehensive Conditions Precedent (CP) checklist.
 
