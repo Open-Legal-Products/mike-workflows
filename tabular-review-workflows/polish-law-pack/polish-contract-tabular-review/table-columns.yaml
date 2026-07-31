@@ -1,0 +1,111 @@
+$schema: "../../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Strony umowy"
+    format: "bulleted_list"
+    prompt: |-
+      Wymień wszystkie strony umowy. Dla każdej strony podaj pełną firmę lub imię i nazwisko, formę prawną, numer KRS lub NIP jeśli wskazano, oraz rolę zdefiniowaną w umowie, np.:
+      • ABC sp. z o.o., KRS 0000123456 ("Zleceniodawca")
+      • Jan Kowalski ("Wykonawca")
+      Jedna strona na punkt, bez dodatkowego komentarza.
+  - index: 1
+    name: "Prawo właściwe"
+    format: "text"
+    prompt: >-
+      Podaj wyłącznie prawo właściwe dla umowy, w skróconej formie, np. "prawo
+      polskie", "prawo niemieckie". Bez innego tekstu.
+  - index: 2
+    name: "Właściwość sądu"
+    format: "text"
+    prompt: >-
+      Wskaż sąd właściwy do rozstrzygania sporów albo zapis na sąd polubowny
+      (arbitraż). Podaj nazwę sądu lub instytucji arbitrażowej i siedzibę.
+      Jeśli brak postanowienia, napisz "Nie wskazano".
+  - index: 3
+    name: "Data zawarcia"
+    format: "date"
+    prompt: >-
+      Podaj wyłącznie datę zawarcia lub wejścia w życie umowy w formacie DD
+      miesiąc RRRR, np. "2 stycznia 2026". Jeśli nie wskazano wprost, napisz
+      "Nie wskazano".
+  - index: 4
+    name: "Okres obowiązywania"
+    format: "text"
+    prompt: >-
+      Podaj czas trwania lub okres obowiązywania umowy w zwięzłej formie, np.
+      "3 lata", "24 miesiące", "czas nieoznaczony". Bez innego tekstu.
+  - index: 5
+    name: "Wypowiedzenie"
+    format: "text"
+    prompt: >-
+      Wyodrębnij postanowienia o wypowiedzeniu i rozwiązaniu umowy. Podaj kto
+      może wypowiedzieć, przesłanki, okres wypowiedzenia, ewentualny termin na
+      usunięcie naruszenia oraz kluczowe skutki rozwiązania. Zwięźle.
+  - index: 6
+    name: "Kara umowna"
+    format: "text"
+    prompt: >-
+      Wyodrębnij zastrzeżone kary umowne: za jakie naruszenia, wysokość lub
+      sposób wyliczenia, ewentualny limit, oraz czy zastrzeżono prawo
+      dochodzenia odszkodowania przewyższającego karę umowną. Zwięźle.
+  - index: 7
+    name: "Ograniczenie odpowiedzialności"
+    format: "text"
+    prompt: >-
+      Opisz postanowienia o odpowiedzialności: zakres, limity kwotowe,
+      wyłączenia (np. szkody pośrednie, utracone korzyści) oraz wyjątki od
+      ograniczeń (np. wina umyślna). Zwięźle.
+  - index: 8
+    name: "Poufność"
+    format: "text"
+    prompt: >-
+      Podsumuj obowiązki zachowania poufności: zakres informacji poufnych,
+      dozwolone ujawnienia, ograniczenia korzystania, czas trwania oraz
+      kluczowe wyłączenia.
+  - index: 9
+    name: "Zakaz konkurencji"
+    format: "text"
+    prompt: >-
+      Opisz postanowienia o zakazie konkurencji: zakres przedmiotowy i
+      terytorialny, czas obowiązywania (w tym po zakończeniu umowy) oraz
+      ewentualne odszkodowanie lub karę umowną za naruszenie.
+  - index: 10
+    name: "Ochrona danych (RODO)"
+    format: "text"
+    prompt: >-
+      Ustal, czy zawarto umowę powierzenia przetwarzania danych osobowych
+      (art. 28 RODO). Jeśli tak, podaj zakres i cel przetwarzania, zasady
+      podpowierzenia oraz wskazane środki bezpieczeństwa. Jeśli brak, napisz
+      "Brak postanowień o powierzeniu".
+  - index: 11
+    name: "Cesja praw"
+    format: "yes_no"
+    prompt: >-
+      Czy przeniesienie praw lub obowiązków z umowy (cesja) jest dopuszczalne
+      bez zgody drugiej strony?
+  - index: 12
+    name: "Zabezpieczenia"
+    format: "bulleted_list"
+    prompt: >-
+      Wymień wszystkie ustanowione zabezpieczenia wykonania umowy (np. weksel,
+      poręczenie, zastaw, hipoteka, gwarancja bankowa, kaucja). Dla każdego
+      podaj rodzaj i kluczowe parametry. Jeden punkt na zabezpieczenie.
+  - index: 13
+    name: "Wynagrodzenie i płatność"
+    format: "text"
+    prompt: >-
+      Podaj kluczowe postanowienia o wynagrodzeniu i płatności: kwota, waluta,
+      termin, np. "10 000 zł netto płatne w 14 dni od faktury". Odnotuj skutki
+      opóźnienia w płatności (odsetki, kary).
+  - index: 14
+    name: "Siła wyższa"
+    format: "yes_no"
+    prompt: >-
+      Czy umowa zawiera klauzulę siły wyższej?
+  - index: 15
+    name: "Zmiana umowy"
+    format: "text"
+    prompt: >-
+      Podsumuj postanowienia o zmianie umowy: w jakiej formie mogą być
+      dokonywane zmiany (np. pisemna pod rygorem nieważności), kto musi
+      wyrazić zgodę oraz inne wymogi formalne.

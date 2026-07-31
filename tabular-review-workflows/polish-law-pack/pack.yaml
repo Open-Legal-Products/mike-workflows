@@ -1,0 +1,16 @@
+$schema: "../../workflow-schema/pack.schema.yaml"
+id: "polish-law"
+title: "Polish Law Tabular Reviews"
+description: "Tabular review workflows for contracts governed by Polish law. Column prompts are in Polish and tuned to Polish contract practice and due diligence: contractual penalties (kara umowna, Art. 483 of the Polish Civil Code), forum selection and arbitration clauses, GDPR data processing agreements (Art. 28), security instruments (promissory note, surety, pledge, mortgage, bank guarantee), and Polish entity identifiers (KRS, NIP). The prompts come from PATRON, the publisher's open-source desktop application for Polish law firms."
+publisher:
+  name: "MateMatic Solutions"
+  url: "https://matematicsolutions.com"
+license: "MIT"
+version: "1.0.0"
+jurisdiction: "Poland"
+source:
+  repo: "https://github.com/matematicsolutions/patron"
+  path: "frontend/src/app/components/tabular/columnPresets.ts"
+  url: "https://matematicsolutions.com"
+workflows:
+  - "polish-contract-tabular-review"
