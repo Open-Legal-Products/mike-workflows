@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-strafrecht-orientierung"
-description: "Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Fachanwalt für Strafrecht — Orientierung in Criminal Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

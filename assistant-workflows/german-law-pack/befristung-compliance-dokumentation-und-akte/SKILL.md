@@ -1,6 +1,6 @@
 ---
 name: "befristung-compliance-dokumentation-und-akte"
-description: "Wenn es um Befristung Compliance Dokumentation Und Akte in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Befristung Compliance Dokumentation Und Akte in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

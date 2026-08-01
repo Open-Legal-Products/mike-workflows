@@ -1,6 +1,6 @@
 ---
 name: "weg-anfechtungsklage-44"
-description: "Wenn es um Weg Anfechtungsklage 44 in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Weg Anfechtungsklage 44 in Fachanwalt Miet- und Wohnungseigentumsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

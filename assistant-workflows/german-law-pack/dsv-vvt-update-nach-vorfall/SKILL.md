@@ -1,6 +1,6 @@
 ---
 name: "dsv-vvt-update-nach-vorfall"
-description: "Wenn es um Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

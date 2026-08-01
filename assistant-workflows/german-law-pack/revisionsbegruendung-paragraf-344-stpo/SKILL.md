@@ -1,6 +1,6 @@
 ---
 name: "revisionsbegruendung-paragraf-344-stpo"
-description: "Wenn es um Revisionsbegruendung Paragraf 344 StPO in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Revisionsbegruendung Paragraf 344 StPO in Criminal Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

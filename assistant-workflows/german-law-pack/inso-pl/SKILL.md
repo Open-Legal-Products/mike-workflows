@@ -1,6 +1,6 @@
 ---
 name: "inso-pl"
-description: "Wenn es um Mandantenkommunikation in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "When Mandantenkommunikation in Insolvency and Restructuring is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a client message or decision brief."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "tabellenimport-zahlen-schwellen-und-berechnung"
-description: "Wenn es um Tabellenimport: Zahlen, Schwellenwerte und Berechnung in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Tabellenimport: Zahlen, Schwellenwerte und Berechnung in Insolvenzforderungsanmeldungsprüfung is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

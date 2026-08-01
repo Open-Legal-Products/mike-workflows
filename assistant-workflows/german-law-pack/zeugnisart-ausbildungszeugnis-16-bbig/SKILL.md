@@ -1,6 +1,6 @@
 ---
 name: "zeugnisart-ausbildungszeugnis-16-bbig"
-description: "Wenn es um Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

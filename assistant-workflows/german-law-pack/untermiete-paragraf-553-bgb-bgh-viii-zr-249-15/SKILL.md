@@ -1,6 +1,6 @@
 ---
 name: "untermiete-paragraf-553-bgb-bgh-viii-zr-249-15"
-description: "Wenn es um Untermiete Paragraf 553 BGB BGH Viii Zr 249 15 in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Untermiete Paragraf 553 BGB BGH Viii Zr 249 15 in Fachanwalt Miet- und Wohnungseigentumsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

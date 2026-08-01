@@ -1,6 +1,6 @@
 ---
 name: "spezial-laender-behoerden-gericht-und-registerweg"
-description: "Wenn es um Laender: Behörden-, Gerichts- oder Registerweg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Laender: Behörden-, Gerichts- oder Registerweg in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

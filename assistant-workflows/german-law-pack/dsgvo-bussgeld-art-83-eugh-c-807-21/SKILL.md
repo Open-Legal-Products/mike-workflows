@@ -1,6 +1,6 @@
 ---
 name: "dsgvo-bussgeld-art-83-eugh-c-807-21"
-description: "Wenn es um DSGVO Bussgeld Art 83 EuGH C 807 21 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When DSGVO Bussgeld Art 83 EuGH C 807 21 in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

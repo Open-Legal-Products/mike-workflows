@@ -1,6 +1,6 @@
 ---
 name: "anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20"
-description: "Wenn es um Anfechtungsklage BGB Gesellschaft BGH Ii Zr 66 20 in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Anfechtungsklage BGB Gesellschaft BGH Ii Zr 66 20 in Fachanwalt Handels- und Gesellschaftsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

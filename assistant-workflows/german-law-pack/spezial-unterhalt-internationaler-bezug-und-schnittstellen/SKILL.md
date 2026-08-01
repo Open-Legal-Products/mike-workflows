@@ -1,6 +1,6 @@
 ---
 name: "spezial-unterhalt-internationaler-bezug-und-schnittstellen"
-description: "Wenn es um Unterhalt: Internationaler Bezug und Schnittstellen in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Unterhalt: Internationaler Bezug und Schnittstellen in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

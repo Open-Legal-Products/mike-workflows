@@ -1,6 +1,6 @@
 ---
 name: "ar-abfindungs-rechner-modular"
-description: "Wenn es um Ar Abfindungs Rechner Modular in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Ar Abfindungs Rechner Modular in Employment Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

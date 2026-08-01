@@ -1,6 +1,6 @@
 ---
 name: "bautraeger-weg-teilungserklaerung-pruefen"
-description: "Wenn es um WEG-Teilungserklaerung beim Bautraegervertrag prüfen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When WEG-Teilungserklaerung beim Bautraegervertrag prüfen in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

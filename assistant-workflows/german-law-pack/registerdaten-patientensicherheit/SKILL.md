@@ -1,6 +1,6 @@
 ---
 name: "registerdaten-patientensicherheit"
-description: "Wenn es um Registerdaten Patientensicherheit in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Registerdaten Patientensicherheit in Medical Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

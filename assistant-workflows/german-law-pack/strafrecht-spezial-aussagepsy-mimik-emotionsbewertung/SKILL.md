@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-aussagepsy-mimik-emotionsbewertung"
-description: "Wenn es um Strafrecht Spezial Aussagepsy Mimik Emotionsbewertung in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Strafrecht Spezial Aussagepsy Mimik Emotionsbewertung in Criminal Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "plan-anlagenpaket"
-description: "Wenn es um IV-integrierte Anlagenpaket in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When IV-integrierte Anlagenpaket in Insolvenzverwaltung - IV-Cockpit is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

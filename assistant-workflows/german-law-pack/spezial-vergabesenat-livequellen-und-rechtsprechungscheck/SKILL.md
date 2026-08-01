@@ -1,6 +1,6 @@
 ---
 name: "spezial-vergabesenat-livequellen-und-rechtsprechungscheck"
-description: "Wenn es um Vergabesenat: Livequellen- und Rechtsprechungscheck in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vergabesenat: Livequellen- und Rechtsprechungscheck in Public Procurement Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

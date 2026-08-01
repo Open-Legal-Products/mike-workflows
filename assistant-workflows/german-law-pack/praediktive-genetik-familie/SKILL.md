@@ -1,6 +1,6 @@
 ---
 name: "praediktive-genetik-familie"
-description: "Wenn es um Praediktive Genetik Familie in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Praediktive Genetik Familie in Medical Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

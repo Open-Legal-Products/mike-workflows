@@ -1,6 +1,6 @@
 ---
 name: "sanierungsgewinn-vergleich-mit-finanzamt-und-stundung"
-description: "Wenn es um Sanierungsgewinn — Vergleich mit Finanzamt und Stundung in Insolvenzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Sanierungsgewinn — Vergleich mit Finanzamt und Stundung in Insolvency and Restructuring is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

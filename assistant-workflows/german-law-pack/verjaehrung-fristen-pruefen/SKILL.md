@@ -1,6 +1,6 @@
 ---
 name: "verjaehrung-fristen-pruefen"
-description: "Wenn es um Verjährung und Fristen prüfen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verjährung und Fristen prüfen in Subsumtions-Prüfer is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

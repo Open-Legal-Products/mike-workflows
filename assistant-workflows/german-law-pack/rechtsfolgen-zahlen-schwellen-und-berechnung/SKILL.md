@@ -1,6 +1,6 @@
 ---
 name: "rechtsfolgen-zahlen-schwellen-und-berechnung"
-description: "Wenn es um Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung in Subsumtions-Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung in Subsumtions-Prüfer is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

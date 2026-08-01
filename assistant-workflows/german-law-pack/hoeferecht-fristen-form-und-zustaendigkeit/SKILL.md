@@ -1,6 +1,6 @@
 ---
 name: "hoeferecht-fristen-form-und-zustaendigkeit"
-description: "Wenn es um Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

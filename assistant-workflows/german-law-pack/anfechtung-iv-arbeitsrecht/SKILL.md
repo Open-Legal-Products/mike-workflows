@@ -1,6 +1,6 @@
 ---
 name: "anfechtung-iv-arbeitsrecht"
-description: "Wenn es um Insolvenzanfechtung Paragrafen 129 ff. InsO in Insolvenzverwaltung - IV-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Insolvenzanfechtung Paragrafen 129 ff. InsO in Insolvenzverwaltung - IV-Cockpit is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

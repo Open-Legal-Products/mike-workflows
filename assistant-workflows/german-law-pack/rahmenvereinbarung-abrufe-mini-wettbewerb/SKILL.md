@@ -1,6 +1,6 @@
 ---
 name: "rahmenvereinbarung-abrufe-mini-wettbewerb"
-description: "Wenn es um Rahmenvereinbarung Abrufe Mini Wettbewerb in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Rahmenvereinbarung Abrufe Mini Wettbewerb in Public Procurement Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

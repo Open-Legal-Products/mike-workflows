@@ -1,6 +1,6 @@
 ---
 name: "fahrerlaubnis-entzug-paragraf-3-stvg"
-description: "Wenn es um Fahrerlaubnis Entzug Paragraf 3 StVG in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Fahrerlaubnis Entzug Paragraf 3 StVG in Traffic Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "arb-anschluss-routing"
-description: "Wenn es um Anschluss-Routing in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Anschluss-Routing in Employment Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

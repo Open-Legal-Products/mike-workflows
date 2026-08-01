@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich"
-description: "Wenn es um Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht in Traffic Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

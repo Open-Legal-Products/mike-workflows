@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand"
-description: "Wenn es um Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

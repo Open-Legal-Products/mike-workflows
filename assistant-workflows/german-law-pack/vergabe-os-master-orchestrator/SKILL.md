@@ -1,6 +1,6 @@
 ---
 name: "vergabe-os-master-orchestrator"
-description: "Wenn es um Vergabe Os Master Orchestrator in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vergabe Os Master Orchestrator in Public Procurement Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

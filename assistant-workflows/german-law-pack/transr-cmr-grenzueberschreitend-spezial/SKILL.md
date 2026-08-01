@@ -1,6 +1,6 @@
 ---
 name: "transr-cmr-grenzueberschreitend-spezial"
-description: "Wenn es um Transr Cmr Grenzueberschreitend Spezial in Fachanwalt Transport Speditionsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Transr Cmr Grenzueberschreitend Spezial in Transport and Freight Forwarding Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

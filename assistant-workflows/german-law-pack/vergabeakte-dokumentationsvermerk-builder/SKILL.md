@@ -1,6 +1,6 @@
 ---
 name: "vergabeakte-dokumentationsvermerk-builder"
-description: "Wenn es um Vergabeakte Dokumentationsvermerk Builder in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Vergabeakte Dokumentationsvermerk Builder in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

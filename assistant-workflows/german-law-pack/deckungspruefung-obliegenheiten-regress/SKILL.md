@@ -1,6 +1,6 @@
 ---
 name: "deckungspruefung-obliegenheiten-regress"
-description: "Wenn es um Deckungspruefung Obliegenheiten Regress in Fachanwalt Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Deckungspruefung Obliegenheiten Regress in Insurance Law is required: organises file content, evidence, gaps, and follow-up requests; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

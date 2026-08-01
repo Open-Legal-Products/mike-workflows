@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-totschlag-212-stgb"
-description: "Wenn es um Totschlag nach Paragraf 212 StGB in Fachanwalt Strafrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Totschlag nach Paragraf 212 StGB in Criminal Law is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

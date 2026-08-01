@@ -1,6 +1,6 @@
 ---
 name: "mandantenblatt-versorgungsausgleich-in-einfacher-sprache"
-description: "Wenn es um Mandantenblatt Versorgungsausgleich In Einfacher Sprache in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Mandantenblatt Versorgungsausgleich In Einfacher Sprache in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

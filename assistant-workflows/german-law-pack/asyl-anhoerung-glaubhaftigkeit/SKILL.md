@@ -1,6 +1,6 @@
 ---
 name: "asyl-anhoerung-glaubhaftigkeit"
-description: "Wenn es um Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

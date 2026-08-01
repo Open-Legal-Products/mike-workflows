@@ -1,6 +1,6 @@
 ---
 name: "abmahnung-sonderfall-edge-case"
-description: "Wenn es um Abmahnung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Abmahnung: Sonderfall und Edge-Case-Prüfung in Copyright and Media Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

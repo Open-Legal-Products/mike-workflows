@@ -1,6 +1,6 @@
 ---
 name: "frequenzadverbien-pruefen"
-description: "Wenn es um Frequenzadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "When Frequenzadverbien pruefen in Employment Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a counter-check with error, evidence, and deadline review."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "spezial-interaktiver-erstpruefung-und-mandatsziel"
-description: "Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

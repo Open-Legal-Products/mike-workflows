@@ -1,6 +1,6 @@
 ---
 name: "gewerberaum-covid-nachwirkungen"
-description: "Wenn es um Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

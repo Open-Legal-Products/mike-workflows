@@ -1,6 +1,6 @@
 ---
 name: "faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev"
-description: "Wenn es um Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "eilrechtsschutz-80-abs-5-vwgo"
-description: "Wenn es um Eilrechtsschutz nach Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Eilrechtsschutz nach Paragraf 80 Abs in Administrative Law is required: organises file content, evidence, gaps, and follow-up requests; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "inso-p257-vollstreckung-aus-dem-plan"
-description: "Wenn es um Inso P257 Vollstreckung Aus Dem Plan in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P257 Vollstreckung Aus Dem Plan in Fachanwalt Insolvenz- und Sanierungsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

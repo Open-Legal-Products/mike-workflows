@@ -1,6 +1,6 @@
 ---
 name: "strafprozess-abschluss-urteil-bewaehrung-vollstreckung"
-description: "Wenn es um Strafprozess Abschluss Urteil Bewaehrung Vollstreckung in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Strafprozess Abschluss Urteil Bewaehrung Vollstreckung in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

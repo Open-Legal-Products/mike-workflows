@@ -1,6 +1,6 @@
 ---
 name: "umgangsrecht-grosseltern-paragraf-1685-bgb-bverfg-1-bvr-1178-14"
-description: "Wenn es um Umgangsrecht Grosseltern Paragraf 1685 BGB BVerfG 1 Bvr 1178 14 in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Umgangsrecht Grosseltern Paragraf 1685 BGB BVerfG 1 Bvr 1178 14 in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

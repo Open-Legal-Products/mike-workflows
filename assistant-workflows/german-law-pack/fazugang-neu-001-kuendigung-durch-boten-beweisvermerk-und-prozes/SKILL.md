@@ -1,6 +1,6 @@
 ---
 name: "fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozes"
-description: "Wenn es um Fazugang Neu 001 Kuendigung Durch Boten Beweisvermerk Und Prozes in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Fazugang Neu 001 Kuendigung Durch Boten Beweisvermerk Und Prozes in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "erbschein-antrag"
-description: "Wenn es um Erbschein beantragen wenn Erbfolge nachgewiesen werden muss in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Erbschein beantragen wenn Erbfolge nachgewiesen werden muss in Inheritance Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

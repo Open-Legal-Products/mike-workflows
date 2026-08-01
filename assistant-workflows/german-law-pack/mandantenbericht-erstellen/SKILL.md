@@ -1,6 +1,6 @@
 ---
 name: "mandantenbericht-erstellen"
-description: "Wenn es um Mandantenbericht erstellen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Mandantenbericht erstellen in Employment Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "mig-schriftsatzkern-substantiierung"
-description: "Wenn es um Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag Paragraf 80 Abs in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag Paragraf 80 Abs in Migration Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

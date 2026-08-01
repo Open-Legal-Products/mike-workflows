@@ -1,6 +1,6 @@
 ---
 name: "klassen-verhandlung-vergleich-und-eskalation"
-description: "Wenn es um Klassen: Verhandlung, Vergleich und Eskalation in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Klassen: Verhandlung, Vergleich und Eskalation in Insolvenzplan- und StaRUG-Planwerkstatt is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

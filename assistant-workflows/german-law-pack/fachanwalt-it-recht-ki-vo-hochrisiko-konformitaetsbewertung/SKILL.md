@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung"
-description: "Wenn es um europäischer Technikregulierungsrahmen High-Risk-System Konformitätsbewertung Art. 16–29 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When europäischer Technikregulierungsrahmen High-Risk-System Konformitätsbewertung Art. 16–29 in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

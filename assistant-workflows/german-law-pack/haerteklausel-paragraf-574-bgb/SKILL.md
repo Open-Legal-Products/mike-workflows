@@ -1,6 +1,6 @@
 ---
 name: "haerteklausel-paragraf-574-bgb"
-description: "Wenn es um Haerteklausel Paragraf 574 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Haerteklausel Paragraf 574 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "verzug-vob-b-paragraf-5-vob-b-bgh-vii-zr-71-15"
-description: "Wenn es um Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verzug Vob B Paragraf 5 Vob B BGH Vii Zr 71 15 in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

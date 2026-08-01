@@ -1,6 +1,6 @@
 ---
 name: "anrechte-dokumentenintake"
-description: "Wenn es um Anrechte Dokumentenintake in Fachanwalt Familienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Anrechte Dokumentenintake in Family Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

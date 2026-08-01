@@ -1,6 +1,6 @@
 ---
 name: "strafr-dysfunk-antrag-wiederholen-ohne-missbrauch"
-description: "Wenn es um Wiederholung eines Antrags ohne Eroeffnung des Missbrauchsvorwurfs in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Wiederholung eines Antrags ohne Eroeffnung des Missbrauchsvorwurfs in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

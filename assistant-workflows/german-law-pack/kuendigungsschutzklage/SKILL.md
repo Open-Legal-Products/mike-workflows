@@ -1,6 +1,6 @@
 ---
 name: "kuendigungsschutzklage"
-description: "Wenn es um Kuendigungsschutzklage in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Kuendigungsschutzklage in Employment Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-btmg-29a-nicht-geringe-menge"
-description: "Wenn es um BtMG-Qualifikation Paragraf 29a BtMG: nicht geringe Menge in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When BtMG-Qualifikation Paragraf 29a BtMG: nicht geringe Menge in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

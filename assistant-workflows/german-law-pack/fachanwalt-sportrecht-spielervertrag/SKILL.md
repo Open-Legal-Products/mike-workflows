@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-sportrecht-spielervertrag"
-description: "Wenn es um Spielervertrag in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Sportrecht Spielervertrag; Arbeitsfeld: Fachanwalt Sportrecht."
+description: "When Spielervertrag in Sports Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Sportrecht Spielervertrag; Arbeitsfeld: Fachanwalt Sportrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

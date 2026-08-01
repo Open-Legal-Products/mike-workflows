@@ -1,6 +1,6 @@
 ---
 name: "micar-schriftsatz-brief-und-memo-bausteine"
-description: "Wenn es um Micar: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Micar: Schriftsatz-, Brief- und Memo-Bausteine in Banking and Capital Markets is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

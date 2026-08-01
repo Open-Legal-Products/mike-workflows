@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-188-stgb-art5-schrift-und-hv"
-description: "Wenn es um Art.-5-GG-Verteidigung bei Paragraf 188 StGB in Schriftsatz und Hauptverhandlung in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Art.-5-GG-Verteidigung bei Paragraf 188 StGB in Schriftsatz und Hauptverhandlung in Fachanwalt Strafrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

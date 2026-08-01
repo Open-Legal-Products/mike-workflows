@@ -1,6 +1,6 @@
 ---
 name: "unterschwellen-rechtsschutz-zivilgericht"
-description: "Wenn es um Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1 in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1 in Public Procurement Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

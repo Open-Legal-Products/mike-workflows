@@ -1,6 +1,6 @@
 ---
 name: "einfuehrung-pruefauftrag"
-description: "Wenn es um Einfuehrung in den Pruefauftrag in Arbeitszeugnispruefer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Einfuehrung in den Pruefauftrag in Arbeitszeugnispruefer is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

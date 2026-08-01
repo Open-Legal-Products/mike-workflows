@@ -1,6 +1,6 @@
 ---
 name: "miet-tatbestand-beweis-und-belege"
-description: "Wenn es um Miet Tatbestand Beweis Und Belege in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Miet Tatbestand Beweis Und Belege in Fachanwalt Miet- und Wohnungseigentumsrecht is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

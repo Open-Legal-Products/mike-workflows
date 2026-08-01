@@ -1,6 +1,6 @@
 ---
 name: "faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung"
-description: "Wenn es um Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

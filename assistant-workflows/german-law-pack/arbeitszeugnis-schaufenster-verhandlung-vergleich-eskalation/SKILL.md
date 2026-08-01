@@ -1,6 +1,6 @@
 ---
 name: "arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation"
-description: "Wenn es um Schaufenster: Verhandlung, Vergleich und Eskalation in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schaufenster: Verhandlung, Vergleich und Eskalation in Arbeitszeugnis-Analyse is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

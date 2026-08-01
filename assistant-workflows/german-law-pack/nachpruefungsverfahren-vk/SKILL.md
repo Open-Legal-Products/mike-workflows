@@ -1,6 +1,6 @@
 ---
 name: "nachpruefungsverfahren-vk"
-description: "Wenn es um Vergabekammerverfahren operativ führen in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vergabekammerverfahren operativ führen in Public Procurement Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

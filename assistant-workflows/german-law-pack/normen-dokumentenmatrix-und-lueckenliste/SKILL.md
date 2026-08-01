@@ -1,6 +1,6 @@
 ---
 name: "normen-dokumentenmatrix-und-lueckenliste"
-description: "Wenn es um Normen Dokumentenmatrix Und Lückenliste in Fachanwalt Familienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When Normen Dokumentenmatrix Und Lückenliste in Family Law is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "persoenlichkeitsrecht-medienverfuegung-und-abmahnung"
-description: "Wenn es um Persoenlichkeitsrecht Medienverfuegung Und Abmahnung in Fachanwalt Urheber Medienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Persoenlichkeitsrecht Medienverfuegung Und Abmahnung in Copyright and Media Law is required: organises file content, evidence, gaps, and follow-up requests; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig"
-description: "Wenn es um Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

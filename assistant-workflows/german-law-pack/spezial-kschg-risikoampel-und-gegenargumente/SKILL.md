@@ -1,6 +1,6 @@
 ---
 name: "spezial-kschg-risikoampel-und-gegenargumente"
-description: "Wenn es um Kschg: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Kschg: Risikoampel, Gegenargumente und Verteidigungslinien in Employment Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

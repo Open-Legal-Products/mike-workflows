@@ -1,6 +1,6 @@
 ---
 name: "workflow-bauliche-veraenderung-routing"
-description: "Wenn es um Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

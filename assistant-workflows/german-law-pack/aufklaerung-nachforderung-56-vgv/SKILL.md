@@ -1,6 +1,6 @@
 ---
 name: "aufklaerung-nachforderung-56-vgv"
-description: "Wenn es um Aufklaerung Nachforderung 56 Vgv in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When Aufklaerung Nachforderung 56 Vgv in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

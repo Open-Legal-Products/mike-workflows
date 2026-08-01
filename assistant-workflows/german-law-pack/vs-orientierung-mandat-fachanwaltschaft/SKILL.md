@@ -1,6 +1,6 @@
 ---
 name: "vs-orientierung-mandat-fachanwaltschaft"
-description: "Wenn es um Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO in Insurance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "hgb-einsichtsrecht-kommanditist-paragraf-166-hgb-bgh-ii-zr-31-21"
-description: "Wenn es um Hgb Einsichtsrecht Kommanditist Paragraf 166 Hgb BGH Ii Zr 31 21 in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Hgb Einsichtsrecht Kommanditist Paragraf 166 Hgb BGH Ii Zr 31 21 in Fachanwalt Handels- und Gesellschaftsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

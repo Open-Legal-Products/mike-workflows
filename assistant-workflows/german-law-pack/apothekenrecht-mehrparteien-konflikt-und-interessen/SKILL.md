@@ -1,6 +1,6 @@
 ---
 name: "apothekenrecht-mehrparteien-konflikt-und-interessen"
-description: "Wenn es um Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix in Medical Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

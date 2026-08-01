@@ -1,6 +1,6 @@
 ---
 name: "agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle"
-description: "Wenn es um Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

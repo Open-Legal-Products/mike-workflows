@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg"
-description: "Wenn es um Long-COVID als Berufskrankheit Paragraf 9 SGB VII / BK 3101 in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Long-COVID als Berufskrankheit Paragraf 9 SGB VII / BK 3101 in Social Security Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

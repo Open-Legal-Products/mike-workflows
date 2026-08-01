@@ -1,6 +1,6 @@
 ---
 name: "bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern"
-description: "Wenn es um Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern in Fachanwalt Bank Kapitalmarktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern in Banking and Capital Markets is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

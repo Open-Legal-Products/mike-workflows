@@ -1,6 +1,6 @@
 ---
 name: "inso-gerichtliche-aufsichtswege"
-description: "Wenn es um Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien in Insolvency and Restructuring is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings"
-description: "Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Handels Gesellschaftsrecht M&A Due Diligence Findings; Arbeitsfeld: Fachanwalt Handels- und Gesellschaftsrecht."
+description: "When M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Handels Gesellschaftsrecht M&A Due Diligence Findings; Arbeitsfeld: Fachanwalt Handels- und Gesellschaftsrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "domainrecht-loeschung-bgh-i-zr-138-19"
-description: "Wenn es um Domainrecht Loeschung BGH I Zr 138 19 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Domainrecht Loeschung BGH I Zr 138 19 in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

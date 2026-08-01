@@ -1,6 +1,6 @@
 ---
 name: "vergaberecht-tatbestand-beweis-und-belege"
-description: "Wenn es um Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

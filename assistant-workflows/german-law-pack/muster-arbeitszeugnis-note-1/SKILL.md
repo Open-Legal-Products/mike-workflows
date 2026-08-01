@@ -1,6 +1,6 @@
 ---
 name: "muster-arbeitszeugnis-note-1"
-description: "Wenn es um Muster-Arbeitszeugnis Note 1 (Referenzdokument) in Arbeitszeugnis-Analyse geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Muster-Arbeitszeugnis Note 1 (Referenzdokument) in Arbeitszeugnis-Analyse is required: organises file content, evidence, gaps, and follow-up requests; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

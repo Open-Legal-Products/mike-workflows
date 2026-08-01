@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-vergaberecht-inhouse-interkommunal"
-description: "Wenn es um Inhouse und interkommunale Zusammenarbeit in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Inhouse und interkommunale Zusammenarbeit in Public Procurement Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "bautraeger-bonitaetspruefung-warnsignale"
-description: "Wenn es um Bautraeger-Bonitaetspruefung Warnsignale in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Bautraeger-Bonitaetspruefung Warnsignale in Construction and Architects Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

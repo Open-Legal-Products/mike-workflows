@@ -1,6 +1,6 @@
 ---
 name: "mediation-156-famfg-cochemer"
-description: "Wenn es um Mediation 156 Famfg Cochemer in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Mediation 156 Famfg Cochemer in Family Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

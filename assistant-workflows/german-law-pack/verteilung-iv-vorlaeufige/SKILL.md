@@ -1,6 +1,6 @@
 ---
 name: "verteilung-iv-vorlaeufige"
-description: "Wenn es um Schlussbericht, Schlussrechnung und Verteilung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schlussbericht, Schlussrechnung und Verteilung in Insolvenzverwaltung - IV-Cockpit is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

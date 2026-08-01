@@ -1,6 +1,6 @@
 ---
 name: "strafprozess-mandantenkommunikation-und-instruktionen"
-description: "Wenn es um Strafprozess Mandantenkommunikation Und Instruktionen in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "When Strafprozess Mandantenkommunikation Und Instruktionen in Criminal Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a client message or decision brief."
 license: "MIT"
 metadata:
   version: "1.0.0"

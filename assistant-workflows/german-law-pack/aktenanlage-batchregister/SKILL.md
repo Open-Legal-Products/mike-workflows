@@ -1,6 +1,6 @@
 ---
 name: "aktenanlage-batchregister"
-description: "Wenn es um Aktenanlage und Batchregister in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "When Aktenanlage und Batchregister in Insolvenzforderungsanmeldungsprüfung is required: organises file content, evidence, gaps, and follow-up requests; produces a filing plan with form, portal, and evidence check."
 license: "MIT"
 metadata:
   version: "1.0.0"

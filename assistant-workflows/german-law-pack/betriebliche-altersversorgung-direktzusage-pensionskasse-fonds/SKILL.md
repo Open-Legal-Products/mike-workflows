@@ -1,6 +1,6 @@
 ---
 name: "betriebliche-altersversorgung-direktzusage-pensionskasse-fonds"
-description: "Wenn es um Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

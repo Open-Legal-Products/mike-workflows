@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-urheber-medienrecht-mod-erklaerung"
-description: "Wenn es um Modifizierte Unterlassungserklärung im Urheberrecht in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Modifizierte Unterlassungserklärung im Urheberrecht in Copyright and Media Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

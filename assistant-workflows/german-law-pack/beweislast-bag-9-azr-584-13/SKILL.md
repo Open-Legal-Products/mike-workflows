@@ -1,6 +1,6 @@
 ---
 name: "beweislast-bag-9-azr-584-13"
-description: "Wenn es um Beweislast nach BAG 9 AZR 584.13 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Beweislast nach BAG 9 AZR 584.13 in Employment Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

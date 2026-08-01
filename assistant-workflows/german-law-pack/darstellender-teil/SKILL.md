@@ -1,6 +1,6 @@
 ---
 name: "darstellender-teil"
-description: "Wenn es um Darstellender Teil in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Darstellender Teil in Insolvenzplan- und StaRUG-Planwerkstatt is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "strafprozess-pflichtverteidigung-beiordnung-und-wechsel"
-description: "Wenn es um Strafprozess Pflichtverteidigung Beiordnung Und Wechsel in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "When Strafprozess Pflichtverteidigung Beiordnung Und Wechsel in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a client message or decision brief."
 license: "MIT"
 metadata:
   version: "1.0.0"

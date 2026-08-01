@@ -1,6 +1,6 @@
 ---
 name: "paragraf-95-sgb-v-zulassung"
-description: "Wenn es um Paragraf 95 sgb v Zulassung in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Paragraf 95 sgb v Zulassung in Medical Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

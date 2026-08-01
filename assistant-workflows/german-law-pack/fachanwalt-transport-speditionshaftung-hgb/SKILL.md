@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-transport-speditionshaftung-hgb"
-description: "Wenn es um Speditions-Haftung Paragrafen 453 ff. HGB in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Speditions-Haftung Paragrafen 453 ff. HGB in Transport and Freight Forwarding Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

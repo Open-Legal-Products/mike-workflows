@@ -1,6 +1,6 @@
 ---
 name: "ehegattenrecht-internationales-art-13-egbgb"
-description: "Wenn es um Ehegattenrecht Internationales Art 13 Egbgb in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Ehegattenrecht Internationales Art 13 Egbgb in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

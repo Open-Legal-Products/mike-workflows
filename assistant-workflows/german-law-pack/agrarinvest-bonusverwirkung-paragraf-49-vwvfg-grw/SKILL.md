@@ -1,6 +1,6 @@
 ---
 name: "agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw"
-description: "Wenn es um Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg Grw in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg Grw in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

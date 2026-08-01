@@ -1,6 +1,6 @@
 ---
 name: "bankrecht-akkreditiv-standby-lc-dokumentenstreit"
-description: "Wenn es um Bankrecht Akkreditiv Standby Lc Dokumentenstreit in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Bankrecht Akkreditiv Standby Lc Dokumentenstreit in Banking and Capital Markets is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

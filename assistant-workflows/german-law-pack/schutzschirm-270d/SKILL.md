@@ -1,6 +1,6 @@
 ---
 name: "schutzschirm-270d"
-description: "Wenn es um Schutzschirmverfahren Paragraf 270d InsO in Insolvenzverwaltung - IV-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schutzschirmverfahren Paragraf 270d InsO in Insolvenzverwaltung - IV-Cockpit is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

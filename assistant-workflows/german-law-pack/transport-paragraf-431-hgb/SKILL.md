@@ -1,6 +1,6 @@
 ---
 name: "transport-paragraf-431-hgb"
-description: "Wenn es um Transport Paragraf 431 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Transport Paragraf 431 HGB in Transport and Freight Forwarding Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

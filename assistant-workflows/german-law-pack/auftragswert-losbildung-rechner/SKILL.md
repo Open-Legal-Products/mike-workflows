@@ -1,6 +1,6 @@
 ---
 name: "auftragswert-losbildung-rechner"
-description: "Wenn es um Auftragswert Losbildung Rechner in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Auftragswert Losbildung Rechner in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

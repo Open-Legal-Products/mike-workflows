@@ -1,6 +1,6 @@
 ---
 name: "inso-p075-antrag-auf-einberufung"
-description: "Wenn es um Inso P075 Antrag Auf Einberufung in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P075 Antrag Auf Einberufung in Fachanwalt Insolvenz- und Sanierungsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

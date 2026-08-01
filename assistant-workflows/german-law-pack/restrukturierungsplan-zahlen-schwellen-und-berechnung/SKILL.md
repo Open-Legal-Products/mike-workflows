@@ -1,6 +1,6 @@
 ---
 name: "restrukturierungsplan-zahlen-schwellen-und-berechnung"
-description: "Wenn es um Restrukturierungsplan Zahlen Schwellen Und Berechnung in Fachanwalt Insolvenz- und Sanierungsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Restrukturierungsplan Zahlen Schwellen Und Berechnung in Fachanwalt Insolvenz- und Sanierungsrecht is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

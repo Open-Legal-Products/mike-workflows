@@ -1,6 +1,6 @@
 ---
 name: "urh-anschluss-routing"
-description: "Wenn es um Anschluss-Routing in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Anschluss-Routing in Copyright and Media Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

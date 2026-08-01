@@ -1,6 +1,6 @@
 ---
 name: "sub-start-chronologie-fristen"
-description: "Wenn es um Subsumtions-Prüfer — Allgemein in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Subsumtions-Prüfer — Allgemein in Subsumtions-Prüfer is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

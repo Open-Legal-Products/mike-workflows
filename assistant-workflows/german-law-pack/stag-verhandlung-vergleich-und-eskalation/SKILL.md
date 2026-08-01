@@ -1,6 +1,6 @@
 ---
 name: "stag-verhandlung-vergleich-und-eskalation"
-description: "Wenn es um Stag: Verhandlung, Vergleich und Eskalation in Fachanwalt Migrationsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Stag: Verhandlung, Vergleich und Eskalation in Migration Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

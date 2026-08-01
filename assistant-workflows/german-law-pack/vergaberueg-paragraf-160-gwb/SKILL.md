@@ -1,6 +1,6 @@
 ---
 name: "vergaberueg-paragraf-160-gwb"
-description: "Wenn es um Vergaberueg Paragraf 160 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vergaberueg Paragraf 160 GWB in Public Procurement Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

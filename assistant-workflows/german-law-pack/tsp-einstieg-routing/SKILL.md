@@ -1,6 +1,6 @@
 ---
 name: "tsp-einstieg-routing"
-description: "Wenn es um Einstieg und Routing in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Einstieg und Routing in Transport and Freight Forwarding Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

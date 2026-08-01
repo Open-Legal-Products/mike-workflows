@@ -1,6 +1,6 @@
 ---
 name: "betrvg-behoerden-gericht-und-registerweg"
-description: "Wenn es um BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

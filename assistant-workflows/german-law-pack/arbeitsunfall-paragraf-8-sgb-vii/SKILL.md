@@ -1,6 +1,6 @@
 ---
 name: "arbeitsunfall-paragraf-8-sgb-vii"
-description: "Wenn es um Arbeitsunfall Paragraf 8 sgb vii in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Arbeitsunfall Paragraf 8 sgb vii in Social Security Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

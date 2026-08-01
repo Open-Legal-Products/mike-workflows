@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit"
-description: "Wenn es um Trunkenheit im Verkehr nach Paragraph 316 StGB in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Trunkenheit im Verkehr nach Paragraph 316 StGB in Criminal Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

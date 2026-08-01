@@ -1,6 +1,6 @@
 ---
 name: "triage-rechtsfrage-oder-norm"
-description: "Wenn es um Triage: Rechtsfrage oder Norm? in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Triage: Rechtsfrage oder Norm? in Subsumtions-Prüfer is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

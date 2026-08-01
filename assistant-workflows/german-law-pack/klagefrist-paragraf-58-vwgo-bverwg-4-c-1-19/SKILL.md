@@ -1,6 +1,6 @@
 ---
 name: "klagefrist-paragraf-58-vwgo-bverwg-4-c-1-19"
-description: "Wenn es um Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19 in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19 in Administrative Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

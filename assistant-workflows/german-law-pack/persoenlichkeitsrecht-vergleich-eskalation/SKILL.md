@@ -1,6 +1,6 @@
 ---
 name: "persoenlichkeitsrecht-vergleich-eskalation"
-description: "Wenn es um Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation in Fachanwalt Urheber Medienrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation in Copyright and Media Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

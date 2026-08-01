@@ -1,6 +1,6 @@
 ---
 name: "dsa-zahlen-schwellen-und-berechnung"
-description: "Wenn es um DSA: Zahlen, Schwellenwerte und Berechnung in Fachanwalt It Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When DSA: Zahlen, Schwellenwerte und Berechnung in IT Law is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

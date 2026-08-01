@@ -1,6 +1,6 @@
 ---
 name: "workflow-co2-kosten-routing"
-description: "Wenn es um CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

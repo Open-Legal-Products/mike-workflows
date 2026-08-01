@@ -1,6 +1,6 @@
 ---
 name: "it-recht-cloud-vertrag-datenschutz-due-diligence"
-description: "Wenn es um Datenschutz-Due-Diligence für Cloud-Verträge in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Datenschutz-Due-Diligence für Cloud-Verträge in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

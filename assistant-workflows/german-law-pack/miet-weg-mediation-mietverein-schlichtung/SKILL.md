@@ -1,6 +1,6 @@
 ---
 name: "miet-weg-mediation-mietverein-schlichtung"
-description: "Wenn es um Miet- und WEG-Streit Mediation in Fachanwalt Miet- und Wohnungseigentumsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Miet- und WEG-Streit Mediation in Fachanwalt Miet- und Wohnungseigentumsrecht is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

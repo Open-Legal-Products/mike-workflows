@@ -1,6 +1,6 @@
 ---
 name: "schiedsverfahren-behoerden-gericht-und-registerweg"
-description: "Wenn es um Schiedsverfahren: Behörden-, Gerichts- oder Registerweg in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schiedsverfahren: Behörden-, Gerichts- oder Registerweg in International Business Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

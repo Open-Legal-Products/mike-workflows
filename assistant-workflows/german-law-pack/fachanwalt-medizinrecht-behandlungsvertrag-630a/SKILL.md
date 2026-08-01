@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-medizinrecht-behandlungsvertrag-630a"
-description: "Wenn es um Behandlungsvertrag Paragrafen 630a-h BGB in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Behandlungsvertrag Paragrafen 630a-h BGB in Medical Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

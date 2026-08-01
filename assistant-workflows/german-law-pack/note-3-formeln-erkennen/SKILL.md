@@ -1,6 +1,6 @@
 ---
 name: "note-3-formeln-erkennen"
-description: "Wenn es um Note-3-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Note-3-Formeln erkennen in Employment Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

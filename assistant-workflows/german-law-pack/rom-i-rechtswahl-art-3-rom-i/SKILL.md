@@ -1,6 +1,6 @@
 ---
 name: "rom-i-rechtswahl-art-3-rom-i"
-description: "Wenn es um rom i Rechtswahl art 3 rom i in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When rom i Rechtswahl art 3 rom i in International Business Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

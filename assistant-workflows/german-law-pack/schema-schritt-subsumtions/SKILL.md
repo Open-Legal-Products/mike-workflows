@@ -1,6 +1,6 @@
 ---
 name: "schema-schritt-subsumtions"
-description: "Wenn es um Schema: Verhandlung, Vergleich und Eskalation in Subsumtions-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Schema: Verhandlung, Vergleich und Eskalation in Subsumtions-Prüfer is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

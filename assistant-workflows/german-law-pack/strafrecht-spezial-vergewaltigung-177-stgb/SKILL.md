@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-vergewaltigung-177-stgb"
-description: "Wenn es um Sexualdelikte nach Paragraf 177 StGB nach Reform 2016 Nein heisst Nein in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Sexualdelikte nach Paragraf 177 StGB nach Reform 2016 Nein heisst Nein in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

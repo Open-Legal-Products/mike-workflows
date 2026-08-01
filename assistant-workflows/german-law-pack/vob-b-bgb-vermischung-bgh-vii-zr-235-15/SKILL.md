@@ -1,6 +1,6 @@
 ---
 name: "vob-b-bgb-vermischung-bgh-vii-zr-235-15"
-description: "Wenn es um Vob B BGB Vermischung BGH Vii Zr 235 15 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vob B BGB Vermischung BGH Vii Zr 235 15 in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

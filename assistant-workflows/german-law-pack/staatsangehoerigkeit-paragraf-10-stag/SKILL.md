@@ -1,6 +1,6 @@
 ---
 name: "staatsangehoerigkeit-paragraf-10-stag"
-description: "Wenn es um Staatsangehoerigkeit Paragraf 10 StAG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Staatsangehoerigkeit Paragraf 10 StAG in Migration Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

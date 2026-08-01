@@ -1,6 +1,6 @@
 ---
 name: "stpo-dokumentenmatrix-und-lueckenliste"
-description: "Wenn es um StPO: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When StPO: Dokumentenmatrix, Lückenliste und Nachforderung in Criminal Law is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

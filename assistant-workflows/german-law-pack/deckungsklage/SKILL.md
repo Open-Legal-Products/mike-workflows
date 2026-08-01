@@ -1,6 +1,6 @@
 ---
 name: "deckungsklage"
-description: "Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Deckungsklage; Arbeitsfeld: Fachanwalt Versicherungsrecht."
+description: "When Deckungsklage in Insurance Law is required: drafts the appropriate document from facts, norm, evidence, and motion; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Deckungsklage; Arbeitsfeld: Fachanwalt Versicherungsrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

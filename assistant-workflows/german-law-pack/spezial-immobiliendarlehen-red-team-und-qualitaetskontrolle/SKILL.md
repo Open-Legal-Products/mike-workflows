@@ -1,6 +1,6 @@
 ---
 name: "spezial-immobiliendarlehen-red-team-und-qualitaetskontrolle"
-description: "Wenn es um Immobiliendarlehen: Red-Team und Qualitätskontrolle in Fachanwalt Bank Kapitalmarktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Immobiliendarlehen: Red-Team und Qualitätskontrolle in Banking and Capital Markets is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

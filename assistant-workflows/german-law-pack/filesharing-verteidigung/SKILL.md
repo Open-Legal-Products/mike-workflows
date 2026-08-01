@@ -1,6 +1,6 @@
 ---
 name: "filesharing-verteidigung"
-description: "Wenn es um Filesharing Verteidigung in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Filesharing Verteidigung in Copyright and Media Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

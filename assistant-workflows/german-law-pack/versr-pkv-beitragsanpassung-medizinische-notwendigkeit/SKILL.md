@@ -1,6 +1,6 @@
 ---
 name: "versr-pkv-beitragsanpassung-medizinische-notwendigkeit"
-description: "Wenn es um Versr Pkv Beitragsanpassung Medizinische Notwendigkeit in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Versr Pkv Beitragsanpassung Medizinische Notwendigkeit in Insurance Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

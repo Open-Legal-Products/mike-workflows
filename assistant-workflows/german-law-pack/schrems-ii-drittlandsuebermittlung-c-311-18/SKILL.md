@@ -1,6 +1,6 @@
 ---
 name: "schrems-ii-drittlandsuebermittlung-c-311-18"
-description: "Wenn es um Schrems Ii Drittlandsuebermittlung C 311 18 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schrems Ii Drittlandsuebermittlung C 311 18 in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

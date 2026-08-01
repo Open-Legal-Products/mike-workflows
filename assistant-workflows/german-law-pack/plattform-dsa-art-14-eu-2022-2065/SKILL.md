@@ -1,6 +1,6 @@
 ---
 name: "plattform-dsa-art-14-eu-2022-2065"
-description: "Wenn es um Plattform Dsa Art 14 EU 2022 2065 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Plattform Dsa Art 14 EU 2022 2065 in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

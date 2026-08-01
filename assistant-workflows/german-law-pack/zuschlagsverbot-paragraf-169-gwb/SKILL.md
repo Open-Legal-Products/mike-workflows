@@ -1,6 +1,6 @@
 ---
 name: "zuschlagsverbot-paragraf-169-gwb"
-description: "Wenn es um Zuschlagsverbot Paragraf 169 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Zuschlagsverbot Paragraf 169 GWB in Public Procurement Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

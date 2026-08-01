@@ -1,6 +1,6 @@
 ---
 name: "qualitaets-iv-schutzschirm"
-description: "Wenn es um Qualitäts- und Plausibilitätsgate in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Qualitäts- und Plausibilitätsgate in Insolvenzverwaltung - IV-Cockpit is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

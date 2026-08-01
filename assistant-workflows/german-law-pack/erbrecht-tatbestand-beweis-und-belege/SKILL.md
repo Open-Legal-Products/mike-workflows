@@ -1,6 +1,6 @@
 ---
 name: "erbrecht-tatbestand-beweis-und-belege"
-description: "Wenn es um Erbrecht Tatbestand Beweis Und Belege in Fachanwalt Erbrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Erbrecht Tatbestand Beweis Und Belege in Inheritance Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

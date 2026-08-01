@@ -1,6 +1,6 @@
 ---
 name: "faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or"
-description: "Wenn es um Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or in Intellectual Property is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

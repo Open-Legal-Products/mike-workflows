@@ -1,6 +1,6 @@
 ---
 name: "versr-deckungsklage-leitfaden"
-description: "Wenn es um Versr Deckungsklage Leitfaden in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Versr Deckungsklage Leitfaden in Insurance Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

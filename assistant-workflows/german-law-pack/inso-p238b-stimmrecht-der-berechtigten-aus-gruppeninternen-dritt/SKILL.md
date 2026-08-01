@@ -1,6 +1,6 @@
 ---
 name: "inso-p238b-stimmrecht-der-berechtigten-aus-gruppeninternen-dritt"
-description: "Wenn es um Inso P238b Stimmrecht Der Berechtigten Aus Gruppeninternen Dritt in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P238b Stimmrecht Der Berechtigten Aus Gruppeninternen Dritt in Fachanwalt Insolvenz- und Sanierungsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

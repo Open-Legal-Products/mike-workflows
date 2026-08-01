@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-polizeifilmerei-201-stgb-kug-verteidigung"
-description: "Wenn es um Strafrecht Polizeifilmerei 201 Stgb Kug Verteidigung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Strafrecht Polizeifilmerei 201 Stgb Kug Verteidigung in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

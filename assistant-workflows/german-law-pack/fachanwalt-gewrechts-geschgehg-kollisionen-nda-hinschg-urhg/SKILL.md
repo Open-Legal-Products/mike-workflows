@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg"
-description: "Wenn es um Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg in Fachanwalt Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg in Intellectual Property is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

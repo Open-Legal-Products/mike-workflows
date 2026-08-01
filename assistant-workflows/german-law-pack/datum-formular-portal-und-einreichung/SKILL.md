@@ -1,6 +1,6 @@
 ---
 name: "datum-formular-portal-und-einreichung"
-description: "Wenn es um Datum Formular Portal Und Einreichung in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Datum Formular Portal Und Einreichung in Employment Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

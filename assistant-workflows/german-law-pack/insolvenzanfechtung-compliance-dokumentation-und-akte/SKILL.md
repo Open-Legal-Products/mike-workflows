@@ -1,6 +1,6 @@
 ---
 name: "insolvenzanfechtung-compliance-dokumentation-und-akte"
-description: "Wenn es um Insolvenzanfechtung Compliance Dokumentation Und Akte in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Insolvenzanfechtung Compliance Dokumentation Und Akte in Fachanwalt Insolvenz- und Sanierungsrecht is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

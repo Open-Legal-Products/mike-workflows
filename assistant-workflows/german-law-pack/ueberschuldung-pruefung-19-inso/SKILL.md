@@ -1,6 +1,6 @@
 ---
 name: "ueberschuldung-pruefung-19-inso"
-description: "Wenn es um Zweistufige Überschuldungsprüfung gem. Paragraf 19 Abs. 2 InsO in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Zweistufige Überschuldungsprüfung gem. Paragraf 19 Abs. 2 InsO in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

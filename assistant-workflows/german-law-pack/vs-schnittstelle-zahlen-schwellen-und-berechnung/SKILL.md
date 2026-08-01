@@ -1,6 +1,6 @@
 ---
 name: "vs-schnittstelle-zahlen-schwellen-und-berechnung"
-description: "Wenn es um Schnittstelle: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Versicherungsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Schnittstelle: Zahlen, Schwellenwerte und Berechnung in Insurance Law is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

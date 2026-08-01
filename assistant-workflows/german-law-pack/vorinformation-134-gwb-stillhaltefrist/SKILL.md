@@ -1,6 +1,6 @@
 ---
 name: "vorinformation-134-gwb-stillhaltefrist"
-description: "Wenn es um Vorinformation 134 Gwb Stillhaltefrist in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vorinformation 134 Gwb Stillhaltefrist in Public Procurement Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

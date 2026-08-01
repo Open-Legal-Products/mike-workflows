@@ -1,6 +1,6 @@
 ---
 name: "kaution-rueckzahlung"
-description: "Wenn es um Kaution Rueckzahlung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Kaution Rueckzahlung in Fachanwalt Miet- und Wohnungseigentumsrecht is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

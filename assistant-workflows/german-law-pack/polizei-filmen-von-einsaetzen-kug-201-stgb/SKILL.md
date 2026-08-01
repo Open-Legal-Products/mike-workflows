@@ -1,6 +1,6 @@
 ---
 name: "polizei-filmen-von-einsaetzen-kug-201-stgb"
-description: "Wenn es um Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen in Administrative Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

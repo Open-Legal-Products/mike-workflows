@@ -1,6 +1,6 @@
 ---
 name: "deckungsanfrage-pruefen"
-description: "Wenn es um Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG in Insurance Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

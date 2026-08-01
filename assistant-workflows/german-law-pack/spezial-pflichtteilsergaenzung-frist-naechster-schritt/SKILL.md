@@ -1,6 +1,6 @@
 ---
 name: "spezial-pflichtteilsergaenzung-frist-naechster-schritt"
-description: "Wenn es um Pflichtteilsergaenzung: Fristennotiz und nächster Schritt in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Pflichtteilsergaenzung: Fristennotiz und nächster Schritt in Inheritance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "ar-betriebsuebergang-spezial"
-description: "Wenn es um Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

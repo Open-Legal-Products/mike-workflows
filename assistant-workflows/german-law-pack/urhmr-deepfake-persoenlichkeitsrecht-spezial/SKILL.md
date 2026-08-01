@@ -1,6 +1,6 @@
 ---
 name: "urhmr-deepfake-persoenlichkeitsrecht-spezial"
-description: "Wenn es um Urhmr Deepfake Persoenlichkeitsrecht Spezial in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Urhmr Deepfake Persoenlichkeitsrecht Spezial in Copyright and Media Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

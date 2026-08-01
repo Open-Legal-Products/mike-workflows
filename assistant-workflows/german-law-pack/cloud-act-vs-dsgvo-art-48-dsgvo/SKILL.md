@@ -1,6 +1,6 @@
 ---
 name: "cloud-act-vs-dsgvo-art-48-dsgvo"
-description: "Wenn es um Cloud Act Vs DSGVO Art 48 DSGVO in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Cloud Act Vs DSGVO Art 48 DSGVO in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

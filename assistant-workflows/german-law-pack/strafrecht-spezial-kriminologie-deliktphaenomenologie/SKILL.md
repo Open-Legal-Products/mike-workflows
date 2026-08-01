@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-kriminologie-deliktphaenomenologie"
-description: "Wenn es um Strafrecht Spezial Kriminologie Deliktphaenomenologie in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Strafrecht Spezial Kriminologie Deliktphaenomenologie in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

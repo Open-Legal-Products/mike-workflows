@@ -1,6 +1,6 @@
 ---
 name: "nachlassinsolvenz-paragraf-1980-bgb-bgh-ix-zb-118-17"
-description: "Wenn es um Nachlassinsolvenz Paragraf 1980 BGB BGH Ix Zb 118 17 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Nachlassinsolvenz Paragraf 1980 BGB BGH Ix Zb 118 17 in Inheritance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

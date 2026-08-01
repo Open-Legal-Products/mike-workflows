@@ -1,6 +1,6 @@
 ---
 name: "stgb-formular-portal-und-einreichung"
-description: "Wenn es um Stgb: Formular, Portal und Einreichungslogik in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Stgb: Formular, Portal und Einreichungslogik in Traffic Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

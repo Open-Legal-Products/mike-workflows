@@ -1,6 +1,6 @@
 ---
 name: "spezial-geas-red-team-und-qualitaetskontrolle"
-description: "Wenn es um Geas: Red-Team und Qualitätskontrolle in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Geas: Red-Team und Qualitätskontrolle in Migration Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

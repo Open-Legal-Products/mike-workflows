@@ -1,6 +1,6 @@
 ---
 name: "software-mangel"
-description: "Wenn es um Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

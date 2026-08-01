@@ -1,6 +1,6 @@
 ---
 name: "dubletten-serienforderungen"
-description: "Wenn es um Dubletten und Serienforderungen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Dubletten und Serienforderungen in Insolvenzforderungsanmeldungsprüfung is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

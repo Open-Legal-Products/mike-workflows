@@ -1,6 +1,6 @@
 ---
 name: "anerkennung-berufsabschluss"
-description: "Wenn es um Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

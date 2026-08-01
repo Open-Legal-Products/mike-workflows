@@ -1,6 +1,6 @@
 ---
 name: "ins-anschluss-routing"
-description: "Wenn es um Anschluss-Routing in Fachanwalt Insolvenz- und Sanierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Anschluss-Routing in Fachanwalt Insolvenz- und Sanierungsrecht is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

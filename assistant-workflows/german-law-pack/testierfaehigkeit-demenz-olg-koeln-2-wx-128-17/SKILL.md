@@ -1,6 +1,6 @@
 ---
 name: "testierfaehigkeit-demenz-olg-koeln-2-wx-128-17"
-description: "Wenn es um Testierfaehigkeit Demenz Olg Koeln 2 Wx 128 17 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Testierfaehigkeit Demenz Olg Koeln 2 Wx 128 17 in Inheritance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

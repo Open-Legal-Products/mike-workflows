@@ -1,6 +1,6 @@
 ---
 name: "fam-vergleichsverhandlung-strategie"
-description: "Wenn es um Vergleichsverhandlung Strategie in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vergleichsverhandlung Strategie in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

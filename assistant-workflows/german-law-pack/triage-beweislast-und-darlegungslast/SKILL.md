@@ -1,6 +1,6 @@
 ---
 name: "triage-beweislast-und-darlegungslast"
-description: "Wenn es um Triage: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Bau Architektenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Triage: Beweislast, Darlegungslast und Substantiierung in Construction and Architects Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "unwirksam-fristennotiz-und-naechster-schritt"
-description: "Wenn es um Unwirksam Fristennotiz Und Naechster Schritt in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Unwirksam Fristennotiz Und Naechster Schritt in Employment Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

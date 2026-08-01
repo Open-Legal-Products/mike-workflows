@@ -1,6 +1,6 @@
 ---
 name: "baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19"
-description: "Wenn es um Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19 in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19 in Construction and Architects Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

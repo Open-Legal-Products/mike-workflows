@@ -1,6 +1,6 @@
 ---
 name: "it-orientierung-sonderfall-edge-case"
-description: "Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Orientierung: Sonderfall und Edge-Case-Prüfung in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo"
-description: "Wenn es um Normenkontrolle Paragraf 47 VwGO in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "When Normenkontrolle Paragraf 47 VwGO in Administrative Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a counter-check with error, evidence, and deadline review."
 license: "MIT"
 metadata:
   version: "1.0.0"

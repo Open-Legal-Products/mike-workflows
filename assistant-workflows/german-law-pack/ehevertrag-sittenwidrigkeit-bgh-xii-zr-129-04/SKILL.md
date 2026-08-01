@@ -1,6 +1,6 @@
 ---
 name: "ehevertrag-sittenwidrigkeit-bgh-xii-zr-129-04"
-description: "Wenn es um Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04 in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04 in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

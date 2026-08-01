@@ -1,6 +1,6 @@
 ---
 name: "spezial-grenzueberschreitender-vertragsstreit"
-description: "Wenn es um Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung in International Business Law is required: organises file content, evidence, gaps, and follow-up requests; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

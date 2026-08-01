@@ -1,6 +1,6 @@
 ---
 name: "duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation"
-description: "Wenn es um Duengeverordnung Rote Gebiete Paragraf 13a Duev Derogation in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Duengeverordnung Rote Gebiete Paragraf 13a Duev Derogation in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

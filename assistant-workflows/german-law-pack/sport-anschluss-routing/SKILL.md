@@ -1,6 +1,6 @@
 ---
 name: "sport-anschluss-routing"
-description: "Wenn es um Anschluss-Routing in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "When Anschluss-Routing in Sports Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a filing plan with form, portal, and evidence check."
 license: "MIT"
 metadata:
   version: "1.0.0"

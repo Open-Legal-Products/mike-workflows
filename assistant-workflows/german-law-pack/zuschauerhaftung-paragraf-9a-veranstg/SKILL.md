@@ -1,6 +1,6 @@
 ---
 name: "zuschauerhaftung-paragraf-9a-veranstg"
-description: "Wenn es um Zuschauerhaftung Paragraf 9a Veranstg in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Zuschauerhaftung Paragraf 9a Veranstg in Sports Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "insf-output-waehlen"
-description: "Wenn es um Output wählen in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Output wählen in Insolvenzforderungsanmeldungsprüfung is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

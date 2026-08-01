@@ -1,6 +1,6 @@
 ---
 name: "tierhaltung-immissionsabwehr-paragraf-906-bgb-ta-luft"
-description: "Wenn es um Tierhaltung Immissionsabwehr Paragraf 906 BGB Ta Luft in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Tierhaltung Immissionsabwehr Paragraf 906 BGB Ta Luft in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

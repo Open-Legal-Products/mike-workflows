@@ -1,6 +1,6 @@
 ---
 name: "frachtfuehrerhaftung-pruefen"
-description: "Wenn es um Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen in Transport and Freight Forwarding Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "partg-haftung-paragraf-8-partgg"
-description: "Wenn es um Partg Haftung Paragraf 8 PartGG in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Partg Haftung Paragraf 8 PartGG in Fachanwalt Handels- und Gesellschaftsrecht is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

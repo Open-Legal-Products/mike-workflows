@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-strafrecht-wahlverteidiger-mandat"
-description: "Wenn es um Wahlverteidiger-Mandat in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Wahlverteidiger-Mandat in Criminal Law is required: organises file content, evidence, gaps, and follow-up requests; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

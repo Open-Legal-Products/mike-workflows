@@ -1,6 +1,6 @@
 ---
 name: "strafr-dysfunk-wahlverteidigerausschluss-138a"
-description: "Wenn es um Wahlverteidigerausschluss nach Paragraf 138a StPO abwehren in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Wahlverteidigerausschluss nach Paragraf 138a StPO abwehren in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

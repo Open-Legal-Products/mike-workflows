@@ -1,6 +1,6 @@
 ---
 name: "schmerzensgeld-hightech-schaden"
-description: "Wenn es um Schmerzensgeld Hightech Schaden in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schmerzensgeld Hightech Schaden in Medical Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

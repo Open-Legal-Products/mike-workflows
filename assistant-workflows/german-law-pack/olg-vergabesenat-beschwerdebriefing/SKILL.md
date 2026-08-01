@@ -1,6 +1,6 @@
 ---
 name: "olg-vergabesenat-beschwerdebriefing"
-description: "Wenn es um Olg Vergabesenat Beschwerdebriefing in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Olg Vergabesenat Beschwerdebriefing in Public Procurement Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

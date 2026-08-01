@@ -1,6 +1,6 @@
 ---
 name: "sportr-einfuehrung-rechtsfelder"
-description: "Wenn es um Sportr Einfuehrung Rechtsfelder in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Sportr Einfuehrung Rechtsfelder in Sports Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

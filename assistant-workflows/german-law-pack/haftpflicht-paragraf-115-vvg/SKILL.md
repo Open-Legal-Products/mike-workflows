@@ -1,6 +1,6 @@
 ---
 name: "haftpflicht-paragraf-115-vvg"
-description: "Wenn es um Haftpflicht Paragraf 115 VVG in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Haftpflicht Paragraf 115 VVG in Traffic Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

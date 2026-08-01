@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-medizinrecht-kassenarztrecht"
-description: "Wenn es um Kassenarztrecht in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Fachanwalt Medizinrecht Kassenarztrecht; Arbeitsfeld: Fachanwalt Medizinrecht."
+description: "When Kassenarztrecht in Medical Law is required: drafts the appropriate document from facts, norm, evidence, and motion; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Fachanwalt Medizinrecht Kassenarztrecht; Arbeitsfeld: Fachanwalt Medizinrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

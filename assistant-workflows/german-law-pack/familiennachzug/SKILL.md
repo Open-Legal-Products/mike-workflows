@@ -1,6 +1,6 @@
 ---
 name: "familiennachzug"
-description: "Wenn es um Familiennachzug in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familiennachzug; Arbeitsfeld: Fachanwalt Migrationsrecht."
+description: "When Familiennachzug in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familiennachzug; Arbeitsfeld: Fachanwalt Migrationsrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

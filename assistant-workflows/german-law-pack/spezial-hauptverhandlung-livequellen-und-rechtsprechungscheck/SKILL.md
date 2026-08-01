@@ -1,6 +1,6 @@
 ---
 name: "spezial-hauptverhandlung-livequellen-und-rechtsprechungscheck"
-description: "Wenn es um Hauptverhandlung: Livequellen- und Rechtsprechungscheck in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Hauptverhandlung: Livequellen- und Rechtsprechungscheck in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

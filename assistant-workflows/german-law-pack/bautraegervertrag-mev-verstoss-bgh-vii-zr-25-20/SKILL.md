@@ -1,6 +1,6 @@
 ---
 name: "bautraegervertrag-mev-verstoss-bgh-vii-zr-25-20"
-description: "Wenn es um Bautraegervertrag Mev Verstoss BGH Vii Zr 25 20 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bautraegervertrag Mev Verstoss BGH Vii Zr 25 20 in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

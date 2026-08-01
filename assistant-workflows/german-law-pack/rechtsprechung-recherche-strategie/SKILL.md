@@ -1,6 +1,6 @@
 ---
 name: "rechtsprechung-recherche-strategie"
-description: "Wenn es um Rechtsprechung-Recherche-Strategie in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Rechtsprechung-Recherche-Strategie in Subsumtions-Prüfer is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

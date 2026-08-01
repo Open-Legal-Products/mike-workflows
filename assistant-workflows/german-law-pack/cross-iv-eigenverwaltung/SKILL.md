@@ -1,6 +1,6 @@
 ---
 name: "cross-iv-eigenverwaltung"
-description: "Wenn es um IV Cross-Border Assets — Trustee, DIP, Registervollzug in Insolvenzverwaltung - IV-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "When IV Cross-Border Assets — Trustee, DIP, Registervollzug in Insolvenzverwaltung - IV-Cockpit is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a filing plan with form, portal, and evidence check."
 license: "MIT"
 metadata:
   version: "1.0.0"

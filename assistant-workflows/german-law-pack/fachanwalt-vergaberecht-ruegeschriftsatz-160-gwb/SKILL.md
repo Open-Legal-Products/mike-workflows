@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb"
-description: "Wenn es um Ruegeschriftsatz Paragraf 160 III GWB in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Ruegeschriftsatz Paragraf 160 III GWB in Public Procurement Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

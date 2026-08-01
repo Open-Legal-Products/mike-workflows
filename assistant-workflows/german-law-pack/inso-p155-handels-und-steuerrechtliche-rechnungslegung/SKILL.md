@@ -1,6 +1,6 @@
 ---
 name: "inso-p155-handels-und-steuerrechtliche-rechnungslegung"
-description: "Wenn es um Inso P155 Handels Und Steuerrechtliche Rechnungslegung in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P155 Handels Und Steuerrechtliche Rechnungslegung in Fachanwalt Insolvenz- und Sanierungsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

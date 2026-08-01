@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-aussagepsychologie-bgh-grundsaetze"
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

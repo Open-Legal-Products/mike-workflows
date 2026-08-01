@@ -1,6 +1,6 @@
 ---
 name: "fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands"
-description: "Wenn es um Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

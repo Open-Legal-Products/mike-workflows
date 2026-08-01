@@ -1,6 +1,6 @@
 ---
 name: "riester-foerderschaedlich-pflege-bfh-x-r-19-19"
-description: "Wenn es um Riester Foerderschaedlich Pflege BFH X R 19 19 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Riester Foerderschaedlich Pflege BFH X R 19 19 in Banking and Capital Markets is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

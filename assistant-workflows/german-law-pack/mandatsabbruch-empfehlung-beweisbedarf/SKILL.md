@@ -1,6 +1,6 @@
 ---
 name: "mandatsabbruch-empfehlung-beweisbedarf"
-description: "Wenn es um Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt in Subsumtions-Prüfer is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

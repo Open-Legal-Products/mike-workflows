@@ -1,6 +1,6 @@
 ---
 name: "ai-act-art-6-hochrisiko-ki"
-description: "Wenn es um digitale Werkzeuge Act Art 6 Hochrisiko digitale Werkzeuge in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When digitale Werkzeuge Act Art 6 Hochrisiko digitale Werkzeuge in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

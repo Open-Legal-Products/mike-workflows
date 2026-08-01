@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-hgr-dis-schiedsverfahren-streit"
-description: "Wenn es um Gesellschafterstreit / DIS-Schiedsverfahren in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Gesellschafterstreit / DIS-Schiedsverfahren in Fachanwalt Handels- und Gesellschaftsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

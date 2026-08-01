@@ -1,6 +1,6 @@
 ---
 name: "gr-mandat-einordnen-bearbeitungsroute"
-description: "Wenn es um Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

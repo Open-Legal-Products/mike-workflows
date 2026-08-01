@@ -1,6 +1,6 @@
 ---
 name: "landpacht-pachtpreisbremse-paragraf-585-bgb-grdstvg"
-description: "Wenn es um Landpacht Pachtpreisbremse Paragraf 585 BGB Grdstvg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Landpacht Pachtpreisbremse Paragraf 585 BGB Grdstvg in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

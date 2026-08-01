@@ -1,6 +1,6 @@
 ---
 name: "liq-fristen-und-risikoampel"
-description: "Wenn es um Fristen- und Risikoampel Liquiditätsplanung in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Fristen- und Risikoampel Liquiditätsplanung in Liquiditätsplanung — Power is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

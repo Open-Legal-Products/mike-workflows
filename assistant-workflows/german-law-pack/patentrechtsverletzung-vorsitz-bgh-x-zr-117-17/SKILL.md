@@ -1,6 +1,6 @@
 ---
 name: "patentrechtsverletzung-vorsitz-bgh-x-zr-117-17"
-description: "Wenn es um Patentrechtsverletzung Vorsitz BGH X Zr 117 17 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Patentrechtsverletzung Vorsitz BGH X Zr 117 17 in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

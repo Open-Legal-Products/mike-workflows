@@ -1,6 +1,6 @@
 ---
 name: "beschlussanfechtung-spezial-fristen"
-description: "Wenn es um Beschlussanfechtung Spezial Fristen in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Beschlussanfechtung Spezial Fristen in Fachanwalt Miet- und Wohnungseigentumsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

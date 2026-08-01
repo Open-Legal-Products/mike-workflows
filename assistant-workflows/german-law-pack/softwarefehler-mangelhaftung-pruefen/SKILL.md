@@ -1,6 +1,6 @@
 ---
 name: "softwarefehler-mangelhaftung-pruefen"
-description: "Wenn es um Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

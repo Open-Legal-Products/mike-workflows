@@ -1,6 +1,6 @@
 ---
 name: "verwr-folgenbeseitigung-spezial"
-description: "Wenn es um Verwr Folgenbeseitigung Spezial in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verwr Folgenbeseitigung Spezial in Administrative Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

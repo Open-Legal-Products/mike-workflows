@@ -1,6 +1,6 @@
 ---
 name: "investitionsschutz-verhandlung-vergleich-und-eskalation"
-description: "Wenn es um Investitionsschutz: Verhandlung, Vergleich und Eskalation in Fachanwalt Internationales Wirtschaftsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Investitionsschutz: Verhandlung, Vergleich und Eskalation in International Business Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

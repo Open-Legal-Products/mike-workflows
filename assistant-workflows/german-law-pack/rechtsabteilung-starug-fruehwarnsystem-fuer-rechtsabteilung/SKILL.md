@@ -1,6 +1,6 @@
 ---
 name: "rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung"
-description: "Wenn es um Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung in Insolvency and Restructuring is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

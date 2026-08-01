@@ -1,6 +1,6 @@
 ---
 name: "insr-workflow-chronologie-und-belegmatrix"
-description: "Wenn es um Chronologie und Belegmatrix in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Chronologie und Belegmatrix in Insolvency and Restructuring is required: organises file content, evidence, gaps, and follow-up requests; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "chronologie-internationaler-bezug-und-schnittstellen"
-description: "Wenn es um Chronologie: Internationaler Bezug und Schnittstellen in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Chronologie: Internationaler Bezug und Schnittstellen in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

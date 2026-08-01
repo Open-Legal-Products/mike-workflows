@@ -1,6 +1,6 @@
 ---
 name: "verlagsredaktion-international-schnittstellen"
-description: "Wenn es um Verlagsredaktion: Internationaler Bezug und Schnittstellen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verlagsredaktion: Internationaler Bezug und Schnittstellen in Copyright and Media Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

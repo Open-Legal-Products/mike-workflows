@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-amtstraegerbestechung-332-334-stgb"
-description: "Wenn es um Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

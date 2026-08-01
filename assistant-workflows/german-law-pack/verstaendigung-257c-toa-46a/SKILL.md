@@ -1,6 +1,6 @@
 ---
 name: "verstaendigung-257c-toa-46a"
-description: "Wenn es um Verstaendigung 257c Toa 46a in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verstaendigung 257c Toa 46a in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-verwaltungsrecht-drittanfechtung-umwelt"
-description: "Wenn es um Drittanfechtung Umwelt-Genehmigung in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Drittanfechtung Umwelt-Genehmigung in Administrative Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

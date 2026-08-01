@@ -1,6 +1,6 @@
 ---
 name: "forderungsanmeldung-pruefung"
-description: "Wenn es um Forderungsanmeldungen prüfen in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Forderungsanmeldungen prüfen in Insolvenzverwaltung - IV-Cockpit is required: organises file content, evidence, gaps, and follow-up requests; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "bautraeger-weg-instandhaltungsruecklage-uebergabe"
-description: "Wenn es um WEG-Instandhaltungsruecklage zur Übergabe in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When WEG-Instandhaltungsruecklage zur Übergabe in Construction and Architects Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

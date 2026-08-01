@@ -1,6 +1,6 @@
 ---
 name: "cum-ex-beihilfe-bgh-1-str-519-20"
-description: "Wenn es um Cum Ex Beihilfe BGH 1 Str 519 20 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Cum Ex Beihilfe BGH 1 Str 519 20 in Banking and Capital Markets is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

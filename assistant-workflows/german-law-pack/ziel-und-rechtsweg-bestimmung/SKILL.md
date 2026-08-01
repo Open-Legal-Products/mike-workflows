@@ -1,6 +1,6 @@
 ---
 name: "ziel-und-rechtsweg-bestimmung"
-description: "Wenn es um Ziel- und Rechtsweg-Bestimmung in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Ziel- und Rechtsweg-Bestimmung in Subsumtions-Prüfer is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

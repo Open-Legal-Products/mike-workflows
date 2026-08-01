@@ -1,6 +1,6 @@
 ---
 name: "spezial-vermoegensanlage-livequellen-und-rechtsprechungscheck"
-description: "Wenn es um Vermoegensanlage: Livequellen- und Rechtsprechungscheck in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vermoegensanlage: Livequellen- und Rechtsprechungscheck in Banking and Capital Markets is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

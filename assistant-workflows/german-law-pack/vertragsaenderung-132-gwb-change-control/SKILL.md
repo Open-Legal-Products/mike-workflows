@@ -1,6 +1,6 @@
 ---
 name: "vertragsaenderung-132-gwb-change-control"
-description: "Wenn es um Vertragsaenderung 132 Gwb Change Control in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Vertragsaenderung 132 Gwb Change Control in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

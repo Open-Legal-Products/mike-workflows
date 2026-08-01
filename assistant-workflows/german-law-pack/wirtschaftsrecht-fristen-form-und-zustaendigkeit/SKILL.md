@@ -1,6 +1,6 @@
 ---
 name: "wirtschaftsrecht-fristen-form-und-zustaendigkeit"
-description: "Wenn es um Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg in International Business Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

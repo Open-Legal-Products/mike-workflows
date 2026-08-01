@@ -1,6 +1,6 @@
 ---
 name: "spezial-polizei-filmen-von-einsaetzen-kug-201-stgb"
-description: "Wenn es um Polizeieinsätze Filmen Und Beweissichernd Dokumentieren in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Polizeieinsätze Filmen Und Beweissichernd Dokumentieren in Administrative Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

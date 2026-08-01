@@ -1,6 +1,6 @@
 ---
 name: "feststellung-sonderfall-glaeubigerantrag-inso"
-description: "Wenn es um Feststellung: Sonderfall und Edge-Case-Prüfung in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Feststellung: Sonderfall und Edge-Case-Prüfung in Insolvency and Restructuring is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

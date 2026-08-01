@@ -1,6 +1,6 @@
 ---
 name: "inso-p122-gerichtliche-zustimmung-zur-durchfuhrung-einer-betrieb"
-description: "Wenn es um Inso P122 Gerichtliche Zustimmung Zur Durchfuhrung Einer Betrieb in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P122 Gerichtliche Zustimmung Zur Durchfuhrung Einer Betrieb in Fachanwalt Insolvenz- und Sanierungsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

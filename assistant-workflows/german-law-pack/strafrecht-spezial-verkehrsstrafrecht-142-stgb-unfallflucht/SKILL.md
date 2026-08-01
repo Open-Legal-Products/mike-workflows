@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-verkehrsstrafrecht-142-stgb-unfallflucht"
-description: "Wenn es um Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

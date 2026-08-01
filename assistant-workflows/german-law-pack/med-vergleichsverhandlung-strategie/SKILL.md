@@ -1,6 +1,6 @@
 ---
 name: "med-vergleichsverhandlung-strategie"
-description: "Wenn es um Vergleichsverhandlung Strategie in Fachanwalt Medizinrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Vergleichsverhandlung Strategie in Medical Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

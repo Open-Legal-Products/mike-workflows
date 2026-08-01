@@ -1,6 +1,6 @@
 ---
 name: "spezial-asyl-anhoerung-glaubhaftigkeit"
-description: "Wenn es um Asylanhörung/Glaubhaftigkeit in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Asylanhörung/Glaubhaftigkeit in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

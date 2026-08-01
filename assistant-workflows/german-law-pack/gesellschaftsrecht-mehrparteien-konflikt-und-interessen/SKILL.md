@@ -1,6 +1,6 @@
 ---
 name: "gesellschaftsrecht-mehrparteien-konflikt-und-interessen"
-description: "Wenn es um Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix in Banking and Capital Markets is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

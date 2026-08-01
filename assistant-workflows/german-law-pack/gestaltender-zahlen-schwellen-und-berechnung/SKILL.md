@@ -1,6 +1,6 @@
 ---
 name: "gestaltender-zahlen-schwellen-und-berechnung"
-description: "Wenn es um Gestaltender: Zahlen, Schwellenwerte und Berechnung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Gestaltender: Zahlen, Schwellenwerte und Berechnung in Insolvenzplan- und StaRUG-Planwerkstatt is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

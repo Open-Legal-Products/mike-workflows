@@ -1,6 +1,6 @@
 ---
 name: "spezial-doping-livequellen-und-rechtsprechungscheck"
-description: "Wenn es um Doping: Livequellen- und Rechtsprechungscheck in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Doping: Livequellen- und Rechtsprechungscheck in Sports Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

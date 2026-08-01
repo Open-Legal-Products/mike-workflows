@@ -1,6 +1,6 @@
 ---
 name: "forderungsanmeldung-mandantenkommunikation-redteam-qualitygate"
-description: "Wenn es um Mandantenkommunikation in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "When Mandantenkommunikation in Insolvenzforderungsanmeldungsprüfung is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a counter-check with error, evidence, and deadline review."
 license: "MIT"
 metadata:
   version: "1.0.0"

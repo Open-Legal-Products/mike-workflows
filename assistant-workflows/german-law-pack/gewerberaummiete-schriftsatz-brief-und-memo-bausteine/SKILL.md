@@ -1,6 +1,6 @@
 ---
 name: "gewerberaummiete-schriftsatz-brief-und-memo-bausteine"
-description: "Wenn es um Gewerberaummiete Schriftsatz Brief Und Memo Bausteine in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Gewerberaummiete Schriftsatz Brief Und Memo Bausteine in Fachanwalt Miet- und Wohnungseigentumsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

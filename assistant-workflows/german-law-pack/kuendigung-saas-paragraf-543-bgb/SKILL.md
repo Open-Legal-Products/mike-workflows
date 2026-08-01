@@ -1,6 +1,6 @@
 ---
 name: "kuendigung-saas-paragraf-543-bgb"
-description: "Wenn es um Kuendigung Saas Paragraf 543 BGB in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Kuendigung Saas Paragraf 543 BGB in IT Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "it-orientierung-mandat-fachanwaltschaft"
-description: "Wenn es um Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

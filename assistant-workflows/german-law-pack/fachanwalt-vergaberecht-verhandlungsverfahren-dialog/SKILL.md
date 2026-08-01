@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-vergaberecht-verhandlungsverfahren-dialog"
-description: "Wenn es um Verhandlungsverfahren und wettbewerblicher Dialog in Fachanwalt Vergaberecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Verhandlungsverfahren und wettbewerblicher Dialog in Public Procurement Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

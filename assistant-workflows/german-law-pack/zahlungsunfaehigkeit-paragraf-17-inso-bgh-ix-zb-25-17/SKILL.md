@@ -1,6 +1,6 @@
 ---
 name: "zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17"
-description: "Wenn es um Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen in Fachanwalt Insolvenz- und Sanierungsrecht is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

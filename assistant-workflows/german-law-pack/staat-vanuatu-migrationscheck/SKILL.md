@@ -1,6 +1,6 @@
 ---
 name: "staat-vanuatu-migrationscheck"
-description: "Wenn es um Staat Vanuatu Migrationscheck in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Staat Vanuatu Migrationscheck in Migration Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

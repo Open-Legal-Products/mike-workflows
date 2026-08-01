@@ -1,6 +1,6 @@
 ---
 name: "faevvollzug-neu-006-abschlussschreiben-kosten-und-frist"
-description: "Wenn es um Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist in Intellectual Property is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

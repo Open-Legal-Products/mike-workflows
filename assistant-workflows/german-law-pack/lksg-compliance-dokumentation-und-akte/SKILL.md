@@ -1,6 +1,6 @@
 ---
 name: "lksg-compliance-dokumentation-und-akte"
-description: "Wenn es um Lksg: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Lksg: Compliance-Dokumentation und Aktenvermerk in International Business Law is required: organises file content, evidence, gaps, and follow-up requests; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

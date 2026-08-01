@@ -1,6 +1,6 @@
 ---
 name: "dsv-dsfa-update-nach-vorfall"
-description: "Wenn es um Aktualisiert die Datenschutz-Folgenabschätzung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Aktualisiert die Datenschutz-Folgenabschätzung nach Art in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

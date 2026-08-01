@@ -1,6 +1,6 @@
 ---
 name: "youtube-uploader-paragraf-97-urhg-eugh-c-682-18"
-description: "Wenn es um Youtube Uploader Paragraf 97 Urhg EuGH C 682 18 in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Youtube Uploader Paragraf 97 Urhg EuGH C 682 18 in Copyright and Media Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

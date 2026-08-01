@@ -1,6 +1,6 @@
 ---
 name: "insolvenzanfechtung"
-description: "Wenn es um Insolvenzanfechtung in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Insolvenzanfechtung in Fachanwalt Insolvenz- und Sanierungsrecht is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

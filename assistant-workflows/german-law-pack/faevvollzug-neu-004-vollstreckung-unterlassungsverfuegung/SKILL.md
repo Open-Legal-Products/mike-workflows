@@ -1,6 +1,6 @@
 ---
 name: "faevvollzug-neu-004-vollstreckung-unterlassungsverfuegung"
-description: "Wenn es um Faevvollzug Neu 004 Vollstreckung Unterlassungsverfuegung in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Faevvollzug Neu 004 Vollstreckung Unterlassungsverfuegung in Intellectual Property is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "nachtragsforderung-bgh-vii-zr-34-18-bauwirtschaft"
-description: "Wenn es um Nachtragsforderung BGH Vii Zr 34 18 Bauwirtschaft in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Nachtragsforderung BGH Vii Zr 34 18 Bauwirtschaft in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

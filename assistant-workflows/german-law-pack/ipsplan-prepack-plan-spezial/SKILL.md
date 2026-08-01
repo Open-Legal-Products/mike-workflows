@@ -1,6 +1,6 @@
 ---
 name: "ipsplan-prepack-plan-spezial"
-description: "Wenn es um IPSPlan: Prepack-Plan in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When IPSPlan: Prepack-Plan in Insolvenzplan- und StaRUG-Planwerkstatt is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

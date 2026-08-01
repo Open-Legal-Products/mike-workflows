@@ -1,6 +1,6 @@
 ---
 name: "versr-d-o-claims-made-ausschluesse"
-description: "Wenn es um Versr D O Claims Made Ausschluesse in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Versr D O Claims Made Ausschluesse in Insurance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

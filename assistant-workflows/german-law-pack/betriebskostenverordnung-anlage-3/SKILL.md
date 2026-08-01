@@ -1,6 +1,6 @@
 ---
 name: "betriebskostenverordnung-anlage-3"
-description: "Wenn es um Betriebskostenverordnung Anlage 3 in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Betriebskostenverordnung Anlage 3 in Fachanwalt Miet- und Wohnungseigentumsrecht is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

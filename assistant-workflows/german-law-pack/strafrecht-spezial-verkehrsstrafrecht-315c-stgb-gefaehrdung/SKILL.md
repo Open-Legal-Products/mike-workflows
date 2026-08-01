@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-verkehrsstrafrecht-315c-stgb-gefaehrdung"
-description: "Wenn es um Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

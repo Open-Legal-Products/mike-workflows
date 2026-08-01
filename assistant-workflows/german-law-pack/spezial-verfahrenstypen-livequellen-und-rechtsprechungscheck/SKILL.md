@@ -1,6 +1,6 @@
 ---
 name: "spezial-verfahrenstypen-livequellen-und-rechtsprechungscheck"
-description: "Wenn es um Verfahrenstypen: Livequellen- und Rechtsprechungscheck in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verfahrenstypen: Livequellen- und Rechtsprechungscheck in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

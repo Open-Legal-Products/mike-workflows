@@ -1,6 +1,6 @@
 ---
 name: "versr-regress-subrogation-86-vvg"
-description: "Wenn es um Versr Regress Subrogation 86 VVG in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Versr Regress Subrogation 86 VVG in Insurance Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung"
-description: "Wenn es um Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "festsetzungen-bebauungsplan-baugenehmigung-praxis"
-description: "Wenn es um Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis in Fachanwalt Bau Architektenrecht is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

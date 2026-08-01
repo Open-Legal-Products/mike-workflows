@@ -1,6 +1,6 @@
 ---
 name: "regulierungsanforderung"
-description: "Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Regulierungsanforderung; Arbeitsfeld: Fachanwalt Verkehrsrecht."
+description: "When Regulierungsanforderung in Traffic Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Regulierungsanforderung; Arbeitsfeld: Fachanwalt Verkehrsrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

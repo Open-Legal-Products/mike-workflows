@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-bandenbetrug-263-stgb"
-description: "Wenn es um Bandenbetrug Paragraf 263 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bandenbetrug Paragraf 263 Abs in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

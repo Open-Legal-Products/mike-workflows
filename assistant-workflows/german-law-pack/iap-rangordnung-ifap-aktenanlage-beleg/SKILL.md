@@ -1,6 +1,6 @@
 ---
 name: "iap-rangordnung-ifap-aktenanlage-beleg"
-description: "Wenn es um IAP: Rangordnung-Checkliste in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When IAP: Rangordnung-Checkliste in Insolvenzforderungsanmeldungsprüfung is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

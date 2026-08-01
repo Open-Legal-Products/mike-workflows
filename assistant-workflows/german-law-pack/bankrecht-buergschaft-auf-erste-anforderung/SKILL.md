@@ -1,6 +1,6 @@
 ---
 name: "bankrecht-buergschaft-auf-erste-anforderung"
-description: "Wenn es um Bankrecht Buergschaft Auf Erste Anforderung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bankrecht Buergschaft Auf Erste Anforderung in Banking and Capital Markets is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

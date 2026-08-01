@@ -1,6 +1,6 @@
 ---
 name: "tod-eines-ehegatten-anpassung-37-ff-versausglg"
-description: "Wenn es um Tod Eines Ehegatten Anpassung 37 Ff Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Tod Eines Ehegatten Anpassung 37 Ff Versausglg in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

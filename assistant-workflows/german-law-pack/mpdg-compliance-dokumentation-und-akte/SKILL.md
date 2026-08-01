@@ -1,6 +1,6 @@
 ---
 name: "mpdg-compliance-dokumentation-und-akte"
-description: "Wenn es um Mpdg: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Mpdg: Compliance-Dokumentation und Aktenvermerk in Medical Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

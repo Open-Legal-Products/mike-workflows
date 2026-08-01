@@ -1,6 +1,6 @@
 ---
 name: "incoterms-2020-fca-versendungskauf"
-description: "Wenn es um Incoterms 2020 fca Versendungskauf in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Incoterms 2020 fca Versendungskauf in International Business Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

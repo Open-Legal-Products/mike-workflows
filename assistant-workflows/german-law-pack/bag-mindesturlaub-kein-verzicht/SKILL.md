@@ -1,6 +1,6 @@
 ---
 name: "bag-mindesturlaub-kein-verzicht"
-description: "Wenn es um Bag Mindesturlaub Kein Verzicht in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bag Mindesturlaub Kein Verzicht in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg"
-description: "Wenn es um Falsche Angaben des Geschäftsführers nach Paragraph 82 GmbHG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Falsche Angaben des Geschäftsführers nach Paragraph 82 GmbHG in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

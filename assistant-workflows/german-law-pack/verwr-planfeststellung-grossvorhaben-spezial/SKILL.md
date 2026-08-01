@@ -1,6 +1,6 @@
 ---
 name: "verwr-planfeststellung-grossvorhaben-spezial"
-description: "Wenn es um Verwr Planfeststellung Grossvorhaben Spezial in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Verwr Planfeststellung Grossvorhaben Spezial in Administrative Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

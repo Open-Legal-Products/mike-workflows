@@ -1,6 +1,6 @@
 ---
 name: "spezial-medizinische-abschiebungshindernisse"
-description: "Wenn es um Medizinische Abschiebungshindernisse in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Medizinische Abschiebungshindernisse in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

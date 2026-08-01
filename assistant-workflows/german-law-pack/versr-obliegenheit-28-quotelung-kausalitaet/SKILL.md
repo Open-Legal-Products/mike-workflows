@@ -1,6 +1,6 @@
 ---
 name: "versr-obliegenheit-28-quotelung-kausalitaet"
-description: "Wenn es um Versr Obliegenheit 28 Quotelung Kausalitaet in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Versr Obliegenheit 28 Quotelung Kausalitaet in Insurance Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

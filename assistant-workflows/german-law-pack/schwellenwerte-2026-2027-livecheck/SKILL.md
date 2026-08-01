@@ -1,6 +1,6 @@
 ---
 name: "schwellenwerte-2026-2027-livecheck"
-description: "Wenn es um Schwellenwerte 2026 2027 Livecheck in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Schwellenwerte 2026 2027 Livecheck in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

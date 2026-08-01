@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-urheberrecht-108a-urhg-gewerblich"
-description: "Wenn es um Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

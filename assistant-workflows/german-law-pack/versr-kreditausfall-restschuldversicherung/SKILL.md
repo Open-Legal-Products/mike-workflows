@@ -1,6 +1,6 @@
 ---
 name: "versr-kreditausfall-restschuldversicherung"
-description: "Wenn es um Versr Kreditausfall Restschuldversicherung in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Versr Kreditausfall Restschuldversicherung in Insurance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

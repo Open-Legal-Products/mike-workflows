@@ -1,6 +1,6 @@
 ---
 name: "agrar-cross-compliance-glozez-praxis"
-description: "Wenn es um Agrar Cross Compliance Glozez Praxis in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Agrar Cross Compliance Glozez Praxis in Agricultural Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

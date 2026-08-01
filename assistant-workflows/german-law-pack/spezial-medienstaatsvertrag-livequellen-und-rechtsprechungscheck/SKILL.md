@@ -1,6 +1,6 @@
 ---
 name: "spezial-medienstaatsvertrag-livequellen-und-rechtsprechungscheck"
-description: "Wenn es um Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck in Copyright and Media Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

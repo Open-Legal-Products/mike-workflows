@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-transport-adr-gefahrgut"
-description: "Wenn es um ADR-Gefahrgut-Transport in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When ADR-Gefahrgut-Transport in Transport and Freight Forwarding Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

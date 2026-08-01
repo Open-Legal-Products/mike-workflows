@@ -1,6 +1,6 @@
 ---
 name: "massenentlassung-anzeige-eugh-junk-bag-6-azr-155-21"
-description: "Wenn es um Massenentlassung Anzeige EuGH Junk BAG 6 Azr 155 21 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Massenentlassung Anzeige EuGH Junk BAG 6 Azr 155 21 in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

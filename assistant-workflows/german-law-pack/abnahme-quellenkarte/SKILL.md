@@ -1,6 +1,6 @@
 ---
 name: "abnahme-quellenkarte"
-description: "Wenn es um Abnahme Quellenkarte in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Abnahme Quellenkarte in Construction and Architects Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

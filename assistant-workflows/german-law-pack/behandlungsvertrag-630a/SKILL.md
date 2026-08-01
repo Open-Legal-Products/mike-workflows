@@ -1,6 +1,6 @@
 ---
 name: "behandlungsvertrag-630a"
-description: "Wenn es um Behandlungsvertrag 630a in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Behandlungsvertrag 630a in Medical Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

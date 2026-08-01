@@ -1,6 +1,6 @@
 ---
 name: "bamf-anhoerung-strategie"
-description: "Wenn es um Bamf Anhoerung Strategie in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bamf Anhoerung Strategie in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

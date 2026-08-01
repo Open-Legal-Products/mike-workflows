@@ -1,6 +1,6 @@
 ---
 name: "verteilung-fehlerkatalog"
-description: "Wenn es um Verteilung Fehlerkatalog in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verteilung Fehlerkatalog in Insolvenzforderungsanmeldungsprüfung is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

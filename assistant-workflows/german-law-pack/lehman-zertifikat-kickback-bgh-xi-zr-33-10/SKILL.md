@@ -1,6 +1,6 @@
 ---
 name: "lehman-zertifikat-kickback-bgh-xi-zr-33-10"
-description: "Wenn es um Lehman Zertifikat Kickback BGH Xi Zr 33 10 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Lehman Zertifikat Kickback BGH Xi Zr 33 10 in Banking and Capital Markets is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

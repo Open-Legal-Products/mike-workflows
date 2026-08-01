@@ -1,6 +1,6 @@
 ---
 name: "versr-vvg-anzeigepflicht-19-arglist"
-description: "Wenn es um Versr VVG Anzeigepflicht 19 Arglist in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Versr VVG Anzeigepflicht 19 Arglist in Insurance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

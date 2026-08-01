@@ -1,6 +1,6 @@
 ---
 name: "medr-grundpfeiler-igel-und-aerztewerbung-spezial"
-description: "Wenn es um Medr Grundpfeiler Igel Und Aerztewerbung Spezial in Fachanwalt Medizinrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "When Medr Grundpfeiler Igel Und Aerztewerbung Spezial in Medical Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a filing plan with form, portal, and evidence check."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "dsgvo-behoerden-gericht-und-registerweg"
-description: "Wenn es um DSGVO: Behörden-, Gerichts- oder Registerweg in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When DSGVO: Behörden-, Gerichts- oder Registerweg in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

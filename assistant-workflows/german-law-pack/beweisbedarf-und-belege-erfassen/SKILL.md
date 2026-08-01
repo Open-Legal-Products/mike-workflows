@@ -1,6 +1,6 @@
 ---
 name: "beweisbedarf-und-belege-erfassen"
-description: "Wenn es um Beweisbedarf und Belege erfassen in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Beweisbedarf und Belege erfassen in Subsumtions-Prüfer is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

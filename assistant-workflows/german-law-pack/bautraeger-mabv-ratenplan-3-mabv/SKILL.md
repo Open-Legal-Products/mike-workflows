@@ -1,6 +1,6 @@
 ---
 name: "bautraeger-mabv-ratenplan-3-mabv"
-description: "Wenn es um MaBV Paragraf 3 Ratenplan — 7 Raten nach Baufortschritt in Fachanwalt Bau Architektenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When MaBV Paragraf 3 Ratenplan — 7 Raten nach Baufortschritt in Construction and Architects Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

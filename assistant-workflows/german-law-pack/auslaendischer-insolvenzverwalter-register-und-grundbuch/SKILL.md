@@ -1,6 +1,6 @@
 ---
 name: "auslaendischer-insolvenzverwalter-register-und-grundbuch"
-description: "Wenn es um Ausländischer Insolvenzverwalter — Register und Grundbuch in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "When Ausländischer Insolvenzverwalter — Register und Grundbuch in Insolvency and Restructuring is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a filing plan with form, portal, and evidence check."
 license: "MIT"
 metadata:
   version: "1.0.0"

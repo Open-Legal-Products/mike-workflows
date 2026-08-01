@@ -1,6 +1,6 @@
 ---
 name: "belegmatrix-formular-portal-und-einreichung"
-description: "Wenn es um Belegmatrix: Formular, Portal und Einreichungslogik in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Belegmatrix: Formular, Portal und Einreichungslogik in Insolvency and Restructuring is required: organises file content, evidence, gaps, and follow-up requests; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

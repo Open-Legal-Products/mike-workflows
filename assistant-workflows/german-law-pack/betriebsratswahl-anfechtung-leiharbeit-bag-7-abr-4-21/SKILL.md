@@ -1,6 +1,6 @@
 ---
 name: "betriebsratswahl-anfechtung-leiharbeit-bag-7-abr-4-21"
-description: "Wenn es um Betriebsratswahl Anfechtung Leiharbeit BAG 7 Abr 4 21 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Betriebsratswahl Anfechtung Leiharbeit BAG 7 Abr 4 21 in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

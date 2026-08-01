@@ -1,6 +1,6 @@
 ---
 name: "designschutz-eu-gemeinschaftsgeschmacksmuster-eugh-c-419-13"
-description: "Wenn es um Designschutz EU Gemeinschaftsgeschmacksmuster EuGH C 419 13 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Designschutz EU Gemeinschaftsgeschmacksmuster EuGH C 419 13 in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

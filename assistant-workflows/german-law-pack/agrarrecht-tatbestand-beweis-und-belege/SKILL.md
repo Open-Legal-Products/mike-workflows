@@ -1,6 +1,6 @@
 ---
 name: "agrarrecht-tatbestand-beweis-und-belege"
-description: "Wenn es um Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Agrarrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Agricultural Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

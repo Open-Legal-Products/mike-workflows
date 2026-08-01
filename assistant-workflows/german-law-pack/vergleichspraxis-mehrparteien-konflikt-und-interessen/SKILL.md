@@ -1,6 +1,6 @@
 ---
 name: "vergleichspraxis-mehrparteien-konflikt-und-interessen"
-description: "Wenn es um Vergleichspraxis Mehrparteien Konflikt Und Interessen in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Vergleichspraxis Mehrparteien Konflikt Und Interessen in Employment Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "massemehrung-asset-realisation"
-description: "Wenn es um Massemehrung und Verwertung in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Massemehrung und Verwertung in Insolvenzverwaltung - IV-Cockpit is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

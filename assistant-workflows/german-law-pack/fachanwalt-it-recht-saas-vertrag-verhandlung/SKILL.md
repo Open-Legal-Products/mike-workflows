@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-it-recht-saas-vertrag-verhandlung"
-description: "Wenn es um SaaS-Vertrag — Prüfung und Verhandlung in Fachanwalt It Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When SaaS-Vertrag — Prüfung und Verhandlung in IT Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

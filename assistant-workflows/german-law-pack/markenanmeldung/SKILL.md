@@ -1,6 +1,6 @@
 ---
 name: "markenanmeldung"
-description: "Wenn es um Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

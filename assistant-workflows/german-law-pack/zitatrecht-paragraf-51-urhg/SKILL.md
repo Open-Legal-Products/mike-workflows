@@ -1,6 +1,6 @@
 ---
 name: "zitatrecht-paragraf-51-urhg"
-description: "Wenn es um Zitatrecht Paragraf 51 UrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Zitatrecht Paragraf 51 UrhG in Copyright and Media Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

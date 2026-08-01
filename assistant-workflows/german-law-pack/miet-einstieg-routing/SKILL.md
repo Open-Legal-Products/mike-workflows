@@ -1,6 +1,6 @@
 ---
 name: "miet-einstieg-routing"
-description: "Wenn es um Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Anwalts-Dashboard Fachanwalt Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

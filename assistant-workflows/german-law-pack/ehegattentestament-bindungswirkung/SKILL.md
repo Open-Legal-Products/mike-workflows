@@ -1,6 +1,6 @@
 ---
 name: "ehegattentestament-bindungswirkung"
-description: "Wenn es um Ehegattentestament Bindungswirkung in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Ehegattentestament Bindungswirkung in Inheritance Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

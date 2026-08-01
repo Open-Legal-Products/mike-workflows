@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-betrug-263-stgb-besonders-schwer"
-description: "Wenn es um Besonders schwerer Fall des Betruges Paragraf 263 Abs. 3 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Besonders schwerer Fall des Betruges Paragraf 263 Abs. 3 StGB in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

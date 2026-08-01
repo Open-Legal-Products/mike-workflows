@@ -1,6 +1,6 @@
 ---
 name: "digitaler-nachlass-facebook-bgh-iii-zr-183-17"
-description: "Wenn es um Digitaler Nachlass Facebook BGH Iii Zr 183 17 in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Digitaler Nachlass Facebook BGH Iii Zr 183 17 in Inheritance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

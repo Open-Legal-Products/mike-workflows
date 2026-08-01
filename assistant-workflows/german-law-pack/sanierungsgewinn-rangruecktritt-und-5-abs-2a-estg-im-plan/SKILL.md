@@ -1,6 +1,6 @@
 ---
 name: "sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan"
-description: "Wenn es um Sanierungsgewinn — Rangrücktritt und Paragraph 5 Absatz 2a EStG im Plan in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Sanierungsgewinn — Rangrücktritt und Paragraph 5 Absatz 2a EStG im Plan in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

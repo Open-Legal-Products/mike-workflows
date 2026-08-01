@@ -1,6 +1,6 @@
 ---
 name: "bankrecht-privatbuergschaft-sittenwidrigkeit"
-description: "Wenn es um Bankrecht Privatbuergschaft Sittenwidrigkeit in Fachanwalt Bank Kapitalmarktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Bankrecht Privatbuergschaft Sittenwidrigkeit in Banking and Capital Markets is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

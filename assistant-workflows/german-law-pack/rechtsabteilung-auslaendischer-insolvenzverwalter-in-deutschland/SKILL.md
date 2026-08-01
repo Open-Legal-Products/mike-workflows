@@ -1,6 +1,6 @@
 ---
 name: "rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland"
-description: "Wenn es um Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland in Insolvenzrecht is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "laienhilfe-unterlagen-sortieren"
-description: "Wenn es um Laienhilfe: Unterlagen Sortieren in Fachanwalt Sozialrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When Laienhilfe: Unterlagen Sortieren in Social Security Law is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

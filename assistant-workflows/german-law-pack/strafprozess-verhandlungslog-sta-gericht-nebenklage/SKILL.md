@@ -1,6 +1,6 @@
 ---
 name: "strafprozess-verhandlungslog-sta-gericht-nebenklage"
-description: "Wenn es um Strafprozess Verhandlungslog Sta Gericht Nebenklage in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Strafprozess Verhandlungslog Sta Gericht Nebenklage in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

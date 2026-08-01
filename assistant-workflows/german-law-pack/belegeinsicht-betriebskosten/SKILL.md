@@ -1,6 +1,6 @@
 ---
 name: "belegeinsicht-betriebskosten"
-description: "Wenn es um Belegeinsicht Betriebskosten in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Belegeinsicht Betriebskosten in Fachanwalt Miet- und Wohnungseigentumsrecht is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

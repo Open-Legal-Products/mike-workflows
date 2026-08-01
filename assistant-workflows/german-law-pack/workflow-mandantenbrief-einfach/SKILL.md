@@ -1,6 +1,6 @@
 ---
 name: "workflow-mandantenbrief-einfach"
-description: "Wenn es um Mandantenbrief einfach: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Mandantenbrief einfach: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

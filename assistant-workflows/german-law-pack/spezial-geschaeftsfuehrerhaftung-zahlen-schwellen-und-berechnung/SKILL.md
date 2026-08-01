@@ -1,6 +1,6 @@
 ---
 name: "spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung"
-description: "Wenn es um Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Handels- und Gesellschaftsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

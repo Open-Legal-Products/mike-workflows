@@ -1,6 +1,6 @@
 ---
 name: "bau-livecheck-abschlussprodukt-und-uebergabe"
-description: "Wenn es um Livecheck: Abschlussprodukt und Übergabe in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Livecheck: Abschlussprodukt und Übergabe in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

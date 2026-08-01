@@ -1,6 +1,6 @@
 ---
 name: "inso-p291-weggefallen"
-description: "Wenn es um Paragraf 291 InsO ist im aktuellen Normtext weggefallen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Paragraf 291 InsO ist im aktuellen Normtext weggefallen in Fachanwalt Insolvenz- und Sanierungsrecht is required: organises file content, evidence, gaps, and follow-up requests; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

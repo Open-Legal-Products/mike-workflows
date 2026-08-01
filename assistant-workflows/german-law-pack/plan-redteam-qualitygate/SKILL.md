@@ -1,6 +1,6 @@
 ---
 name: "plan-redteam-qualitygate"
-description: "Wenn es um IV-integrierte Red Team und Quality Gate in Insolvenzverwaltung - IV-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When IV-integrierte Red Team und Quality Gate in Insolvenzverwaltung - IV-Cockpit is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

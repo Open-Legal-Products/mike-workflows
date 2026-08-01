@@ -1,6 +1,6 @@
 ---
 name: "einstieg-in-den-skill-verbund-sozialrecht"
-description: "Wenn es um Einstieg in den Skill-Verbund Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Einstieg in den Skill-Verbund Sozialrecht in Fachanwalt Sozialrecht is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

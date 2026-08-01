@@ -1,6 +1,6 @@
 ---
 name: "ausgabengruppen-systematik"
-description: "Wenn es um Liqui: Ausgabengruppen in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Liqui: Ausgabengruppen in Liquiditätsplanung — Power is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

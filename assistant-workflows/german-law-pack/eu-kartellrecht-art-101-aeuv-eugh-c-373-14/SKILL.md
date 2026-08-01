@@ -1,6 +1,6 @@
 ---
 name: "eu-kartellrecht-art-101-aeuv-eugh-c-373-14"
-description: "Wenn es um EU Kartellrecht Art 101 Aeuv EuGH C 373 14 in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When EU Kartellrecht Art 101 Aeuv EuGH C 373 14 in International Business Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

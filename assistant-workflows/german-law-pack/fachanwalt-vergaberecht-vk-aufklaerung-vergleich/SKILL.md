@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-vergaberecht-vk-aufklaerung-vergleich"
-description: "Wenn es um Vergabekammer-Erörterung, Abhilfe und Vergleichskorridor in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Vergabekammer-Erörterung, Abhilfe und Vergleichskorridor in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

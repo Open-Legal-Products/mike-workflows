@@ -1,6 +1,6 @@
 ---
 name: "lizenzanaloger-fristennotiz-und-naechster-schritt"
-description: "Wenn es um Lizenzanaloger Fristennotiz Und Naechster Schritt in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Lizenzanaloger Fristennotiz Und Naechster Schritt in Intellectual Property is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

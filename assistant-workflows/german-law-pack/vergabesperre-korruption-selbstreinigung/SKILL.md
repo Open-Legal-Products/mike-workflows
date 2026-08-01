@@ -1,6 +1,6 @@
 ---
 name: "vergabesperre-korruption-selbstreinigung"
-description: "Wenn es um Vergabesperre Korruption Selbstreinigung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vergabesperre Korruption Selbstreinigung in Public Procurement Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

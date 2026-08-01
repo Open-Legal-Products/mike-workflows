@@ -1,6 +1,6 @@
 ---
 name: "urh-quellen-livecheck"
-description: "Wenn es um Rechtsquellen-Livecheck in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Rechtsquellen-Livecheck in Copyright and Media Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

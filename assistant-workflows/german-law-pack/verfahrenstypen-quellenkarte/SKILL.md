@@ -1,6 +1,6 @@
 ---
 name: "verfahrenstypen-quellenkarte"
-description: "Wenn es um Verfahrenstypen Quellenkarte in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Verfahrenstypen Quellenkarte in Insolvency and Restructuring is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

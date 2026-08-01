@@ -1,6 +1,6 @@
 ---
 name: "staat-st-kitts-und-nevis-migrationscheck"
-description: "Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Staat St Kitts Und Nevis Migrationscheck; Arbeitsfeld: Fachanwalt Migrationsrecht."
+description: "When Staaten- und Gebietscheck St in Migration Law is required: organises file content, evidence, gaps, and follow-up requests; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Staat St Kitts Und Nevis Migrationscheck; Arbeitsfeld: Fachanwalt Migrationsrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

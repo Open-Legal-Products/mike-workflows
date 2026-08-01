@@ -1,6 +1,6 @@
 ---
 name: "familienzusammenfuehrung-paragraf-32-aufenthg-bverwg-1-c-21-19"
-description: "Wenn es um Familienzusammenfuehrung Paragraf 32 Aufenthg BVerwG 1 C 21 19 in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Familienzusammenfuehrung Paragraf 32 Aufenthg BVerwG 1 C 21 19 in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

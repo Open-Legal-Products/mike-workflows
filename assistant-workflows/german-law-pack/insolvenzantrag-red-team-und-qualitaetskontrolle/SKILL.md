@@ -1,6 +1,6 @@
 ---
 name: "insolvenzantrag-red-team-und-qualitaetskontrolle"
-description: "Wenn es um Insolvenzantrag: Red-Team und Qualitätskontrolle in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Insolvenzantrag: Red-Team und Qualitätskontrolle in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "normenkontrolle-47-vwgo"
-description: "Wenn es um Normenkontrolle 47 Vwgo in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Normenkontrolle 47 Vwgo in Administrative Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "tatbestandsmerkmale-vier-zerlegen"
-description: "Wenn es um Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung in Subsumtions-Prüfer is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

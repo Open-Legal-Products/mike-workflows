@@ -1,6 +1,6 @@
 ---
 name: "urhmr-leistungsschutzrecht-presse-spezial"
-description: "Wenn es um Urhmr Leistungsschutzrecht Presse Spezial in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Urhmr Leistungsschutzrecht Presse Spezial in Copyright and Media Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

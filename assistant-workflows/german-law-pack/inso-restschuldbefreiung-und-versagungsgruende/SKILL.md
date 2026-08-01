@@ -1,6 +1,6 @@
 ---
 name: "inso-restschuldbefreiung-und-versagungsgruende"
-description: "Wenn es um InsO: Restschuldbefreiung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When InsO: Restschuldbefreiung in Insolvency and Restructuring is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

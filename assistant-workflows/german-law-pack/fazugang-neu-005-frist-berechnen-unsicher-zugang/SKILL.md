@@ -1,6 +1,6 @@
 ---
 name: "fazugang-neu-005-frist-berechnen-unsicher-zugang"
-description: "Wenn es um Fachanwalt Arbeitsrecht: Kündigungsfrist berechnen bei unsicherem Zugang in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Fachanwalt Arbeitsrecht: Kündigungsfrist berechnen bei unsicherem Zugang in Employment Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

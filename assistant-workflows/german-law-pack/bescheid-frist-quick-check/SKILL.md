@@ -1,6 +1,6 @@
 ---
 name: "bescheid-frist-quick-check"
-description: "Wenn es um 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids in Social Security Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

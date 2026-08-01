@@ -1,6 +1,6 @@
 ---
 name: "nis2-quellenkarte"
-description: "Wenn es um Nis2 Quellenkarte in Fachanwalt It Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Nis2 Quellenkarte in IT Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

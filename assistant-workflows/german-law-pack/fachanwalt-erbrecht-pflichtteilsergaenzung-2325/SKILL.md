@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-erbrecht-pflichtteilsergaenzung-2325"
-description: "Wenn es um Pflichtteilsergänzungsanspruch Paragraf 2325 BGB in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Pflichtteilsergänzungsanspruch Paragraf 2325 BGB in Inheritance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

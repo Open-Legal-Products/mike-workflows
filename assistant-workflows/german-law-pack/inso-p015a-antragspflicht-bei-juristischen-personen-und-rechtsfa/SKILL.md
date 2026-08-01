@@ -1,6 +1,6 @@
 ---
 name: "inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa"
-description: "Wenn es um Inso P015a Antragspflicht Bei Juristischen Personen Und Rechtsfa in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P015a Antragspflicht Bei Juristischen Personen Und Rechtsfa in Fachanwalt Insolvenz- und Sanierungsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "athletenwerbung-paragraf-3-uwg"
-description: "Wenn es um Athletenwerbung Paragraf 3 uwg in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Athletenwerbung Paragraf 3 uwg in Sports Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

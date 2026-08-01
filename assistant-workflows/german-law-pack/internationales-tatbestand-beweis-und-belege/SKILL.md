@@ -1,6 +1,6 @@
 ---
 name: "internationales-tatbestand-beweis-und-belege"
-description: "Wenn es um Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage in International Business Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "mig-einstieg-schnelltriage-fallrouting"
-description: "Wenn es um Einstieg Schnelltriage Fallrouting in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Einstieg Schnelltriage Fallrouting in Migration Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

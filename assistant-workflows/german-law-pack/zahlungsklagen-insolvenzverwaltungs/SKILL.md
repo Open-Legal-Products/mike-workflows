@@ -1,6 +1,6 @@
 ---
 name: "zahlungsklagen-insolvenzverwaltungs"
-description: "Wenn es um Zahlungsklagen nach Paragraf 15b InsO in Insolvenzverwaltung - IV-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Zahlungsklagen nach Paragraf 15b InsO in Insolvenzverwaltung - IV-Cockpit is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

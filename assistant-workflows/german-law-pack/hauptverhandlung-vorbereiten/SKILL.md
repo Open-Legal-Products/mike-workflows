@@ -1,6 +1,6 @@
 ---
 name: "hauptverhandlung-vorbereiten"
-description: "Wenn es um Hauptverhandlung Vorbereiten in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Hauptverhandlung Vorbereiten in Criminal Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

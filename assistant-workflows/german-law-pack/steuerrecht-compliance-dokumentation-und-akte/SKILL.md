@@ -1,6 +1,6 @@
 ---
 name: "steuerrecht-compliance-dokumentation-und-akte"
-description: "Wenn es um Steuerrecht Compliance Dokumentation Und Akte in Fachanwalt Erbrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Steuerrecht Compliance Dokumentation Und Akte in Inheritance Law is required: organises file content, evidence, gaps, and follow-up requests; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

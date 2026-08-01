@@ -1,6 +1,6 @@
 ---
 name: "mandantenkommunikation-rentenfolgen"
-description: "Wenn es um Mandantenkommunikation Rentenfolgen in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "When Mandantenkommunikation Rentenfolgen in Family Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a client message or decision brief."
 license: "MIT"
 metadata:
   version: "1.0.0"

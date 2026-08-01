@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-ip-strafrecht-verteidigung"
-description: "Wenn es um Verteidigung im IP-Strafrecht und Strafantragsfristen in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verteidigung im IP-Strafrecht und Strafantragsfristen in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

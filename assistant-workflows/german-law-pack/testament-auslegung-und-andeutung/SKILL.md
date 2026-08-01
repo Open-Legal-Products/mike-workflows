@@ -1,6 +1,6 @@
 ---
 name: "testament-auslegung-und-andeutung"
-description: "Wenn es um Testament Auslegung Und Andeutung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Testament Auslegung Und Andeutung in Inheritance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

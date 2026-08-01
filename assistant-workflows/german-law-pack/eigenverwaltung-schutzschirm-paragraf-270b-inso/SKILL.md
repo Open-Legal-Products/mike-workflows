@@ -1,6 +1,6 @@
 ---
 name: "eigenverwaltung-schutzschirm-paragraf-270b-inso"
-description: "Wenn es um Eigenverwaltung Schutzschirm Paragraf 270b InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Eigenverwaltung Schutzschirm Paragraf 270b InsO in Fachanwalt Insolvenz- und Sanierungsrecht is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

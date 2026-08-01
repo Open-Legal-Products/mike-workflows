@@ -1,6 +1,6 @@
 ---
 name: "abmahnung-loeschung-personalakte-bag-2-azr-782-11"
-description: "Wenn es um Abmahnung Loeschung Personalakte BAG 2 Azr 782 11 in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Abmahnung Loeschung Personalakte BAG 2 Azr 782 11 in Employment Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

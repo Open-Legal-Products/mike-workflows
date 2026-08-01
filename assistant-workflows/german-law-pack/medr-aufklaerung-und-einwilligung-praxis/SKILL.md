@@ -1,6 +1,6 @@
 ---
 name: "medr-aufklaerung-und-einwilligung-praxis"
-description: "Wenn es um Medr Aufklaerung Und Einwilligung Praxis in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Medr Aufklaerung Und Einwilligung Praxis in Medical Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

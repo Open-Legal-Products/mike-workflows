@@ -1,6 +1,6 @@
 ---
 name: "aktenaufbereiter-beweislast-und-darlegungslast"
-description: "Wenn es um Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung in Criminal Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

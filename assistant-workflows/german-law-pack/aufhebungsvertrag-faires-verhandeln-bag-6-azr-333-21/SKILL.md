@@ -1,6 +1,6 @@
 ---
 name: "aufhebungsvertrag-faires-verhandeln-bag-6-azr-333-21"
-description: "Wenn es um Aufhebungsvertrag Faires Verhandeln BAG 6 Azr 333 21 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Aufhebungsvertrag Faires Verhandeln BAG 6 Azr 333 21 in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

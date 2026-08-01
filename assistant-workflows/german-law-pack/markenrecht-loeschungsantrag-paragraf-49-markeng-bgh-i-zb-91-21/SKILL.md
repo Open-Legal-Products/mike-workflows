@@ -1,6 +1,6 @@
 ---
 name: "markenrecht-loeschungsantrag-paragraf-49-markeng-bgh-i-zb-91-21"
-description: "Wenn es um Markenrecht Loeschungsantrag Paragraf 49 Markeng BGH I Zb 91 21 in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Markenrecht Loeschungsantrag Paragraf 49 Markeng BGH I Zb 91 21 in Intellectual Property is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

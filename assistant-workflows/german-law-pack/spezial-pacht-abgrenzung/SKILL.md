@@ -1,6 +1,6 @@
 ---
 name: "spezial-pacht-abgrenzung"
-description: "Wenn es um Pacht vs. Miete in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Pacht vs. Miete in Fachanwalt Miet- und Wohnungseigentumsrecht is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

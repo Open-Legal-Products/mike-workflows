@@ -1,6 +1,6 @@
 ---
 name: "inso-p028-aufforderungen-an-die-glaubiger-und-die-schuldner"
-description: "Wenn es um Inso P028 Aufforderungen An Die Glaubiger Und Die Schuldner in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P028 Aufforderungen An Die Glaubiger Und Die Schuldner in Fachanwalt Insolvenz- und Sanierungsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

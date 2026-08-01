@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-it-recht-vertragsstrafe-pruefen"
-description: "Wenn es um Vertragsstrafe prüfen in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Vertragsstrafe prüfen in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "versicherungsrecht-tatbestand-beweis-und-belege"
-description: "Wenn es um Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insurance Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

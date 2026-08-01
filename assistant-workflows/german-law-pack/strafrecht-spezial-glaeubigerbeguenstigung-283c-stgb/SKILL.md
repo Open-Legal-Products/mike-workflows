@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb"
-description: "Wenn es um Gläubigerbeguenstigung nach Paragraph 283c StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Gläubigerbeguenstigung nach Paragraph 283c StGB in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

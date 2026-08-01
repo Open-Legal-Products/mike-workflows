@@ -1,6 +1,6 @@
 ---
 name: "fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan"
-description: "Wenn es um Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "werkvertrag-dokumentenmatrix-und-lueckenliste"
-description: "Wenn es um Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Bau Architektenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung in Construction and Architects Law is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "gestaltender-teil"
-description: "Wenn es um Gestaltender Teil in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Gestaltender Teil in Insolvenzplan- und StaRUG-Planwerkstatt is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

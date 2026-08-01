@@ -1,6 +1,6 @@
 ---
 name: "schwerbehinderung-merkzeichen-bsg-b-9-sb-66-19-r"
-description: "Wenn es um Schwerbehinderung Merkzeichen Bsg B 9 Sb 66 19 R in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schwerbehinderung Merkzeichen Bsg B 9 Sb 66 19 R in Social Security Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

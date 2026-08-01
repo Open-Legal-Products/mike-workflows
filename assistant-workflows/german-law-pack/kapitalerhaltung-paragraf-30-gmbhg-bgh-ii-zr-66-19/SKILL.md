@@ -1,6 +1,6 @@
 ---
 name: "kapitalerhaltung-paragraf-30-gmbhg-bgh-ii-zr-66-19"
-description: "Wenn es um Kapitalerhaltung Paragraf 30 GmbHG BGH Ii Zr 66 19 in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Kapitalerhaltung Paragraf 30 GmbHG BGH Ii Zr 66 19 in Fachanwalt Handels- und Gesellschaftsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

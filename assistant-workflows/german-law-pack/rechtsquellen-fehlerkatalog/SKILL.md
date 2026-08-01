@@ -1,6 +1,6 @@
 ---
 name: "rechtsquellen-fehlerkatalog"
-description: "Wenn es um Rechtsquellen Fehlerkatalog in Fachanwalt Erbrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Rechtsquellen Fehlerkatalog in Inheritance Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

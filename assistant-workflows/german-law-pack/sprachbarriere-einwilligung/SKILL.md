@@ -1,6 +1,6 @@
 ---
 name: "sprachbarriere-einwilligung"
-description: "Wenn es um Sprachbarriere Einwilligung in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "When Sprachbarriere Einwilligung in Medical Law is required: organises file content, evidence, gaps, and follow-up requests; produces a burden-of-proof and substantiation matrix."
 license: "MIT"
 metadata:
   version: "1.0.0"

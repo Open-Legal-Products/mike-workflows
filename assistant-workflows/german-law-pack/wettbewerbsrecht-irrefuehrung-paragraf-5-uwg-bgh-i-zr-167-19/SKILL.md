@@ -1,6 +1,6 @@
 ---
 name: "wettbewerbsrecht-irrefuehrung-paragraf-5-uwg-bgh-i-zr-167-19"
-description: "Wenn es um Wettbewerbsrecht Irrefuehrung Paragraf 5 Uwg BGH I Zr 167 19 in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Wettbewerbsrecht Irrefuehrung Paragraf 5 Uwg BGH I Zr 167 19 in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

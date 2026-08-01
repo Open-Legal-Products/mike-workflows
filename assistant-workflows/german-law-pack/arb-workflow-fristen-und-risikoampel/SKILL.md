@@ -1,6 +1,6 @@
 ---
 name: "arb-workflow-fristen-und-risikoampel"
-description: "Wenn es um Workflow Fristen Und Risikoampel in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Workflow Fristen Und Risikoampel in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "krankengeld-paragraf-44-sgb-v-bsg-b-1-kr-19-22-r"
-description: "Wenn es um Krankengeld Paragraf 44 SGB V Bsg B 1 Kr 19 22 R in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Krankengeld Paragraf 44 SGB V Bsg B 1 Kr 19 22 R in Social Security Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

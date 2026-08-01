@@ -1,6 +1,6 @@
 ---
 name: "versr-bu-nachpruefung-anerkenntnis"
-description: "Wenn es um Versr Bu Nachpruefung Anerkenntnis in Fachanwalt Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Versr Bu Nachpruefung Anerkenntnis in Insurance Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

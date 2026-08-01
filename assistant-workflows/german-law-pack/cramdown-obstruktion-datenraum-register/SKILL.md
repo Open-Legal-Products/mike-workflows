@@ -1,6 +1,6 @@
 ---
 name: "cramdown-obstruktion-datenraum-register"
-description: "Wenn es um Cram-down und Obstruktion in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Cram-down und Obstruktion in Insolvenzplan- und StaRUG-Planwerkstatt is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

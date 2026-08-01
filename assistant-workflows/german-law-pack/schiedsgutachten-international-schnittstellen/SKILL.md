@@ -1,6 +1,6 @@
 ---
 name: "schiedsgutachten-international-schnittstellen"
-description: "Wenn es um Schiedsgutachten: Internationaler Bezug und Schnittstellen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schiedsgutachten: Internationaler Bezug und Schnittstellen in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

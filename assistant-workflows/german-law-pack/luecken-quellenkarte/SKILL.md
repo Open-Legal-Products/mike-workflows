@@ -1,6 +1,6 @@
 ---
 name: "luecken-quellenkarte"
-description: "Wenn es um Luecken Quellenkarte in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Luecken Quellenkarte in Liquiditätsplanung — Power is required: organises file content, evidence, gaps, and follow-up requests; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

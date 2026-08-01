@@ -1,6 +1,6 @@
 ---
 name: "dsv-meldung-lda-brandenburg"
-description: "Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Reicht eine Meldung nach Art in IT Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

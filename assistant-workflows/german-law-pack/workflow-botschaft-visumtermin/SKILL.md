@@ -1,6 +1,6 @@
 ---
 name: "workflow-botschaft-visumtermin"
-description: "Wenn es um Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht in Migration Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

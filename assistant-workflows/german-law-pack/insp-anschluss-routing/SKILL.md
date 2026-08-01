@@ -1,6 +1,6 @@
 ---
 name: "insp-anschluss-routing"
-description: "Wenn es um Anschluss-Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Anschluss-Routing in Insolvenzplan- und StaRUG-Planwerkstatt is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

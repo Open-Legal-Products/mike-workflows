@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt"
-description: "Wenn es um Koerperverletzung im Amt nach Paragraph 340 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Koerperverletzung im Amt nach Paragraph 340 StGB in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

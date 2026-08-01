@@ -1,6 +1,6 @@
 ---
 name: "bau-schriftsatzkern-substantiierung"
-description: "Wenn es um Schriftsatzkern Substantiierung in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Schriftsatzkern Substantiierung in Construction and Architects Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

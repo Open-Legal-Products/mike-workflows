@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-kcang-strafvorschriften-34-35-kcang"
-description: "Wenn es um Strafrecht Spezial Kcang Strafvorschriften 34 35 Kcang in Fachanwalt Strafrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Strafrecht Spezial Kcang Strafvorschriften 34 35 Kcang in Criminal Law is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

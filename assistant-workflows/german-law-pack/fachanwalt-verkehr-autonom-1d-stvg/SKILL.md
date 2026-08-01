@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-verkehr-autonom-1d-stvg"
-description: "Wenn es um Autonomes Fahren PKW — Paragraf 1d StVG Haftungskonzept in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Autonomes Fahren PKW — Paragraf 1d StVG Haftungskonzept in Traffic Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

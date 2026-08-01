@@ -1,6 +1,6 @@
 ---
 name: "spezial-tzbfg-schriftsatz-brief-und-memo-bausteine"
-description: "Wenn es um Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine in Employment Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

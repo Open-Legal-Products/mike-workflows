@@ -1,6 +1,6 @@
 ---
 name: "miet-quellen-livecheck"
-description: "Wenn es um Rechtsquellen-Livecheck in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Rechtsquellen-Livecheck in Fachanwalt Miet- und Wohnungseigentumsrecht is required: organises file content, evidence, gaps, and follow-up requests; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

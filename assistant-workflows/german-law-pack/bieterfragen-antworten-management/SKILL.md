@@ -1,6 +1,6 @@
 ---
 name: "bieterfragen-antworten-management"
-description: "Wenn es um Bieterfragen Antworten Management in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Bieterfragen Antworten Management in Public Procurement Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

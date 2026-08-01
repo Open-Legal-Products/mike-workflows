@@ -1,6 +1,6 @@
 ---
 name: "zahlungsunfaehigkeit-pruefung-17-inso"
-description: "Wenn es um Gerichtsfeste Prüfung des Eröffnungsgrundes Paragraf 17 InsO (Zahlungsunfähigkeit) in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Gerichtsfeste Prüfung des Eröffnungsgrundes Paragraf 17 InsO (Zahlungsunfähigkeit) in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

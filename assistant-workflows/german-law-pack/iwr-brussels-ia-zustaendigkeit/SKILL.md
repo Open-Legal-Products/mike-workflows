@@ -1,6 +1,6 @@
 ---
 name: "iwr-brussels-ia-zustaendigkeit"
-description: "Wenn es um Iwr Brussels Ia Zuständigkeit in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Iwr Brussels Ia Zuständigkeit in International Business Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

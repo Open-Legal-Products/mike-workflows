@@ -1,6 +1,6 @@
 ---
 name: "hgr-kanzlei-beweislast-und-darlegungslast"
-description: "Wenn es um Kanzlei Beweislast Und Darlegungslast in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Kanzlei Beweislast Und Darlegungslast in Fachanwalt Handels- und Gesellschaftsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

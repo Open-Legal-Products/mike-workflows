@@ -1,6 +1,6 @@
 ---
 name: "schiedsstelle-dpma-vgg"
-description: "Wenn es um Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen in Fachanwalt Urheber Medienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen in Copyright and Media Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

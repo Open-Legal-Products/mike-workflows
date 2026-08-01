@@ -1,6 +1,6 @@
 ---
 name: "spezial-freistellungsklausel-sonderfall-und-edge-case"
-description: "Wenn es um Freistellungsklausel: Sonderfall und Edge-Case-Prüfung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Freistellungsklausel: Sonderfall und Edge-Case-Prüfung in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

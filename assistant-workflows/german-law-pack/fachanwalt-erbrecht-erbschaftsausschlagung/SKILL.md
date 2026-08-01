@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-erbrecht-erbschaftsausschlagung"
-description: "Wenn es um Erbschaftsausschlagung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Erbrecht Erbschaftsausschlagung; Arbeitsfeld: Fachanwalt Erbrecht."
+description: "When Erbschaftsausschlagung in Inheritance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Erbrecht Erbschaftsausschlagung; Arbeitsfeld: Fachanwalt Erbrecht."
 license: "MIT"
 metadata:
   version: "1.0.0"

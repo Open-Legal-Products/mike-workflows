@@ -1,6 +1,6 @@
 ---
 name: "spezial-antragspflicht-schriftsatz-brief-und-memo-bausteine"
-description: "Wenn es um Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Insolvenz- und Sanierungsrecht is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

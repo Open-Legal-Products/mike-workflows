@@ -1,6 +1,6 @@
 ---
 name: "de-facto-vergabe-135-gwb-fristen"
-description: "Wenn es um De Facto Vergabe 135 Gwb Fristen in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When De Facto Vergabe 135 Gwb Fristen in Public Procurement Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

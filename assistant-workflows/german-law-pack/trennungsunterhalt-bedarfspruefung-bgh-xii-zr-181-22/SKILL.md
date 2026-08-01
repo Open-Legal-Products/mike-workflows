@@ -1,6 +1,6 @@
 ---
 name: "trennungsunterhalt-bedarfspruefung-bgh-xii-zr-181-22"
-description: "Wenn es um Trennungsunterhalt Bedarfspruefung BGH Xii Zr 181 22 in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Trennungsunterhalt Bedarfspruefung BGH Xii Zr 181 22 in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

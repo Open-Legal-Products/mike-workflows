@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung"
-description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "punkte-fahrerlaubnis-paragraf-4-stvg-bverwg-3-c-25-19"
-description: "Wenn es um Punkte Fahrerlaubnis Paragraf 4 Stvg BVerwG 3 C 25 19 in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Punkte Fahrerlaubnis Paragraf 4 Stvg BVerwG 3 C 25 19 in Traffic Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

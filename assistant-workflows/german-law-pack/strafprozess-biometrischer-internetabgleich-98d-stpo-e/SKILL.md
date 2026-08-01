@@ -1,6 +1,6 @@
 ---
 name: "strafprozess-biometrischer-internetabgleich-98d-stpo-e"
-description: "Wenn es um Strafprozess Biometrischer Internetabgleich 98d StPO E in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Strafprozess Biometrischer Internetabgleich 98d StPO E in Criminal Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

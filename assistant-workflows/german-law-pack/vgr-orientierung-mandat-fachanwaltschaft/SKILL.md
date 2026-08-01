@@ -1,6 +1,6 @@
 ---
 name: "vgr-orientierung-mandat-fachanwaltschaft"
-description: "Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Orientierung Mandat Fachanwaltschaft in Public Procurement Law is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

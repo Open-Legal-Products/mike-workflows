@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-188-stgb-easy-verteidigung"
-description: "Wenn es um Strafrecht Spezial 188 Stgb Easy Verteidigung in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Strafrecht Spezial 188 Stgb Easy Verteidigung in Criminal Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "plan-planvollzug-monitoring"
-description: "Wenn es um IV-integrierte Planvollzug und Monitoring in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When IV-integrierte Planvollzug und Monitoring in Insolvenzverwaltung - IV-Cockpit is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

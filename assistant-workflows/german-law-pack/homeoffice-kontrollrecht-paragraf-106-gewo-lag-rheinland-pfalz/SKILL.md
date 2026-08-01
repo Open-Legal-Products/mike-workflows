@@ -1,6 +1,6 @@
 ---
 name: "homeoffice-kontrollrecht-paragraf-106-gewo-lag-rheinland-pfalz"
-description: "Wenn es um Homeoffice Kontrollrecht Paragraf 106 Gewo Lag Rheinland Pfalz in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Homeoffice Kontrollrecht Paragraf 106 Gewo Lag Rheinland Pfalz in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

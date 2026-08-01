@@ -1,6 +1,6 @@
 ---
 name: "recht-am-eigenen-bild-paragraf-22-kunsturhg"
-description: "Wenn es um Recht am Eigenen Bild Paragraf 22 KunstUrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Recht am Eigenen Bild Paragraf 22 KunstUrhG in Copyright and Media Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "verhaltensbeurteilung-analyse"
-description: "Wenn es um Verhaltensbeurteilung-Analyse in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Verhaltensbeurteilung-Analyse in Arbeitszeugnis-Analyse is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "dieselskandal-paragraf-826-bgb"
-description: "Wenn es um Dieselskandal Paragraf 826 BGB in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Dieselskandal Paragraf 826 BGB in Traffic Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

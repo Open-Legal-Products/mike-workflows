@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft"
-description: "Wenn es um Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

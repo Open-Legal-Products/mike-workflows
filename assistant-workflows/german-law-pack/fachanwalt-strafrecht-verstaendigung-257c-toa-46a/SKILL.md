@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-strafrecht-verstaendigung-257c-toa-46a"
-description: "Wenn es um Verständigung Paragraf 257c StPO / TOA Paragraf 46a StGB in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Verständigung Paragraf 257c StPO / TOA Paragraf 46a StGB in Criminal Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

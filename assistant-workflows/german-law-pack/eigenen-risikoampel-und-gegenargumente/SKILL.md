@@ -1,6 +1,6 @@
 ---
 name: "eigenen-risikoampel-und-gegenargumente"
-description: "Wenn es um Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien in Copyright and Media Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

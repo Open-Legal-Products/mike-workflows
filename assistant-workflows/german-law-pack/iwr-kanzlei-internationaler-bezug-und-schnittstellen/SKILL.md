@@ -1,6 +1,6 @@
 ---
 name: "iwr-kanzlei-internationaler-bezug-und-schnittstellen"
-description: "Wenn es um Kanzlei: Internationaler Bezug und Schnittstellen in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Kanzlei: Internationaler Bezug und Schnittstellen in International Business Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

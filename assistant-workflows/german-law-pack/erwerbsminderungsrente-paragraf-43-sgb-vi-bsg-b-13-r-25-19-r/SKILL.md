@@ -1,6 +1,6 @@
 ---
 name: "erwerbsminderungsrente-paragraf-43-sgb-vi-bsg-b-13-r-25-19-r"
-description: "Wenn es um Erwerbsminderungsrente Paragraf 43 SGB Vi Bsg B 13 R 25 19 R in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Erwerbsminderungsrente Paragraf 43 SGB Vi Bsg B 13 R 25 19 R in Social Security Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

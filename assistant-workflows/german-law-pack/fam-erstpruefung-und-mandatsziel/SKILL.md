@@ -1,6 +1,6 @@
 ---
 name: "fam-erstpruefung-und-mandatsziel"
-description: "Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Erstpruefung Und Mandatsziel in Family Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

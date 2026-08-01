@@ -1,6 +1,6 @@
 ---
 name: "insolvenzgeld-165-sgb-iii"
-description: "Wenn es um Insolvenzgeld nach Paragraf 165 SGB III in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Insolvenzgeld nach Paragraf 165 SGB III in Insolvency and Restructuring is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "obliegenheitsverletzung-mandantenentscheidung"
-description: "Wenn es um Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "When Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage in Insurance Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a client message or decision brief."
 license: "MIT"
 metadata:
   version: "1.0.0"

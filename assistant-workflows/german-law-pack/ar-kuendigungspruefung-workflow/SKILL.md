@@ -1,6 +1,6 @@
 ---
 name: "ar-kuendigungspruefung-workflow"
-description: "Wenn es um Ar Kuendigungspruefung Workflow in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "When Ar Kuendigungspruefung Workflow in Employment Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
 license: "MIT"
 metadata:
   version: "1.0.0"

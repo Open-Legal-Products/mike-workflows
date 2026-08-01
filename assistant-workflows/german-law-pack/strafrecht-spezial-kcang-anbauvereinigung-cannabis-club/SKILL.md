@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-kcang-anbauvereinigung-cannabis-club"
-description: "Wenn es um KCanG Anbauvereinigung (Cannabis Social Club): Paragrafen 11 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When KCanG Anbauvereinigung (Cannabis Social Club): Paragrafen 11 ff in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

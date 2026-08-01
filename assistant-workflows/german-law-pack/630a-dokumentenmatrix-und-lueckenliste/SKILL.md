@@ -1,6 +1,6 @@
 ---
 name: "630a-dokumentenmatrix-und-lueckenliste"
-description: "Wenn es um 630A: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When 630A: Dokumentenmatrix, Lückenliste und Nachforderung in Medical Law is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

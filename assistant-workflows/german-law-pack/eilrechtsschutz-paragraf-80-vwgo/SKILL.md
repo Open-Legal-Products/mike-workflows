@@ -1,6 +1,6 @@
 ---
 name: "eilrechtsschutz-paragraf-80-vwgo"
-description: "Wenn es um Eilrechtsschutz Paragraf 80 VwGO in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Eilrechtsschutz Paragraf 80 VwGO in Administrative Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

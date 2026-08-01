@@ -1,6 +1,6 @@
 ---
 name: "spezial-forscher-ict-au-pair"
-description: "Wenn es um Forscher/ICT/Au-pair/Sondertitel in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Forscher/ICT/Au-pair/Sondertitel in Migration Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

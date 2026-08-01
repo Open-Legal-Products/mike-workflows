@@ -1,6 +1,6 @@
 ---
 name: "gr-mitbewerberabmahnung-aktivlegitimation-spezial"
-description: "Wenn es um Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis Paragraf 2 Abs in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis Paragraf 2 Abs in Intellectual Property is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

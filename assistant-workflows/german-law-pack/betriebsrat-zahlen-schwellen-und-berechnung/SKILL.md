@@ -1,6 +1,6 @@
 ---
 name: "betriebsrat-zahlen-schwellen-und-berechnung"
-description: "Wenn es um Betriebsrat Zahlen Schwellen Und Berechnung in Fachanwalt Arbeitsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Betriebsrat Zahlen Schwellen Und Berechnung in Employment Law is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

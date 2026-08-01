@@ -1,6 +1,6 @@
 ---
 name: "dsv-meldung-hmbbfdi"
-description: "Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsv Meldung Hmbbfdi; Arbeitsfeld: Fachanwalt It Recht."
+description: "When Reicht eine Meldung nach Art in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsv Meldung Hmbbfdi; Arbeitsfeld: Fachanwalt It Recht."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "arb-workflow-mandantenkommunikation"
-description: "Wenn es um Workflow Mandantenkommunikation in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "When Workflow Mandantenkommunikation in Employment Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a client message or decision brief."
 license: "MIT"
 metadata:
   version: "1.0.0"

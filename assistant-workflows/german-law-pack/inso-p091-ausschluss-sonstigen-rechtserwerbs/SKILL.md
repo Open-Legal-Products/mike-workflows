@@ -1,6 +1,6 @@
 ---
 name: "inso-p091-ausschluss-sonstigen-rechtserwerbs"
-description: "Wenn es um Inso P091 Ausschluss Sonstigen Rechtserwerbs in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Inso P091 Ausschluss Sonstigen Rechtserwerbs in Fachanwalt Insolvenz- und Sanierungsrecht is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

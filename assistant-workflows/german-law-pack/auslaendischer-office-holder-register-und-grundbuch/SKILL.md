@@ -1,6 +1,6 @@
 ---
 name: "auslaendischer-office-holder-register-und-grundbuch"
-description: "Wenn es um Auslaendischer Office Holder Register Und Grundbuch in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "When Auslaendischer Office Holder Register Und Grundbuch in Insolvency and Restructuring is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a filing plan with form, portal, and evidence check."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "aufenthalt-paragraf-25a-aufenthg"
-description: "Wenn es um Aufenthalt Paragraf 25a AufenthG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Aufenthalt Paragraf 25a AufenthG in Migration Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

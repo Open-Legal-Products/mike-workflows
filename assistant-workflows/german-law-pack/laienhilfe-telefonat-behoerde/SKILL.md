@@ -1,6 +1,6 @@
 ---
 name: "laienhilfe-telefonat-behoerde"
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Telefonat Behörde in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Laienverstaendlicher Sozialrechts-Skill zu Telefonat Behörde in Social Security Law is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "medizinischer-eingriff-einwilligung"
-description: "Wenn es um Medizinischer Eingriff Einwilligung in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Medizinischer Eingriff Einwilligung in Medical Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

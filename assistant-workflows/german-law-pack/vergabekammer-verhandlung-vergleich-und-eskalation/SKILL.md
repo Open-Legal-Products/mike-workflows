@@ -1,6 +1,6 @@
 ---
 name: "vergabekammer-verhandlung-vergleich-und-eskalation"
-description: "Wenn es um Vergabekammer: Verhandlung, Vergleich und Eskalation in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Vergabekammer: Verhandlung, Vergleich und Eskalation in Public Procurement Law is required: organises file content, evidence, gaps, and follow-up requests; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

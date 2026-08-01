@@ -1,6 +1,6 @@
 ---
 name: "duesseldorfer-abschlussprodukt-und-uebergabe"
-description: "Wenn es um Duesseldorfer Abschlussprodukt Und Uebergabe in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Duesseldorfer Abschlussprodukt Und Uebergabe in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

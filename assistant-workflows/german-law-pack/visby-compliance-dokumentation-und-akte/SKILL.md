@@ -1,6 +1,6 @@
 ---
 name: "visby-compliance-dokumentation-und-akte"
-description: "Wenn es um Visby: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Transport Speditionsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Visby: Compliance-Dokumentation und Aktenvermerk in Transport and Freight Forwarding Law is required: organises file content, evidence, gaps, and follow-up requests; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

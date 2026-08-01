@@ -1,6 +1,6 @@
 ---
 name: "vergleich-arbeitsgericht-abrechnung"
-description: "Wenn es um Vergleich Arbeitsgericht Abrechnung in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "When Vergleich Arbeitsgericht Abrechnung in Employment Law is required: develops negotiation objective, settlement corridor, and escalation path; produces a negotiation or escalation line with options."
 license: "MIT"
 metadata:
   version: "1.0.0"

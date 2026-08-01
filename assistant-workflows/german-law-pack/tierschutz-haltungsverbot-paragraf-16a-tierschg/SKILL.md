@@ -1,6 +1,6 @@
 ---
 name: "tierschutz-haltungsverbot-paragraf-16a-tierschg"
-description: "Wenn es um Tierschutz Haltungsverbot Paragraf 16a Tierschg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Tierschutz Haltungsverbot Paragraf 16a Tierschg in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

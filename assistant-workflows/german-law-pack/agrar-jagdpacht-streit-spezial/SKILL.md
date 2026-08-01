@@ -1,6 +1,6 @@
 ---
 name: "agrar-jagdpacht-streit-spezial"
-description: "Wenn es um Agrar Jagdpacht Streit Spezial in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Agrar Jagdpacht Streit Spezial in Agricultural Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

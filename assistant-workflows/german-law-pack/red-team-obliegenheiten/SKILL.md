@@ -1,6 +1,6 @@
 ---
 name: "red-team-obliegenheiten"
-description: "Wenn es um Red Team Obliegenheiten in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "When Red Team Obliegenheiten in Verbraucherinsolvenz und Schuldenbereinigung is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a counter-check with error, evidence, and deadline review."
 license: "MIT"
 metadata:
   version: "1.0.0"

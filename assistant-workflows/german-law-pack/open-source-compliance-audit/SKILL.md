@@ -1,6 +1,6 @@
 ---
 name: "open-source-compliance-audit"
-description: "Wenn es um Open-Source-Software Compliance Audit für GPL LGPL MIT BSD Apache Copyleft und SBOM in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Open-Source-Software Compliance Audit für GPL LGPL MIT BSD Apache Copyleft und SBOM in IT Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

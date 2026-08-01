@@ -1,6 +1,6 @@
 ---
 name: "eu-sportrecht-art-101-aeuv-eugh-c-333-21"
-description: "Wenn es um EU Sportrecht Art 101 Aeuv EuGH C 333 21 in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When EU Sportrecht Art 101 Aeuv EuGH C 333 21 in Sports Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

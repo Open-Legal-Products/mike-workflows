@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-vergaberecht-olg-sofortige-beschwerde"
-description: "Wenn es um Sofortige Beschwerde OLG-Vergabesenat in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "When Sofortige Beschwerde OLG-Vergabesenat in Public Procurement Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces a directly usable work product with check points, risks, and next step."
 license: "MIT"
 metadata:
   version: "1.0.0"

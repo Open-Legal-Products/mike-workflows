@@ -1,6 +1,6 @@
 ---
 name: "iwr-einfuehrung-rechtsquellen"
-description: "Wenn es um IWR: Rechtsquellen in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "When IWR: Rechtsquellen in International Business Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an interface map with conflict, jurisdiction, and evidence questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

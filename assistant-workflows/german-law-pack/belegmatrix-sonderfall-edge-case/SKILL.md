@@ -1,6 +1,6 @@
 ---
 name: "belegmatrix-sonderfall-edge-case"
-description: "Wenn es um Belegmatrix Sonderfall Edge Case in Fachanwalt Erbrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "When Belegmatrix Sonderfall Edge Case in Inheritance Law is required: organises file content, evidence, gaps, and follow-up requests; produces a chronology with evidence matrix and objection list."
 license: "MIT"
 metadata:
   version: "1.0.0"

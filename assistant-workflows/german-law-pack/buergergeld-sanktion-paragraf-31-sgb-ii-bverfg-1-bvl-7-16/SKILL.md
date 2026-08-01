@@ -1,6 +1,6 @@
 ---
 name: "buergergeld-sanktion-paragraf-31-sgb-ii-bverfg-1-bvl-7-16"
-description: "Wenn es um Buergergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16 in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Buergergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16 in Social Security Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

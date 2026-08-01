@@ -1,6 +1,6 @@
 ---
 name: "uebertragende-sanierung-auslaendischer-office"
-description: "Wenn es um Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "medizinprodukt-haftung-paragraf-1-prodhaftg"
-description: "Wenn es um Medizinprodukt Haftung Paragraf 1 ProdHaftG in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Medizinprodukt Haftung Paragraf 1 ProdHaftG in Medical Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

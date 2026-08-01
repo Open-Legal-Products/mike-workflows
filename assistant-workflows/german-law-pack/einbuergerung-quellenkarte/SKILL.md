@@ -1,6 +1,6 @@
 ---
 name: "einbuergerung-quellenkarte"
-description: "Wenn es um Einbuergerung Quellenkarte in Fachanwalt Migrationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "When Einbuergerung Quellenkarte in Migration Law is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
 license: "MIT"
 metadata:
   version: "1.0.0"

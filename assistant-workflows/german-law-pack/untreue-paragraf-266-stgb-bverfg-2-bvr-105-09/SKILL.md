@@ -1,6 +1,6 @@
 ---
 name: "untreue-paragraf-266-stgb-bverfg-2-bvr-105-09"
-description: "Wenn es um Untreue Paragraf 266 StGB BVerfG 2 Bvr 105 09 in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Untreue Paragraf 266 StGB BVerfG 2 Bvr 105 09 in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "spezial-zugewinn-formular-portal-und-einreichung"
-description: "Wenn es um Zugewinn: Formular, Portal und Einreichungslogik in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Zugewinn: Formular, Portal und Einreichungslogik in Family Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

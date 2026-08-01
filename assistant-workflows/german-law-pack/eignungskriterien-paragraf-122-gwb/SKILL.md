@@ -1,6 +1,6 @@
 ---
 name: "eignungskriterien-paragraf-122-gwb"
-description: "Wenn es um Eignungskriterien Paragraf 122 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Eignungskriterien Paragraf 122 GWB in Public Procurement Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

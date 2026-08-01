@@ -1,6 +1,6 @@
 ---
 name: "fachanwalt-transport-speditionsrecht-ladungsschaden"
-description: "Wenn es um Ladungsschaden – Innerdeutscher Frachtverkehr (HGB) in Fachanwalt Transport Speditionsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "When Ladungsschaden – Innerdeutscher Frachtverkehr (HGB) in Transport and Freight Forwarding Law is required: calculates thresholds, amounts, variants, and control assumptions; produces a calculation table with thresholds, assumptions, and control questions."
 license: "MIT"
 metadata:
   version: "1.0.0"

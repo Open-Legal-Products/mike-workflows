@@ -1,6 +1,6 @@
 ---
 name: "equal-pay-leiharbeit-bag-5-azr-143-19-eugh-timepartner"
-description: "Wenn es um Equal Pay Leiharbeit BAG 5 Azr 143 19 EuGH Timepartner in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Equal Pay Leiharbeit BAG 5 Azr 143 19 EuGH Timepartner in Employment Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

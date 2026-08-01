@@ -1,6 +1,6 @@
 ---
 name: "rente-versicherung-paragraf-149-vvg"
-description: "Wenn es um Rente Versicherung Paragraf 149 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Rente Versicherung Paragraf 149 VVG in Insurance Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

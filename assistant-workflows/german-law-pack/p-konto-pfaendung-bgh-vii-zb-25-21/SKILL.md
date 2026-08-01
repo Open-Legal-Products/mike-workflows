@@ -1,6 +1,6 @@
 ---
 name: "p-konto-pfaendung-bgh-vii-zb-25-21"
-description: "Wenn es um P Konto Pfaendung BGH Vii Zb 25 21 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When P Konto Pfaendung BGH Vii Zb 25 21 in Banking and Capital Markets is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

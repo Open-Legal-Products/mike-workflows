@@ -1,6 +1,6 @@
 ---
 name: "gr-anschluss-routing"
-description: "Wenn es um Anschluss-Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "When Anschluss-Routing in Intellectual Property is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a filing plan with form, portal, and evidence check."
 license: "MIT"
 metadata:
   version: "1.0.0"

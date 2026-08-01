@@ -1,6 +1,6 @@
 ---
 name: "einstweilige-mandantenkommunikation-entscheidungsvorlage"
-description: "Wenn es um Einstweilige Mandantenkommunikation Entscheidungsvorlage in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "When Einstweilige Mandantenkommunikation Entscheidungsvorlage in Intellectual Property is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a client message or decision brief."
 license: "MIT"
 metadata:
   version: "1.0.0"

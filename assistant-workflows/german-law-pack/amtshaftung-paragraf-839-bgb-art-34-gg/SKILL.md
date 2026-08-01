@@ -1,6 +1,6 @@
 ---
 name: "amtshaftung-paragraf-839-bgb-art-34-gg"
-description: "Wenn es um Amtshaftung Paragraf 839 BGB art 34 GG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Amtshaftung Paragraf 839 BGB art 34 GG in Administrative Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

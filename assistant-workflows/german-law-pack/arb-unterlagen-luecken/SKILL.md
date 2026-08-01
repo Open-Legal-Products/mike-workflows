@@ -1,6 +1,6 @@
 ---
 name: "arb-unterlagen-luecken"
-description: "Wenn es um Unterlagen und Lücken in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "When Unterlagen und Lücken in Employment Law is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
 license: "MIT"
 metadata:
   version: "1.0.0"

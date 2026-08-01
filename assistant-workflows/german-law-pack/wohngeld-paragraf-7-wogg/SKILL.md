@@ -1,6 +1,6 @@
 ---
 name: "wohngeld-paragraf-7-wogg"
-description: "Wenn es um Wohngeld Paragraf 7 WoGG in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Wohngeld Paragraf 7 WoGG in Social Security Law is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk"
-description: "Wenn es um Codeworte: Compliance-Dokumentation und Aktenvermerk in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Codeworte: Compliance-Dokumentation und Aktenvermerk in Arbeitszeugnis-Analyse is required: decomposes outcome, deadline, jurisdiction, burden of proof, and opposing position; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "rechtsschutz-fristen-form-und-zustaendigkeit"
-description: "Wenn es um Rechtsschutz Fristen Form Und Zuständigkeit in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Rechtsschutz Fristen Form Und Zuständigkeit in Intellectual Property is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: "strafrecht-spezial-188-stgb-social-media-beweise"
-description: "Wenn es um Strafrecht Spezial 188 Stgb Social Media Beweise in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When Strafrecht Spezial 188 Stgb Social Media Beweise in Criminal Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"

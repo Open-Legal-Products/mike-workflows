@@ -1,6 +1,6 @@
 ---
 name: "bautraeger-mabv-vollstaendigkeitserklaerung-7"
-description: "Wenn es um MaBV Paragraf 7 Vollstaendigkeitserklaerung als Alternative in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "When MaBV Paragraf 7 Vollstaendigkeitserklaerung als Alternative in Construction and Architects Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
 license: "MIT"
 metadata:
   version: "1.0.0"
