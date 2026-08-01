@@ -1,0 +1,73 @@
+---
+name: "zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17"
+description: "Wenn es um Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Zahlungsunfaehigkeit Paragraf 17 Inso Bgh Ix Zb 25 17"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+---
+
+# Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn im Mandat eine Liquiditätslücke, ein Gläubigerantrag, eine Geschäftsführerhaftung, eine Anfechtungslage oder ein Sanierungsfenster auf Zahlungsunfähigkeit geprüft werden muss. Ziel ist ein gerichtsfestes Kurzmemorandum mit Stichtag, Zahlenwerk, Belegen, Rechtsprechungsankern und einer klaren Handlungsentscheidung.
+
+## Normenanker
+
+- Paragraf 17 InsO: Zahlungsunfähigkeit und Zahlungseinstellung.
+- Paragraf 15a InsO und Paragraf 15b InsO: Antragspflicht und Zahlungsverbot.
+- Paragraf 18 InsO: drohende Zahlungsunfähigkeit als StaRUG-Schwelle.
+- Paragraf 19 InsO: Überschuldung und Fortbestehensprognose.
+- Paragraf 129 ff. InsO: Anfechtung, insbesondere Liquiditätslage als Vorsatz- und Kenntnisanker.
+- Paragraf 14 InsO: Gläubigerantrag, Forderungsnachweis und Eröffnungsgrund.
+
+## Rechtsprechungsanker und Quellenhygiene
+
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Randnummer 34 und 35 zur objektiven Zahlungsunfähigkeit und objektiven Rechtslage bei streitigen nicht titulierten Forderungen; vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert passivieren; keine Prozessrisikoquote. Randnummer 27 zum engen Irrtumstatbestand bei ungeklärter Rechtsfrage.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber einem außenstehenden Dritten einzelpostenfähig darlegen; fehlen Einzelheiten und Belege, kann einfaches Bestreiten ausreichen.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: für die Zahlungsunfähigkeit zählt der materielle Bestand der Verbindlichkeit.
+- BGH, Beschluss vom 22.05.2025 - IX ZB 38/24: bei allein titelgestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung eingestellt ist.
+- BGH, Urteil vom 28.06.2022 - II ZR 112/21: Zahlungsunfähigkeit kann auch durch mehrere aussagekräftige tagesgenaue Liquiditätsstatus dargelegt werden.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Passiva II im Drei-Wochen-Fenster einbeziehen; keine Bugwelle stehen lassen.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Grundlinie Zahlungsstockung, 10-Prozent-Schwelle und Drei-Wochen-Zeitraum.
+
+## Prüfprogramm
+
+1. Stichtag festlegen: Eintrittsdatum, Antragstag, Zahlungstag oder Anfechtungsstichtag nicht vermischen.
+2. Aktiva I erfassen: freie Bankguthaben, Kasse, ziehungsfähiger Kreditrahmen, sofort verwertbare Liquidität.
+3. Aktiva II erfassen: nur binnen drei Wochen realistisch zufließende Beträge; bestrittene eigene Forderungen nur mit hartem Realisierungsbeleg.
+4. Passiva I erfassen: fällige, ernsthaft eingeforderte und nicht wirksam gestundete Verbindlichkeiten.
+5. Passiva II erfassen: innerhalb von drei Wochen fällig werdende Verbindlichkeiten, auch wenn sie die Lücke nur fortschreiben.
+6. Streitige Forderungen entscheiden: materiell nicht bestehend oder nicht fällig gleich raus; materiell bestehend und fällig gleich Nennwert rein; vorläufig vollstreckbar tituliert und Vollstreckung eingeleitet gleich Nennwert rein; Vollstreckung eingestellt gleich gesonderte Beweiswürdigungszeile.
+7. Herausnahme verteidigen: Wer eine Forderung nicht passiviert, braucht Gegenbeweis und Haftungsvermerk; ein finales Gutachten stützt den Kenntnisstand, beseitigt aber das objektive Risiko nicht sicher.
+8. Darlegungstiefe prüfen: keine OPOS-Summe übernehmen, bevor Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreiten, Titel und Vollstreckungsstand als Einzelposten sichtbar sind.
+9. Indizien der Zahlungseinstellung prüfen: Lohn, Steuern, Sozialversicherung, Rücklastschriften, geplatzte Raten, Pfändungen, Insolvenzanträge, Vollstreckungsdruck.
+10. Ergebnis mit Organpflichten verbinden: Antragspflicht, Zahlungsverbot, Dokumentationspflicht, Sanierungsfenster und nächste Maßnahme.
+
+## Ausgabematrix
+
+| Prüffeld | Ergebnis | Beleg | Risiko | Nächster Schritt |
+| --- | --- | --- | --- | --- |
+| Stichtag | Datum | Buchhaltung, Kontoauszug, OPOS | falsch angesetzter Fristbeginn | Stichtag begründen |
+| Aktiva I und II | Betrag | Bank, Zusage, Debitor | Scheinliquidität | Zuflussbeleg nachfordern |
+| Passiva I und II | Betrag | OPOS, Mahnung, Titel | unterschätzte Lücke | Fälligkeit prüfen |
+| Streitige Forderung | rein oder raus | Vertrag, Urteil, Vollstreckung | Prozessrisikoquote | Nennwertentscheidung dokumentieren |
+| Herausgenommene Forderung | begründet raus | Gutachten, Einwendung, Stundung | Beweislast Geschäftsleitung | Haftungsvermerk schreiben |
+| Darlegung Liquiditätsstatus | einzelpostenfähig | OPOS-Auszug, Rechnung, Kontoauszug | einfaches Bestreiten | Belegpaket nachfordern |
+| Indizien | ja oder nein | Akte | Zahlungseinstellung | Antragspflicht prüfen |
+
+## Belege und Aktenlücken
+
+- Liquiditätsstatus zum Stichtag und innerhalb des Drei-Wochen-Fensters.
+- OPOS Kreditoren und Debitoren mit Fälligkeit und Mahnstand.
+- Kontoauszüge aller Konten, Kreditlinien, Kündigungen und Sperren.
+- Steuer- und Sozialversicherungsrückstände mit Bescheiden, Fälligkeiten und Stundungsentscheidungen.
+- Titel, Klauseln, Zustellungsnachweise, Vollstreckungsaufträge und Einstellungsentscheidungen.
+- Geschäftsleitervermerke, Zahlungspriorisierung, Sanierungsbeschlüsse und Beraterhinweise.

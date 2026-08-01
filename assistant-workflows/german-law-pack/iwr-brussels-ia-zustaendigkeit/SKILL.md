@@ -1,0 +1,214 @@
+---
+name: "iwr-brussels-ia-zustaendigkeit"
+description: "Wenn es um Iwr Brussels Ia Zuständigkeit in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Iwr Brussels Ia Zustaendigkeit"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "International Business Law"
+  jurisdictions: "Germany"
+---
+
+# Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
+- Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen.
+
+### Brüssel-Ia-VO Internationale Zuständigkeit
+
+## 1) Eingangs-Abfrage
+
+1. Sitz Kläger und Beklagter?
+2. Streitgegenstand (Vertrag, Delikt, Verbraucher, Arbeitnehmer, Sachenrecht)?
+3. Erfüllungsort der Hauptleistung?
+4. Gerichtsstands-Vereinbarung vorhanden?
+5. Eilbedürftigkeit?
+
+## 2) Allgemeiner Gerichtsstand Art. 4 VO
+
+- **Beklagter-Wohnsitz / Sitz** in EU-Mitgliedstaat
+- Bei juristischer Person: Satzungssitz, Hauptverwaltung, Hauptniederlassung (Art. 63)
+- Standard für alle Streitigkeiten
+
+## 3) Besonderer Gerichtsstand Art. 7
+
+### Vertragsrecht Art. 7 Nr. 1
+
+- **Erfüllungsort der vertraglichen Leistung**
+- **Lit. b**: Bei Warenkauf — Lieferort
+- **Lit. b**: Bei Dienstleistungs-Vertrag — Erbringungsort
+- Bei anderen Verträgen: charakteristische Leistung
+
+### Deliktsrecht Art. 7 Nr. 2
+
+- **Tatort** der unerlaubten Handlung
+- Erfolgsort UND Handlungsort
+- BGH-Linie und EuGH-Linie
+
+### Niederlassungs-Streitigkeit Art. 7 Nr. 5
+
+- Streitigkeit aus Betrieb einer Zweigniederlassung
+- Sitz der Niederlassung
+
+## 4) Verbraucherschutz Art. 17-19
+
+### Verbraucher
+
+- Vertrag für privaten Zweck
+- Beruflicher Empfänger ausgeschlossen
+
+### Klagestand Verbraucher
+
+- Art. 18 I: Verbraucher kann am **eigenen Wohnsitz** klagen
+- Verbraucher-Klage gegen Unternehmer am eigenen Wohnsitz
+
+### Klage gegen Verbraucher
+
+- Art. 18 II: Nur am Wohnsitz des Verbrauchers
+
+### "Targeting Test" Art. 17 I c)
+
+- Unternehmer richtet Aktivitäten gezielt auf Mitgliedstaat des Verbrauchers
+- Website in Sprache, Waehrung, Versand-Adresse
+
+## 5) Arbeitnehmerschutz Art. 20-23
+
+- AN kann an Sitz des AG oder gewoehnlichem Arbeitsort klagen
+- AG kann nur am Wohnsitz des AN klagen
+- Gerichtsstands-Klausel nur nachtraeglich wirksam
+
+## 6) Gerichtsstands-Vereinbarung Art. 25
+
+### Voraussetzungen
+
+- **Schriftform** oder elektronisch (mit Bestätigung)
+- **Beide Parteien zustimmen**
+- Geltend für kuenftige Streitigkeiten
+
+### Asymmetrische Klauseln
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- "A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
+
+## 7) Ausschließliche Zuständigkeit Art. 24
+
+### Sachenrecht Immobilien
+
+- Lage der Sache
+
+### Gesellschafts-Beschlüsse
+
+- Sitz der Gesellschaft
+
+### Eintragungen Register
+
+- Sitz Register-Gericht
+
+## 8) Workflow
+
+### Schritt 1 — Sachverhaltsanalyse
+
+- Vertraglich, deliktisch, sachenrechtlich?
+- Sitze beider Parteien
+- Erfüllungsort
+
+### Schritt 2 — Gerichtsstands-Prüfung
+
+- Allgemein Art. 4 (Beklagter-Sitz)
+- Besonderer Stand Art. 7
+- Bei Verbraucher: Art. 17-19
+- Vereinbarung Art. 25 vorrangig
+
+### Schritt 3 — Klage-Strategie
+
+- Gerichts-Wahl (Forum-Shopping bei mehreren Gerichtsstaenden)
+- Sprache des Verfahrens
+- Vollstreckungs-Erleichterung im Empfängerstaat
+
+## 9) Anerkennung / Vollstreckung
+
+- Art. 36: Urteil eines MS wird in anderem MS **ohne Anerkennungsverfahren** anerkannt
+- Art. 39: Vollstreckung ohne Vollstreckungserklärung
+- Versagungs-Gründe Art. 45 / 46 begrenzt
+
+## 10) Drittstaaten
+
+- Nicht Bruessel-Ia (VO (EU) Nr. 1215/2012: https://eur-lex.europa.eu/eli/reg/2012/1215)
+- Nationales IZPR (§§ 12 ff. ZPO bei DE): https://www.gesetze-im-internet.de/zpo/__12.html
+- **Haager Uebereinkommen über Gerichtsstandsvereinbarungen 2005** (HGUe; EU-Vertragsstaat seit 01.10.2015): https://www.hcch.net/en/instruments/conventions/full-text/?cid=98
+- **HAVUe 2019** (Haager Uebereinkommen über die Anerkennung und Vollstreckung ausländischer Urteile in Zivil- und Handelssachen; EU-Beitritt 29.08.2022; in Kraft für EU + Ukraine seit 01.09.2023; Daenemark nicht gebunden gem. Art. 27 HAVUe): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137
+- Brexit-Folge: UK seit 01.01.2021 nicht mehr Bruessel-Ia-Vertragsstaat; UK hat HAVUe am 12.01.2024 unterzeichnet und am 27.06.2024 ratifiziert; in Kraft für UK seit 01.07.2025: https://www.hcch.net/en/news-archive/details/?varevent=1085
+
+## 11) Typische Fehler
+
+1. **Verbraucher-Eigenschaft übersehen** -> falsche Zuständigkeit
+2. **Erfüllungsort falsch bestimmt** bei Wahllieferung
+3. **Targeting-Test ignoriert** bei Online-Verkauf
+4. **Gerichtsstands-Klausel ohne Schriftform** -> unwirksam
+5. **Asymmetrische Klausel ungenau gestaltet** -> Streit
+
+## 12) EuGH-/BGH-Linien
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Anschluss
+
+- `fachanwalt-iwr-cisg-anwendbarkeit` — bei materiellem Warenkauf
+- `fachanwalt-iwr-embargo-pruefung-russland` — bei Sanktions-Prüfung
+- `internationales-privatrecht` — bei IPR-Themen
+
+## Vertiefung: Triage und Output-Template Bruessel Ia
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Haben beide Parteien Wohnsitz/Sitz in EU-Mitgliedstaaten? → Art. 4 Bruessel Ia (Beklagter-Domizil)
+2. Liegt Gerichtsstandsvereinbarung Art. 25 Bruessel Ia vor? → Ausschliessliche Zuständigkeit
+3. Liegt Verbraucher- oder Arbeitnehmervertrag vor? → Art. 17-22 Bruessel Ia schutzspeziell
+4. Schiedsklausel statt Gerichtsstandsklausel? → Art. 1 Abs. 2 lit. d Bruessel Ia: nicht erfasst
+5. Ist eine ausländische Entscheidung anzuerkennen? → Art. 36 ff. Bruessel Ia
+
+### Ergaenzende Leitsaetze Bruessel Ia
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Output-Template Gerichtsstand-Memo Bruessel Ia
+**Adressat:** Mandant — Tonfall: klar erklaerend, ergebnisorientiert
+
+```
+GERICHTSSTAND-MEMO (Bruessel Ia)
+Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
+Streitgegenstand: [VERTRAG / DELIKT]
+
+1. Beklagter hat Sitz in EU: JA → Art. 4 Bruessel Ia gilt
+2. Gerichtsstandsvereinbarung (Art. 25): [JA: [GERICHT] / NEIN]
+3. Besonderer Gerichtsstand (Art. 7):
+ Vertrag Art. 7 Nr. 1: Erfuellungsort = [LAND/GERICHT]
+ Delikt Art. 7 Nr. 2: Schadensort = [LAND/GERICHT]
+4. Verbraucher (Art. 17-19): [JA → Wohnsitz Verbraucher / NEIN]
+5. Empfohlenes Gericht: [GERICHT, ORT, ZUSTAENDIGKEIT]
+```
+
+<!-- AUDIT 27.05.2026
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+

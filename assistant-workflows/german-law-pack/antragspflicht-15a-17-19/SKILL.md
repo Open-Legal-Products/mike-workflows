@@ -1,0 +1,92 @@
+---
+name: "antragspflicht-15a-17-19"
+description: "Wenn es um Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Antragspflicht 15a 17 19"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+---
+
+# Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Insolvenz- und Sanierungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
+- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
+- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
+- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Spezialwissen: Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Antragspflicht** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Antragspflicht § 15a InsO — Dokumentenmatrix
+- **Adressat:** Geschäftsleiter haftungsbeschränkter Gesellschaften (§ 15a Abs. 1 Satz 1 InsO); bei führungsloser Gesellschaft jeder Gesellschafter (§ 15a Abs. 3 InsO).
+- **Eröffnungsgrund:** § 17 InsO Zahlungsunfähigkeit (Höchstfrist 3 Wochen) und § 19 InsO Überschuldung (Höchstfrist 6 Wochen, Stand prüfen). § 18 InsO drohende Zahlungsunfähigkeit löst KEINE Antragspflicht aus, sondern eröffnet das StaRUG-Verfahren.
+- **Belege Zahlungsunfähigkeit:** Liquiditätsstatus, OPOS-Listen, Bankauszüge, fällige Verbindlichkeiten (insb. Lohn, Steuern, SV), Mahnung Bank, gekündigte Linien.
+- **Streitige Passiva:** Nicht titulierte, bestrittene Forderungen nicht nach Prozessrisiko quoteln. Maßgeblich ist die objektive Rechtslage: besteht und ist die Forderung fällig, gehört sie in den Liquiditätsstatus; besteht sie objektiv nicht oder ist sie nicht fällig, darf sie nicht künstlich eine Zahlungsunfähigkeit erzeugen. Wer sie als Geschäftsleiter herausnimmt, braucht Gegenbeweis, Aktennotiz und möglichst ein finales Gutachten.
+- **Titel und Vollstreckung:** Bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung ist die Forderung mit dem Nennwert zu berücksichtigen; nicht nur der erwartete kurzfristige Abfluss zählt.
+- **Belege Überschuldung:** Bilanz zu Liquidationswerten, Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (positiv: keine Überschuldung), Sanierungsbausteine (Rangrücktritt § 19 Abs. 2 Satz 2 InsO, Patronatserklärung).
+- **Lückenliste typisch:** Sozialversicherungsrückstände (§ 266a StGB!), Steuerrückstände (§§ 34, 69 AO), letzte Bilanz, BWA aktuell, Liquiditätsplan 13 Wochen, Verträge mit Kovenantenbruch.
+- **Trade-off:** Frühe Antragstellung schützt vor § 15a Abs. 4/5 InsO und § 15b InsO Zahlungsverbot, opfert aber Eigenverwaltungsoptionen, die nur freiwillig eröffnet werden.
+- **Praxis:** Bei Unklarheit erst Liquiditätsstatus erstellen, dann Fortbestehensprognose; § 15a Abs. 4 InsO Strafbarkeit beginnt mit positiver Kenntnis des Eröffnungsgrunds.
+
+## Geschäftsleiterstandpunkt bei streitigen Forderungen
+
+Ein Rechtsirrtum schützt nur eng. Nach BGH IX ZR 229/22 vom 23.01.2025 kann ein Irrtum über den Bestand einer Forderung nur dann Gewicht haben, wenn es um eine seit langem umstrittene, ungeklärte Rechtsfrage mit divergierenden Auffassungen geht. Reine Vertragsauslegung, an der die Schuldnerseite selbst mitgewirkt hat, trägt diese Entlastung regelmäßig nicht. Ein finales Gutachten kann den vertretbaren ex-ante-Standpunkt dokumentieren, ersetzt aber nicht die objektive Prüfung von Bestand und Fälligkeit.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 266a StGB
+- § 18 AktG
+- § 64 GmbHG
+- § 15 GmbHG
+- § 40 GmbHG
+- § 15 AktG
+- Art. 17 DSGVO
+- § 266 StGB
+- § 3a EStG
+- § 263 StGB
+- § 94 StaRUG
+- § 203 StGB
+
+### Leitentscheidungen
+
+- BGH IX ZR 229/22
+- BGH IX ZR 122/23
+- BGH IX ZR 129/22
+- BFH II R 19/01
+- BGH IV ZR 66/25
+- BGH II ZR 206/22

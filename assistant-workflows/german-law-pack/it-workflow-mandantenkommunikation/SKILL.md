@@ -1,0 +1,56 @@
+---
+name: "it-workflow-mandantenkommunikation"
+description: "Wenn es um Mandantenkommunikation in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "It Workflow Mandantenkommunikation"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "IT Law"
+  jurisdictions: "Germany"
+---
+
+# Mandantenkommunikation
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **fachanwalt-it-recht** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Mandantenkommunikation IT-Recht
+- **Anrede + Bezug:** "In Sachen [Mandant] / Ihre IT-rechtliche Frage"
+- **Sachstand kurz:** Vertragstyp, Rollen, Streitstand bzw. Vertragsentwurf-Status.
+- **Empfehlung:** zentral umsetzbarer nächster Schritt (z. B. "Verhandlung SLA-Pönalen, AVV nachverhandeln, Mängelmahnung mit Nachfrist setzen, AGB Inhaltskontrolle prüfen").
+- **Risikoampel:** Vertrags-, AGB-, Haftungs-, DSGVO-, NIS2-Risiken konsolidiert.
+- **Frist:** Mängelrüge § 377 HGB, Verjährung § 634a BGB, Datenpanne 72 Std., NIS2-Meldung 24h/72h/1 Monat.
+- **Kostenhinweis:** RVG/Honorarvereinbarung; bei größeren Mandaten ggf. Vergütungsvereinbarung nach § 3a RVG.
+- **Aufklärungspflicht:** bei Streit zwischen Vergleich und Klage erforderliche Risiko-/Kostenaufklärung (BGH Anwaltshaftung-Standard).
+
+## Praxis-Tipp
+Bei IT-Vertragsverhandlungen ist die Empfehlung "Klage" selten die beste Erstoption — die meisten Konflikte lösen sich durch fundierte Mängelrüge mit Nachfristsetzung (§§ 281, 323 BGB) bzw. AGB-Inhaltskontrolle ohne Klageverfahren. Das spart Zeit und schont Geschäftsbeziehung.

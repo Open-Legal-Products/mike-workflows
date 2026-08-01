@@ -1,0 +1,24 @@
+---
+name: "taetigkeitsabschnitt-wertigkeit-pruefen"
+description: "Wenn es um Taetigkeitsabschnitt und Wertigkeit pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Taetigkeitsabschnitt Wertigkeit Pruefen"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Employment Law"
+  jurisdictions: "Germany"
+---
+
+# Taetigkeitsabschnitt und Wertigkeit pruefen
+
+Der Taetigkeitsabschnitt nennt die Aufgaben der beschaeftigten Person. Er ist kein unmittelbarer Notentraeger, steuert aber den Bezugsrahmen fuer die spaetere Leistungsformel und gibt Hinweise auf Verantwortungstiefe und Einsatzbreite. Der Pruefer liest ihn nicht nur als Aufzaehlung, sondern auch als Beleg fuer die Unternehmenserwartung.
+
+Vollstaendigkeit pruefen: Die im Taetigkeitsabschnitt genannten Aufgaben sollen die tatsaechliche Position vollstaendig abbilden. Fehlt eine Kernaufgabe, die nach Positionsbezeichnung oder Branchenstandard erwartet wuerde (zum Beispiel Budgetverantwortung bei einer Fuehrungskraft, Kundenkontakt bei einer Vertriebsstelle, Kassentaetigkeit bei einer Kassiererin), ist das ein Auslassungssignal. Der Pruefer notiert, welche Aufgabe fehlt, und bewertet, ob die Auslassung im Kontext der Gesamtnote Hinweischarakter hat.
+
+Hierarchische Wertigkeit: Der Rang der genannten Aufgaben sollte zur Positionsbezeichnung passen. Wird nur das operative Tagesgeschaeft beschrieben, aber keine strategische oder koordinierende Aufgabe, obwohl die Stelle eine Fuehrungsebene betrifft, signalisiert das eine Abwertung. Der Pruefer prueft, ob Titel und Aufgabenkatalog konsistent sind, und markiert jeden Widerspruch als orangefarbenen Befund.
+
+Schaufenster-Muster als Warnsignal: Ein langer, sehr positiver Aufgabenkatalog steht neben einer schwachen Zufriedenheitsformel. Dieses Muster heisst Schaufenster-Drift: Das Zeugnis praesentiert eine anspruchsvolle Stelle, bewertet die Erledigung aber mit unterdurchschnittlicher Note. Die Drift entfaltet nach aussen den Eindruck eines inhaltlich gut klingenden Zeugnisses, transportiert aber in der Leistungsformel eine klare Abwertung. Der Pruefer kennzeichnet dieses Muster als roten Befund und fuehrt Taetigkeitsabschnitt und Leistungsformel im Mandantenbericht gemeinsam auf.

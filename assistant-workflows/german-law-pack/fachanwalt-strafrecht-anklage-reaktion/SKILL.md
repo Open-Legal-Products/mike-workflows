@@ -1,0 +1,207 @@
+---
+name: "fachanwalt-strafrecht-anklage-reaktion"
+description: "Wenn es um Anklage-Reaktion in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Fachanwalt Strafrecht Anklage Reaktion"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Criminal Law"
+  jurisdictions: "Germany"
+---
+
+# Anklage-Reaktion
+
+## Zweck
+
+Anwaltliche Reaktion auf eingereichte Anklage.
+
+## 1) Anklage-Prüfung
+
+### Pflicht-Inhalte § 200 StPO
+
+- Beschuldigter mit Personalien
+- Tatvorwurf mit Zeit, Ort, Mittel
+- Strafgesetzliche Bestimmungen
+- Anklage-Schluss
+- Beweismittel
+
+### Mangelhafte Anklage
+
+- Bei Form-Mangel: Eröffnungs-Antrag-Verweigerung
+- Bei Unbestimmtheit: Spezialisierungs-Antrag
+
+## 2) Eröffnungs-Verfahren §§ 199-207 StPO
+
+### Schwurgericht
+
+- Prüfung hinreichender Tatverdacht
+- Wahrscheinlichkeit Verurteilung > Freispruch
+
+### Eröffnungs-Beschluss
+
+- Beschluss zur Hauptverhandlung
+- Anfechtbar nicht direkt
+
+### Ablehnungs-Antrag § 204 StPO
+
+- Bei mangelndem Tatverdacht
+- Verfahrens-Einstellung
+
+## 3) Einstellungs-Anträge
+
+### § 153 StPO — Geringfuegigkeit
+
+- Geringe Schuld
+- Kein öffentliches Interesse
+- Ohne Auflage
+
+### § 153a StPO — Mit Auflage
+
+- Geldzahlung an gemeinnützige Einrichtung
+- Wiedergutmachung
+- Therapie
+- Sozialstunden
+
+### Vorteile
+
+- Keine Verurteilung
+- Kein Strafregister-Eintrag (bei § 153 StPO; bei 153a teils ja)
+- Schnelle Verfahrens-Beendigung
+
+## 4) Beweis-Anträge § 244 StPO
+
+### Pflicht-Beweisantrag
+
+- Konkretes Beweisthema
+- Bestimmtes Beweismittel
+- Prüfungs-Pflicht Gericht
+
+### Ablehnungs-Gründe § 244 III StPO
+
+- Bewiesen / widerlegt
+- Unerheblich
+- Beweismittel unerreichbar
+- Verschleppungs-Absicht
+
+## 5) Hauptverhandlungs-Vorbereitung
+
+### Sachverständigen-Prüfung
+
+- Bei medizinischen / technischen Fragen
+- Eigen-Sachverständiger
+- Antrag auf gerichtlichen SV
+
+### Zeugen-Prüfung
+
+- Glaubwürdigkeits-Analyse
+- Aussage-Konstanz
+- Indirekte Beweise
+
+### Plaedoyer-Strategie
+
+- Pro Tatzeitpunkt
+- Pro Beweismittel
+- Strafmilderungs-Argumente
+
+## 6) Workflow
+
+### Phase 1 — Anklage-Auswertung
+
+- Vollständige Akteneinsicht
+- Beweis-Sichtung
+- Schwachstellen-Identifikation
+
+### Phase 2 — Vorab-Anträge
+
+- Beweisanträge
+- Einstellungs-Anträge
+- Befangenheits-Anträge
+
+### Phase 3 — Hauptverhandlung
+
+- Tatsachen-Vortrag
+- Beweis-Konstatierung
+- Plaedoyer
+
+### Phase 4 — Urteil
+
+- Begründung erfassen
+- Berufungs-Strategie
+
+## 7) Strafmass-Reduzierung
+
+### Strafzumessungs-Gründe § 46 StGB
+
+- Schwere der Tat
+- Vorleben
+- Geschaedigten-Beziehung
+- Bewährung-Aussicht
+
+### Praktische Aspekte
+
+- Schadens-Wiedergutmachung
+- Gestaendnis (zeitlich, glaubhaft)
+- Therapie-Bereitschaft
+- Sozial-Verhalten
+
+## 8) Berufung § 312 StPO
+
+### Voraussetzungen
+
+- Frist 1 Woche
+- Schriftform
+- Begründung beim Berufungsgericht (LG)
+
+### Strategie
+
+- Vollumfaengliche Anfechtung oder beschraenkt auf Strafmass
+- Neue Beweise / Zeugen
+
+## 9) Revision § 333 StPO
+
+- Frist 1 Woche
+- Rechtsfehler-Prüfung (nicht Tatsachen!)
+- BGH oder OLG
+
+## 10) Typische Fehler
+
+1. **Beweisanträge zu pauschal** -> Ablehnung
+2. **Einstellungs-Antrag versäumt** zur richtigen Zeit
+3. **Schadens-Wiedergutmachung erst in HV**
+4. **Berufungs-Frist 1 Woche versäumt**
+5. **Revision auf Tatsachen-Fragen** falsch begrenzt
+
+## Anschluss
+
+- `fachanwalt-strafrecht-wahlverteidiger-mandat` — bei Mandats-Beginn
+- `fachanwalt-strafrecht-untersuchungshaft-haftpruefung` — bei U-Haft
+- `aktenaufbereiter-strafrecht` — Akten-Auswertung
+
+## Aktuelle Rechtsprechung Anklage-Reaktion (Stand Mai 2026)
+
+- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Kommunikation): Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation im Strafverfahren — relevant fuer die Frage des hinreichenden Tatverdachts (§ 203 StPO) bei Anklagen, die auf ANOM-Datensaetze gestuetzt sind. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BGH (GSSt) 03.02.2025 — GSSt 1/24: KCanG — Verfolgungsausschluss bei sanktionsfreien Eigenkonsummengen; bei Cannabisanklage zu pruefen, ob nicht schon die Eroeffnung (§ 203 StPO) am fehlenden Tatverdacht scheitert. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Pruefungsdichte des Eroeffnungsbeschlusses ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 203 StPO hinreichender Tatverdacht" durchführen.
+
+## Normen Eroffnungsverfahren
+
+- § 199 StPO — Vorlage der Anklageschrift an das Gericht
+- § 200 StPO — Inhalt der Anklageschrift (Pflichtangaben)
+- § 203 StPO — Eroffnung bei hinreichendem Tatverdacht
+- § 204 StPO — Ablehnung der Eroffnung (sofortige Beschwerde § 210 II StPO)
+- § 207 StPO — Eroffnungsbeschluss mit Aenderungen
+- § 153 StPO — Einstellung Geringfuegigkeit
+- § 153a StPO — Einstellung gegen Auflage
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

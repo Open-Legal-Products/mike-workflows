@@ -1,0 +1,55 @@
+---
+name: "nis2-quellenkarte"
+description: "Wenn es um Nis2 Quellenkarte in Fachanwalt It Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Nis2 Quellenkarte"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "IT Law"
+  jurisdictions: "Germany"
+---
+
+# Nis2 Quellenkarte
+
+## Zweck
+
+Diese Quellenkarte sichert für **Fachanwalt IT-Recht** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
+
+## Tragende Normen (live prüfen)
+
+- **BGB §§ 631 ff. Software** — amtlichen Stand vor tragender Aussage prüfen
+- **GeschGehG** — amtlichen Stand vor tragender Aussage prüfen
+- **UrhG §§ 69a ff. Software** — amtlichen Stand vor tragender Aussage prüfen
+- **AGB-Recht** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Zivilgerichte
+- Datenschutzaufsicht
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- Mängelfristen Software
+- AGB-Schriftform
+
+## Prüfroute
+
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
+
+## Fehlerbremse
+
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.
