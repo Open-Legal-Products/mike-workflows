@@ -1,0 +1,68 @@
+---
+name: "insf-dokumente-intake"
+description: "When Dokumentenintake in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Insf Dokumente Intake"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "insolvenzforderungsanmeldungspruefung"
+---
+
+# Dokumentenintake
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Einsatzlage
+
+Dieser Dokumenten-Intake für **Insolvenzforderungsanmeldungspruefung** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenanlage-batchregister` — Aktenanlage Batchregister
+- `beleg-und-urkundencheck` — Beleg und Urkundencheck
+- `bestreiten-interessen-betrag` — Bestreiten Interessen Betrag
+- `bestreiten-mehrparteien-konflikt-und-interessen` — Bestreiten Mehrparteien Konflikt und Interessen
+- `betrag-behoerden-gericht-und-registerweg` — Betrag Behoerden Gericht und Registerweg
+- `dubletten-serienforderungen` — Dubletten Serienforderungen
+- `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
+- `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
+- `formalpruefung-174` — Formalpruefung 174
+- `grund-betrag-zinsen` — Grund Betrag Zinsen
+- `grund-risikoampel-und-gegenargumente` — Grund Risikoampel und Gegenargumente
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Insolvenzforderungsanmeldungspruefung-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Pr — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

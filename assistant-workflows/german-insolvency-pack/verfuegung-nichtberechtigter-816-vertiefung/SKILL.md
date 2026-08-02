@@ -1,0 +1,76 @@
+---
+name: "verfuegung-nichtberechtigter-816-vertiefung"
+description: "When Paragraf 816 BGB vertieft: Verfügung Nichtberechtigter in Restitution and Avoidance Law is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verfuegung Nichtberechtigter 816 Vertiefung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Verfuegung Nichtberechtigter 816 Vertiefung"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Restitution and Avoidance Law"
+  jurisdictions: "Germany"
+  source-plugin: "bereicherungs-und-anfechtungsrecht-pruefer"
+---
+
+# § 816 BGB vertieft: Verfügung Nichtberechtigter
+
+## Einsatzbereich
+
+Anwendungsfall: ein Nichtberechtigter wirksam über fremde Rechte verfügt hat. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+
+## Triage — zuerst klären
+
+1. Welche Rechtsposition weist den wirtschaftlichen Nutzen zu?
+2. Hat der Gegner diese Position ohne Leistung des Anspruchstellers genutzt?
+3. Gab es Lizenz, Gestattung oder gesetzliche Erlaubnis?
+4. Ist § 816 BGB oder § 822 BGB spezieller?
+5. Wie wird der objektive Nutzungs- oder Lizenzwert bestimmt?
+
+## Spezifischer Prüfungsfokus
+
+- Bestimme den konkreten Vermögensvorteil und seine heutige Spur im Vermögen.
+- Ordne den Vorteil einer Leistungsbeziehung, einem Eingriff oder einer sonstigen Erwerbslage zu.
+- Prüfe Rechtsgrund und Behaltensgrund getrennt.
+- Kontrolliere, ob § 818 BGB den Anspruch erweitert, begrenzt oder verschärft.
+- Leite erst danach Anspruchsgegner, Anspruchshöhe und prozessuales Ziel ab.
+
+## Prüfungslogik
+
+- Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt.
+- Bestimme den Zuweisungsgehalt der verletzten Position.
+- Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu.
+- Bewerte nach objektivem Markt-, Lizenz- oder Erlöswert.
+- Trenne Bereicherung von Schaden, Gewinnabschöpfung und Unterlassung.
+
+## Typische Fehler
+
+- Alt. 2 als Auffangtatbestand ohne Zuweisungsgehalt nutzen.
+- Schadensersatz und Bereicherung vermischen.
+- Lizenzwert ohne Methode schätzen.
+
+## Arbeitsausgabe
+
+| Punkt | Ergebnis | Belegbedarf |
+|---|---|---|
+| Anspruchsziel | [...] | [...] |
+| beteiligte Personen | [...] | [...] |
+| Vermögensvorteil | [...] | [...] |
+| Zweck/Zurechnung | [...] | [...] |
+| Rechtsgrund/Behaltensgrund | [...] | [...] |
+| § 818 BGB | [...] | [...] |
+| Einreden/Spezialregime | [...] | [...] |
+| vorläufiges Ergebnis | [...] | [...] |
+
+## Mini-Check vor Output
+
+- Kein Direktanspruch ohne begründete Zurechnung.
+- Kein Wertersatz ohne Bewertungsmethode.
+- Keine Entreicherung ohne konkreten Vermögensweg.
+- Keine Saldierung ohne beiderseitige Leistungstabelle.
+- Offene Tatsachen bleiben als offen markiert.
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.

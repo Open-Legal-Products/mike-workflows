@@ -1,0 +1,114 @@
+---
+name: "deutschem-dokumentationspaket-excel"
+description: "When Deutschem Dokumentationspaket Excel in Insolvency and Restructuring is required: organises file content, evidence, gaps, and follow-up requests; produces an interface map with conflict, jurisdiction, and evidence questions."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Deutschem Dokumentationspaket Excel"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "liquiditaetsplanung"
+---
+
+# Deutschem Dokumentationspaket Excel
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachliche Module
+
+## 1. `spezial-deutschem-tatbestand-beweis-und-belege`
+
+**Fokus:** Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin liquiditaetsplanung.
+
+### Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+## Fachkern: Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
+- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
+- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Deutschem** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Beleglage Liquiditätsplanung nach deutschem Recht
+- **Stichtag § 17 InsO Liquiditätsbilanz:** Aktiva I (verfügbare liquide Mittel) + Aktiva II (innerhalb 3 Wochen liquidierbar) vs. Passiva I (fällige Verbindlichkeiten) + Passiva II (innerhalb 3 Wochen fällig).
+- **BGH-Schwelle (ständige Rspr.):** Deckungslücke < 10 % regelmäßig nur Zahlungsstockung; ≥ 10 % grds. Zahlungsunfähigkeit i. S. d. § 17 InsO, sofern nicht binnen kurzer Zeit Schließung absehbar.
+- **24-Monats-Liquiditätsplan § 18 InsO drohende Zahlungsunfähigkeit:** Monatliche Vorschau, plausible Annahmen, Sensitivitätsbetrachtung — Grundlage für StaRUG-Zugang § 29 StaRUG.
+- **13-Wochen-Forecast operative Planung:** Standard für aktive Sanierungsfälle; rollierend, mit Annahmen-Memo und Stresstest (Base/Stress/Worst).
+- **Belege:** Saldenlisten OPOS-Debitoren/-Kreditoren mit Fälligkeit, Kontoauszüge mind. 3 Monate, Steuerkonto (FA-Mitteilung), Beitragskonto SV (Krankenkasse), Personalkostenliste, Tilgungsplan Bankverbindlichkeiten.
+- **Beweispflicht:** Im Anfechtungs- und Haftungsprozess trägt grds. der Verwalter die Darlegungslast für Zahlungsunfähigkeit und Kenntnis (§§ 130 ff. InsO); im Strafprozess § 15a InsO ist die Staatsanwaltschaft beweispflichtig.
+- **Annahmen-Memo:** Quellen (z. B. Auftragsbestand laut CRM, Forderungslaufzeit laut OPOS-Auswertung) und Bandbreiten dokumentieren — bei Bestreiten der Annahmen ist das Memo die erste Verteidigungslinie.
+
+## 2. `spezial-dokumentationspaket-compliance-dokumentation-und-akte`
+
+**Fokus:** Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk im Plugin liquiditaetsplanung.
+
+### Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk
+
+## Fachkern: Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk
+- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
+- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Dokumentationspaket** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## 3. `spezial-excel-behoerden-gericht-und-registerweg`
+
+**Fokus:** Excel: Behörden-, Gerichts- oder Registerweg im Plugin liquiditaetsplanung.
+
+### Excel: Behörden-, Gerichts- oder Registerweg
+
+## Fachkern: Excel: Behörden-, Gerichts- oder Registerweg
+- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
+- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Excel** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

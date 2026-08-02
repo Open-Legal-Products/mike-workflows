@@ -1,0 +1,234 @@
+---
+name: "drohende-zahlungsunfaehigkeit"
+description: "When Drohende Zahlungsunfähigkeit — Paragraf 18 InsO in Insolvency and Restructuring is required: checks deadline, form, jurisdiction, legal remedy, and immediate measures; produces a deadline and risk indicator with immediate action steps."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Drohende Zahlungsunfaehigkeit"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "krisenfrueherkennung-starug"
+---
+
+# Drohende Zahlungsunfähigkeit — § 18 InsO
+
+## Arbeitsbereich
+
+Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Überschuldung), § 1 StaRUG (Zugangsberechtigung). Prüfraster: Prognosezeitraum 24 Monate, Wahrscheinlichkeitsmassstab ueberwiegend wahrscheinlich, Abgrenzung zu § 17 InsO. Output Prüf-Memo drohende ZU, StaRUG-Zugangsberechtigung-Nachweis. Abgrenzung: Fortbestehensprognose (§ 19 InsO) siehe fortbestehensprognose-zweistufig; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+§ 18 InsO ist das Tor zum StaRUG. Nur wer drohende Zahlungsunfähigkeit nachweist — nicht mehr, nicht weniger — erhält Zugang zu den modernen Sanierungswerkzeugen des Stabilisierungs- und Restrukturierungsrahmens. Wer zu früh kommt (noch keine drohende ZU), kann keinen Antrag stellen. Wer zu spät kommt (eingetretene ZU oder Überschuldung), hat die InsO-Pflicht ausgelöst. Das Timing ist alles — und das Timing hängt von einer validen 24-Monats-Liquiditätsplanung ab.
+
+Vor jeder StaRUG-Strategie steht deshalb ein harter Ausschluss-Test zu Paragraf 17 InsO: am Stichtag und für die nächsten drei Wochen darf keine eingetretene Zahlungsunfähigkeit vorliegen. Streitige oder titulierte Forderungen werden dabei nicht weichgerechnet. Besteht eine fällige Verbindlichkeit materiell, wird sie mit Nennwert berücksichtigt; besteht sie materiell nicht oder ist sie nicht fällig, bleibt sie außen vor. Bei nicht titulierten streitigen Verbindlichkeiten entscheidet die objektive Rechtslage. Bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung ist der Nennwert als Liquiditätsabfluss zu planen. Eine bloße Prozessrisikoquote ist kein tragfähiger StaRUG-Zugangsnachweis. Der Liquiditätsstatus muss belegbar bleiben: OPOS-Summen ohne Einzelposten, Fälligkeit, Rechtsgrund und Beleg tragen den Paragraf-17-Ausschluss nicht sicher.
+
+---
+
+## Rechtsgrundlagen
+
+- § 18 InsO (drohende Zahlungsunfähigkeit; Prognosezeitraum 24 Monate)
+- § 17 InsO (Zahlungsunfähigkeit)
+- § 19 InsO (Überschuldung; Prognosezeitraum 12 Monate seit 01.01.2024)
+- § 29 Abs. 2 StaRUG (drohende ZU als Zugangsvoraussetzung)
+- § 15a InsO (Insolvenzantragspflicht bei eingetretener ZU oder Überschuldung)
+- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — bestätigt mittelbar die Tragfähigkeit der StaRUG-Eintrittsschwelle nach § 18 InsO bei börsennotierten Schuldnerinnen. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- IDW S 11 Tz. 23 ff. (Liquiditätsstatus und -planung)
+- IDW S 11 Tz. 50 ff. (drohende Zahlungsunfähigkeit)
+
+---
+
+## Pflichten
+
+### 1. Tatbestand der drohenden Zahlungsunfähigkeit
+
+§ 18 Abs. 2 InsO: "Der Schuldner droht zahlungsunfähig zu werden, wenn er voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen."
+
+**Drei Kernelemente:**
+
+1. **Prognosezeitraum 24 Monate** (§ 18 Abs. 2 S. 2 InsO seit SanInsFoG 01.01.2021). Konkrete BGH-Linie zur Methodik der Liquiditätsprognose vor Ausgabe über dejure.org / openjur.de verifizieren.
+
+2. **Wahrscheinlichkeitsmaßstab:** "überwiegend wahrscheinlich" — mehr als 50 % Wahrscheinlichkeit, dass die Zahlungsfähigkeit nicht aufrechterhalten werden kann. Kein Gewissheitsmaßstab erforderlich.
+
+3. **Fälligkeitsbezug:** Es kommt auf die fälligen Zahlungen an, nicht auf alle bestehenden Verbindlichkeiten. Langfristige Schulden, die in den 24 Monaten nicht fällig werden, bleiben außen vor.
+
+### 2. Abgrenzung zu § 17 InsO — Eingetretene Zahlungsunfähigkeit
+
+| Merkmal | § 17 InsO | § 18 InsO |
+|---|---|---|
+| Zeitpunkt | Gegenwart | Zukunft (24 Monate) |
+| Wahrscheinlichkeit | Eingetreten (Ist-Zustand) | Überwiegend wahrscheinlich |
+| Wesentlichkeitsschwelle | Fälligkeitsrückstand ≥ 10 % der Gesamtverbindlichkeiten (BGH) | Keine feste Schwelle |
+| InsO-Antragspflicht | Ja (§ 15a InsO) | Nein (nur Antragsrecht) |
+| StaRUG-Zugang | Kein Zugang mehr | Zugang möglich |
+
+**Kritische Praxisfrage:** Ist die Liquiditätslücke noch "vorübergehend" (dann keine ZU) oder nachhaltig (dann § 17 InsO)?
+BGH-Maßstab: Rückstand < 10 % der Gesamtverbindlichkeiten = Vermutung für Vorübergehend; > 10 % = Vermutung für ZU.
+
+### 3. Abgrenzung zu § 19 InsO — Überschuldung
+
+| Merkmal | § 19 InsO | § 18 InsO |
+|---|---|---|
+| Prüfungsmaßstab | Bilanzielle Überschuldung + Fortführungsprognose | Liquiditätsorientiert |
+| Fortführungsprognose | Zweistufig (IDW S 11) | Direkt liquiditätsbezogen |
+| InsO-Antragspflicht | Ja (§ 15a InsO) | Nein |
+| Hauptrelevanz | Verlustunternehmen, negatives EK | Liquiditätsgefährdete Unternehmen |
+
+Ein Unternehmen kann bilanziell überschuldet und gleichzeitig noch zahlungsfähig sein (positiver Cashflow aus lfd. Geschäft). In diesem Fall droht § 19 InsO, aber noch keine § 18 InsO drohende ZU.
+
+### 4. § 18 InsO als Zugangstor zum StaRUG
+
+§ 29 Abs. 2 StaRUG setzt für die Inanspruchnahme des Restrukturierungsrahmens voraus:
+
+- Drohende Zahlungsunfähigkeit nach § 18 InsO **muss vorliegen**
+- Eingetretene Zahlungsunfähigkeit nach Paragraf 17 InsO ist ein Stopp-Signal für den präventiven Rahmen und löst die Antragspflichtprüfung aus.
+- Überschuldung nach Paragraf 19 InsO verlangt parallel die Fortbestehensprognose; bei negativer Prognose nicht in den StaRUG-Tunnel ausweichen, sondern InsO-Pfad prüfen.
+- Wenn während eines vorbereiteten StaRUG-Prozesses Paragraf 17 oder Paragraf 19 kippt, sofort neu entscheiden: Anzeige-, Aufhebungs-, Planbestätigungs- und Insolvenzantragspflichten getrennt prüfen.
+
+**Konsequenz für die Praxis:** Wer früh genug erkennt, hat das volle StaRUG-Arsenal. Wer zu lange wartet, muss mit InsO-Instrumenten arbeiten — mit allen Nachteilen für Reputation, Gläubigerbeziehungen und Betrieb.
+
+## Rechtsprechungs- und Praxisanker 2025/2026
+
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderungen bei eingeleiteter Vollstreckung mit Nennwert in die Liquiditätsprüfung; keine Prozessrisikoquote; enger Irrtumstatbestand bei ungeklärter Rechtsfrage.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber außenstehenden Dritten konkret mit Einzelposten und Belegen darlegen; pauschale Summen bleiben angreifbar.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: materieller Bestand der Verbindlichkeit entscheidet, Zahlungsunfähigkeit bleibt objektiv.
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: bestätigt im VARTA-Kontext die verfassungsrechtliche Belastbarkeit des präventiven Restrukturierungsrahmens und erhöht die Anforderungen an saubere Dokumentation der Zugangsschwelle.
+- Arbeitsregel: StaRUG-Memo immer mit zwei Tabellen beginnen, nämlich `Heute Paragraf 17 nein` und `24 Monate Paragraf 18 ja`. Alles andere ist Sanierungsstory ohne Eintrittskarte.
+
+---
+
+## Vorgehen
+
+### Schritt 1: Liquiditätsstatus erstellen (IDW S 11 Tz. 23)
+
+```
+LIQUIDITÄTSSTATUS — STICHTAG [TT.MM.JJJJ]
+
+VORHANDENE LIQUIDITÄT
+ Kassenbestand: EUR [___]
+ Bankguthaben: EUR [___]
+ Verfügbare Kreditlinien: EUR [___]
+ = Verfügbare Liquidität: EUR [___]
+
+ABZUDECKENDE ZAHLUNGSPFLICHTEN
+ Fällige Verbindlichkeiten Stichtag: EUR [___]
+ Davon: Lieferanten: EUR [___]
+ Davon: Steuern/SV: EUR [___]
+ Davon: Banken (Zinsen/Tilgung): EUR [___]
+
+SALDO: EUR [___]
+ → Positiv: Zahlungsfähig (Stichtag)
+ → Negativ: Zahlungsunfähig (Stichtag) → § 17 InsO prüfen
+```
+
+### Schritt 2: Liquiditätsprognose 24 Monate (§ 18 InsO-Test)
+
+Auf Basis der rollierenden Liquiditätsplanung (24 Monate):
+
+1. **Identifizierung kritischer Liquiditätsengpässe** — in welchem Monat droht erstmals Unterdeckung?
+2. **Wahrscheinlichkeitsbewertung** — ist die Unterdeckung überwiegend wahrscheinlich (> 50 %)?
+3. **Sensitivitätsanalyse** — unter welchen Szenarien (Base/Bear) tritt die Unterdeckung auf?
+4. **Gegenmaßnahmen-Check** — welche Maßnahmen würden die Unterdeckung beseitigen?
+
+### Schritt 3: StaRUG-Zugang prüfen
+
+Wenn § 18 InsO bejaht:
+
+- [ ] Ist noch kein Insolvenzantrag gestellt?
+- [ ] Liegt noch keine eingetretene ZU (§ 17 InsO) vor?
+- [ ] Liegt noch keine Überschuldung (§ 19 InsO) vor (oder: liegt positive FBP vor)?
+- [ ] Hat das Unternehmen Gläubiger, mit denen eine Einigung sinnvoll ist?
+
+Wenn alle Punkte bejaht: StaRUG-Verfahren eröffnen. Berater einschalten.
+
+---
+
+## Templates
+
+### Muster: § 18 InsO-Prüfvermerk für GF-Akte
+
+```
+PRÜFVERMERK — DROHENDE ZAHLUNGSUNFÄHIGKEIT § 18 InsO
+
+Gesellschaft: [Firma GmbH]
+Datum der Prüfung: [TT.MM.JJJJ]
+Erstellt von: [Name, Funktion]
+
+1. LIQUIDITÄTSSTATUS STICHTAG
+ Ergebnis: [zahlungsfähig / eingeschränkt zahlungsfähig / zahlungsunfähig]
+ Saldo: EUR [+/-]
+
+2. PROGNOSE 24 MONATE
+ Planungsgrundlage: Liquiditätsplan vom [Datum], freigegeben von [GF-Name]
+ Prognosezeitraum: [Datum] bis [Datum]
+ Kritischer Engpass identifiziert: [ja / nein]
+ Wenn ja: Zeitpunkt [Monat/JJJJ], Höhe EUR [___]
+
+3. WAHRSCHEINLICHKEITSBEWERTUNG
+ Wahrscheinlichkeit der Unterdeckung: [< 50 % / > 50 %]
+ → Drohende ZU nach § 18 InsO: [ja / nein]
+ Begründung: [___]
+
+4. FOLGERUNG
+ [ ] Keine drohende ZU — kein StaRUG-Handlungsbedarf
+ [ ] Drohende ZU — StaRUG-Zugang prüfen
+ [ ] Eingetretene ZU — § 15a InsO-Frist läuft
+
+Unterschrift GF: ___________________
+Hinweis: Dieser Prüfvermerk ersetzt keine rechtliche Beratung.
+```
+
+---
+
+## Fallstricke
+
+1. **Planungshorizont zu kurz** — wer nur zwölf statt 24 Monate plant, riskiert, die drohende ZU zu spät zu erkennen und den StaRUG-Zugang zu verlieren.
+
+2. **Wahrscheinlichkeitsmaßstab falsch angewendet** — "überwiegend wahrscheinlich" bedeutet nicht Sicherheit. Wer erst bei Sicherheit handelt, ist regelmäßig zu spät.
+
+3. **Verwechslung drohende ZU mit eingetretener ZU** — bei eingetretener ZU ist der StaRUG-Zugang gesperrt; die drei Wochen nach § 15a InsO laufen. Diese Grenze muss präzise bestimmt werden.
+
+4. **Kreditlinien als sichere Liquidität eingerechnet** — eine Kreditlinie, die jederzeit kündbar oder bereits gezogen ist, ist keine belastbare Liquiditätsreserve für die Prognose.
+
+5. **Keine externe Validierung** — in strittigen Fällen (z.B. Grenzbereich drohende/eingetretene ZU) ist ein IDW S 11-Gutachten unumgänglich. Eigeneinschätzung der GF allein genügt nicht.
+
+---
+
+## Querverweise
+
+- → `fortbestehensprognose-zweistufig` — Verbindung zwischen § 18 und § 19 InsO
+- → `rollierende-liquiditaetsplanung-24-monate-template` — Planungsgrundlage
+- → `kennzahlenset-und-ampelsystem-starug-konform` — Liquiditätsreichweite als Schlüssel-KPI
+- → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Triggerlogik § 15a InsO
+- → `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG nach § 18 InsO
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+
+
+## Leitentscheidung: BGH zur Aufhebung der Restrukturierungssache — IX ZB 18/25
+
+BGH, Beschluss vom 23.04.2026 — IX ZB 18/25 (ECLI:DE:BGH:2026:230426BIXZB18.25.0; erste höchstrichterliche Entscheidung zum StaRUG; das amtliche Beschluss-PDF liegt im Repo der Testakte starug-aufhebung-holding-duesseldorf-ix-zb-18-25 bei — vor Schriftsatzverwendung an amtlicher Quelle gegenprüfen):
+
+- Zeigt der Schuldner Zahlungsunfähigkeit oder Überschuldung nach Paragraf 32 Abs. 3 StaRUG an, hebt das Restrukturierungsgericht die Restrukturierungssache nach Paragraf 33 Abs. 2 Satz 1 Nr. 1 StaRUG grundsätzlich auf; beim Absehen von der Aufhebung (Halbsatz 2 und 3) hat es Ermessen, und die Darlegungslast für alle Absehens-Umstände trägt der Schuldner.
+- Maßstab des Halbsatzes 2 ist nicht, ob die Insolvenzeröffnung den Gläubigern Vorteile bringt, sondern ob sie offensichtlich nicht im Gesamtinteresse der Gläubiger liegt; bei behaupteten Quotenvorteilen darf das Gericht die Unsicherheit einpreisen, ob die prognostizierte Planquote überhaupt erreichbar ist (im Fall: Planquote 1 Prozent gegen behauptete 0 Prozent, Verteilungsvolumen nur 6.119,51 EUR).
+- Halbsatz 3 scheitert, wenn der Restrukturierungserfolg von einer freiwilligen, rechtlich nicht gesicherten Zuzahlung eines Dritten abhängt (im Fall: nicht einmal unterzeichnete Erklärung über einen Planbeitrag von 42.000 EUR). Planbeiträge Dritter sind deshalb vor der Anzeige verbindlich und werthaltig abzusichern.
+- Die sofortige Beschwerde gegen die Aufhebung bleibt zulässig: Weder der Wirkungsverlust der Anzeige (Paragraf 31 Abs. 4 Nr. 3 StaRUG) noch der Ablauf der Sechs-Monats-Frist (Paragraf 31 Abs. 4 Nr. 4 StaRUG) lassen das Rechtsschutzinteresse entfallen; bei Beschwerdeerfolg erlangt die Anzeige ihre Wirkung wieder, einer erneuten Anzeige bedarf es nicht.
+
+Praxisfolge: Wer den Stabilisierungs- und Restrukturierungsrahmen trotz eingetretener Insolvenzreife halten will, muss Planreife, rechtlich gesicherte Finanzierungsbeiträge und die Quotenlogik der Vergleichsrechnung nach Paragraf 6 Abs. 2 StaRUG konkret dartun — sonst ist der richtige Ort der Krisenbewältigung das Insolvenzverfahren.

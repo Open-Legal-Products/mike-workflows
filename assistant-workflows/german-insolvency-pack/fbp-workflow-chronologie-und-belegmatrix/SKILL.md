@@ -1,0 +1,54 @@
+---
+name: "fbp-workflow-chronologie-und-belegmatrix"
+description: "When Chronologie und Belegmatrix in Insolvency and Restructuring is required: organises file content, evidence, gaps, and follow-up requests; produces a chronology with evidence matrix and objection list."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Fbp Workflow Chronologie Und Belegmatrix"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "fortbestehensprognose"
+---
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **fortbestehensprognose** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Chronologie für Fortbestehensprognose — typische Belegstrukturen
+- **T-0:** Stichtag der Prognose. Bezugsbilanz, BWA, Saldenlisten, Kontoauszüge, OPOS-Listen, Auftragsbestand.
+- **T-12M Rückblick:** Monatliche EBITDA-Entwicklung, Liquiditätsverlauf, Großkundenfluktuation, Lieferantenmahnungen, Kontokorrentinanspruchnahme.
+- **T+12M / T+24M Prognose:** Geplante Umsätze (mit Auftragsbestand vs. Pipeline trennen), Personalkosten, Investitionen, Tilgungsplan, Kovenanten.
+- **Kritische Ereignisse markieren:** Kontokündigung, Großauftragsverlust, Steuerbescheid, Sozialversicherungs-Rückstand (§ 266a StGB beachten), Lieferstopp, Bankauflage.
+- **Belegmatrix-Spalten:** Datum, Vorgang, Quelle (Dokument/System), Höhe, Wirkung auf Liquidität, Wirkung auf Bilanz, Annahme falls geschätzt.
+- **Trade-off:** Eine Chronologie aus E-Mails und Notizen ist schnell, aber im Anfechtungsprozess (§§ 129 ff. InsO) schwer; idealerweise mit Buchungsbelegen verknüpfen.
+- **Praxis:** Widersprüche zwischen Liquiditätsplan und Buchhaltung früh markieren — sie kosten im Streit die Prognose.

@@ -1,0 +1,53 @@
+---
+name: "geschaeftsfuehrerhaftung-quellenkarte-check"
+description: "When Geschäftsführerhaftung Quellenkarte Check in Insolvency and Restructuring is required: organises facts, norm, burden of proof, counter-arguments, and next step; produces an element-of-offence or claim matrix with counter-arguments."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Geschaeftsfuehrerhaftung Quellenkarte Check"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "krisenfrueherkennung-starug"
+---
+
+# Geschäftsführerhaftung Quellenkarte Check
+
+## Zweck
+
+Diese Quellenkarte sichert für **Krisenfrüherkennung StaRUG** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
+
+## Tragende Normen (live prüfen)
+
+- **StaRUG § 1 Krisenfrüherkennung** — amtlichen Stand vor tragender Aussage prüfen
+- **§ 18 InsO drohende ZU** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Restrukturierungsgericht
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- Frühzeitige Indikatoren
+- Restrukturierungsanzeige
+
+## Prüfroute
+
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
+
+## Fehlerbremse
+
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

@@ -1,0 +1,117 @@
+---
+name: "triage-vermoegensverschiebung-erfassen"
+description: "When Triage: Vermögensverschiebung erfassen in Restitution and Avoidance Law is required: clarifies role, objective, deadline, documents, and the appropriate next specialist workflow; produces a deadline and risk indicator with immediate action steps."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Triage Vermoegensverschiebung Erfassen"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Restitution and Avoidance Law"
+  jurisdictions: "Germany"
+  source-plugin: "bereicherungs-und-anfechtungsrecht-pruefer"
+---
+
+# Triage: Vermögensverschiebung erfassen
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Triage — kläre vor der Prüfung
+
+1. Sind alle Beteiligten (Leistender, Empfänger, weitere Personen) vollständig identifiziert?
+2. Ist der Gegenstand der Vermögensverschiebung (Geld, Sache, Forderung, Sicherheit) konkret bezeichnet?
+3. Ist das genaue Datum oder der Zeitraum der Vermögensverschiebung bekannt?
+4. Liegt eine rechtliche Beziehung zwischen den Beteiligten vor (Vertrag, Gesellschaft, Ehe)?
+5. Ist über das Vermögen des Leistenden ein Insolvenzverfahren eröffnet oder beantragt?
+
+## Zentrale Normen
+
+§ 812 Abs. 1 BGB (Leistungsbegriff, Zweckbestimmung) — § 129 InsO (Rechtshandlung vor Verfahrenseröffnung) — § 2 AnfG (vollstreckbarer Titel) — § 17 InsO (Zahlungsunfähigkeit: maßgeblicher Zeitpunkt) — § 199 BGB (Verjährungsbeginn: Kenntnis) — § 286 BGB (Verzugseintritt: Datum der Forderung)
+
+## Rechtsprechung
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Ablauf
+
+### Schritt 1 — Beteiligte Personen
+
+1. Wer ist Leistender?
+2. Wer ist Empfänger?
+3. Gibt es weitere Beteiligte (Bevollmächtigte, Treuhänder, Gesellschaften)?
+4. Besteht zwischen Leistendem und Empfänger eine rechtliche Beziehung?
+
+### Schritt 2 — Art der Vermögensverschiebung
+
+1. Was wurde übertragen (Geld, Sache, Forderungsabtretung, Grundstücksübereignung, Sicherheit)?
+2. In welcher Form (Überweisung, Barzahlung, notarielle Übertragung, Pfandbestellung)?
+3. Wann fand die Vermögensverschiebung statt (Datum oder Zeitraum)?
+4. Welchen Wert hatte die Vermögensverschiebung?
+
+### Schritt 3 — Rechtlicher Rahmen
+
+1. Liegt ein schriftlicher oder mündlicher Vertrag vor?
+2. Besteht oder bestand ein vollstreckbarer Titel?
+3. Ist ein Insolvenzverfahren eröffnet oder beantragt?
+4. Gibt es Hinweise auf Zahlungsunfähigkeit zum Zeitpunkt der Leistung?
+
+### Schritt 4 — Belegerfassung
+
+- Kontoauszüge oder Buchungsbelege
+- Vertragsurkunden oder Quittungen
+- Notarielle Urkunden
+- Schriftverkehr, E-Mails oder SMS
+- Vollstreckungstitel
+- Insolvenzaktenzeichen und Beschlüsse des Insolvenzgerichts
+
+## Typische Erfassungsfehler
+
+- Schätzungen statt konkreter Daten.
+- Beteiligte Dritte werden nicht erwähnt.
+- Zeitpunkt der Bestellung statt der tatsächlichen Vermögensverschiebung.
+- Teilvermögensverschiebungen werden als Einheit geschildert.
+
+## Output-Template
+
+**Triage: Vermögensverschiebung**
+
+| Merkmal | Angabe des Nutzers |
+|---|---|
+| Leistender | [...] |
+| Empfänger | [...] |
+| Weitere Beteiligte | [...] / keine |
+| Gegenstand der Leistung | [...] |
+| Form der Leistung | [...] |
+| Datum / Zeitraum | [...] |
+| Wert | [...] EUR |
+| Rechtsbeziehung | Vertrag / keine |
+| Vollstreckbarer Titel | ja / nein |
+| Insolvenzverfahren | eröffnet / beantragt / nein |
+| Hinweise auf Zahlungsunfähigkeit | ja: [...] / nein |
+
+**Weiter zu:** Weichenstellung → `weichenstellung-bereicherung-oder-anfechtung`
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.

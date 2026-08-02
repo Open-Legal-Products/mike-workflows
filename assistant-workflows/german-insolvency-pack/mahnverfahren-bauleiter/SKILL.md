@@ -1,0 +1,59 @@
+---
+name: "mahnverfahren-bauleiter"
+description: "When Mahnverfahren bei Bauforderungen in Insolvency and Restructuring is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a usable draft with motions, reasoning, and exhibit logic."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Mahnverfahren Bauleiter"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "forderungsmanagement-klagewerkstatt"
+---
+
+# Mahnverfahren bei Bauforderungen
+
+Bau-Werklohnforderungen sind im Mahnverfahren machbar wenn Faelligkeit klar dokumentiert und kein Maengelstreit zu erwarten ist.
+
+## Faelligkeit Werklohn
+
+Werklohn ist faellig nach Abnahme BGB 641 Abs. 1. Bei BGB 650g Abs. 4 gilt Schlussrechnungsfaelligkeit dreissig Tage nach Zugang einer prüfbaren Schlussrechnung. Ohne Faelligkeit kein Mahnbescheid.
+
+## Bauhandwerkersicherung BGB 650f
+
+Bauunternehmerin kann Sicherheit verlangen. Wird Sicherheit nicht gestellt darf Unternehmerin Vertrag kuendigen. Erfolgt Kuendigung haben sich die Anspruchsgrundlagen veraendert.
+
+## Prüfliste MB-Antrag Bau
+
+| Punkt | Prüfung |
+|---|---|
+| Abnahme erfolgt | foermlich oder konkludent BGB 640 |
+| Schlussrechnung prüfbar | Massenauszug Belege |
+| Faelligkeit | nach Abnahme oder 30 Tage nach Schlussrechnung |
+| Maengelstreit zu erwarten | wenn ja Klage statt MB |
+| Bauhandwerkersicherung gefordert | dokumentieren |
+| Streitwert | brutto inklusive USt wenn faellig |
+
+## Typische Stolpersteine
+
+- Abnahme nicht dokumentiert dann keine Faelligkeit
+- Auftraggeber bestreitet prüfbare Schlussrechnung Mahnbescheid waere unhaltbar
+- Maengel und Abschlagsrechnungen vermischen sich Klage statt MB
+
+## Norm-Pinpoints
+
+- BGB 631 Werkvertrag
+- BGB 640 Abnahme
+- BGB 641 Faelligkeit
+- BGB 650a ff Bauvertrag
+- BGB 650f Bauhandwerkersicherung
+- BGB 650g Schlussrechnung
+
+## Quellen
+
+- [BGB 641](https://www.gesetze-im-internet.de/bgb/__641.html)
+- [BGB 650f](https://www.gesetze-im-internet.de/bgb/__650f.html)
+- [BGB 650g](https://www.gesetze-im-internet.de/bgb/__650g.html)

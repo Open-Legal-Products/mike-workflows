@@ -1,0 +1,63 @@
+---
+name: "liq-workflow-unterlagen-lueckenliste"
+description: "When Unterlagen- und Lückenliste in Insolvency and Restructuring is required: organises file content, evidence, gaps, and follow-up requests; produces a document matrix with a follow-up request list."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Liq Workflow Unterlagen Lueckenliste"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "liquiditaetsplanung"
+---
+
+# Unterlagen- und Lückenliste
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Lückenliste 13-Wochen-Plan (Mindestumfang)
+- **Anfangsbestand:** Banksalden je Konto (auch Verwahrkonto/Notarkonto), Kontokorrentlinien, Avalrahmen, Disposchutz.
+- **Einzahlungen wöchentlich:** Kundeneingänge nach OPOS mit Zahlungsmoral-Annahme; Sondereinnahmen (Förderbescheide, Vorsteuererstattungen, Verkaufserlöse) gesondert.
+- **Auszahlungen wöchentlich:** Personal (mit Lohnsteuer-/SV-Fälligkeiten), Lieferanten nach OPOS-Kreditoren, Mieten, Versicherungen, Tilgung und Zinsen, Steuern, sonstige Fixkosten.
+- **Sondersachverhalte:** Skontoabzug, Zessionen (Globalzession Bank!), Eigentumsvorbehalt-Forderungen, Leasingraten, Factoring-Vorauszahlungen vs. Endabrechnungen.
+- **Annahmen mit Sensitivität:** Umsatzrückgang −20 %, Forderungslaufzeit +10 Tage, Lieferantenkredit −7 Tage; jeweils dokumentiert mit Begründung.
+- **Linien & Sicherheiten:** Aktueller Inanspruchnahme-Stand, freie Linie, Kovenanten-Tests (mindestens monatlich), Sicherheitenbewertung.
+- **Trade-off:** Eine zu großzügige Lückenliste lähmt das Mandat; eine zu enge führt zu Schein-Genauigkeit. Pareto: 80 % der Liquiditätsbewegung läuft idR über 20 % der Positionen.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.

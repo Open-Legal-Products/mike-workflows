@@ -1,0 +1,55 @@
+---
+name: "fkw-output-waehlen"
+description: "When Output waehlen in Insolvency and Restructuring is required: drafts the appropriate document from facts, norm, evidence, and motion; produces a deadline and risk indicator with immediate action steps."
+license: "MIT"
+metadata:
+  version: "1.0.0"
+  author: "Klotzkette"
+  language: "German"
+  mike-display-name: "Fkw Output Waehlen"
+  mike-type: "assistant"
+  mike-availability: "add-on"
+  practice: "Insolvency and Restructuring"
+  jurisdictions: "Germany"
+  source-plugin: "forderungsmanagement-klagewerkstatt"
+---
+
+# Output waehlen
+
+Nicht jede Forderungsakte braucht eine Klage. Dieser Skill waehlt das passende Produkt.
+
+## Produktkatalog
+
+| Output | Wann | Mindestinhalt | Norm |
+|---|---|---|---|
+| Aussergerichtliche Mahnung | Schuldner noch nicht in Verzug oder zur Verzugsbegruendung | Forderung Faelligkeit Zahlungsfrist Verzugsfolgenhinweis | BGB 286 Abs. 1 |
+| Anwaltliches Forderungsschreiben | Zweite Eskalationsstufe Inkassokostenanspruch wecken | wie oben plus Vollmacht Hinweis Kostenfolge | RDG 13b |
+| Mahnbescheidsantrag online | unstrittig faellig kein Widerspruch erwartet | Gläubiger Schuldner Anspruchsgrund Hauptforderung Nebenforderungen Zinsen | ZPO 690 |
+| Klageschrift Zahlungsklage | Streit erwartet oder Mahnverfahren ausgeschlossen | Parteien Antrag Tatsachen Beweis Streitwert | ZPO 253 Abs. 2 |
+| Vollstreckungsauftrag Gerichtsvollzieher | Titel vorhanden bewegliches Vermögen | Gläubiger Schuldner Titel Forderung Höhe | ZPO 753 ZPO 754 |
+| Pfaendungs- und Überweisungsbeschluss | Titel Drittschuldner bekannt | Drittschuldnerdaten Forderungsbezeichnung | ZPO 829 ZPO 835 |
+| Forderungsanmeldung InsO | Schuldner insolvent | Forderung Grund Beleg Rangstufe Vorrechte | InsO 174 |
+| Vergleichsentwurf | beide Seiten verhandlungsbereit | Forderungshoehe Ratenplan Verzichtsklausel Vollstreckungsklausel | BGB 779 ZPO 794 Abs. 1 Nr. 1 |
+| Aktenvermerk Nichtaufnahme | Forderung verjaehrt unwirtschaftlich oder Konflikt | Sachverhalt Prüfergebnis Mandantenbeschluss Wiedervorlage | BORA 50 Aktenpflicht |
+
+## Entscheidungslogik
+
+1. Eilbeduerftigkeit Verjährung naht in unter sechzig Tagen Mahnbescheid oder Klage sofort
+2. Beweislage stark Urkundenprozess prüfen
+3. Schuldner zahlungsbereit aber liquide schwach Vergleich mit Vollstreckungsunterwerfung ZPO 794 Abs. 1 Nr. 5
+4. Schuldner schweigt nach zwei Mahnungen Mahnbescheid
+5. Streit über Existenz oder Höhe Zahlungsklage
+
+## Norm-Pinpoints
+
+- ZPO 253 Klage
+- ZPO 690 Mahnantrag
+- ZPO 753 754 Gerichtsvollzieher
+- ZPO 794 Titel-Katalog
+- BGB 779 Vergleich
+
+## Quellen
+
+- [ZPO 690](https://www.gesetze-im-internet.de/zpo/__690.html)
+- [ZPO 794](https://www.gesetze-im-internet.de/zpo/__794.html)
+- [BGB 779](https://www.gesetze-im-internet.de/bgb/__779.html)
