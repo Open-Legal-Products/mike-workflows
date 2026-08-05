@@ -1,0 +1,135 @@
+$schema: "../../../workflow-schema/table-columns.schema.yaml"
+columns:
+  - index: 0
+    name: "Strony umowy"
+    format: "text"
+    prompt: >-
+      Kto jest wynajmującym, a kto najemcą? Podaj oznaczenie stron w zakresie ujawnionym
+      w umowie: przy przedsiębiorcy pełną firmę z formą prawną oraz numer KRS lub NIP, przy
+      osobie fizycznej wyłącznie dane wskazane w umowie. Odnotuj, czy wynajmujący oświadcza,
+      że przysługuje mu tytuł prawny do lokalu, i jaki. Jeżeli strony nie są zidentyfikowane,
+      wpisz "Nie wskazano".
+  - index: 1
+    name: "Przedmiot najmu"
+    format: "text"
+    prompt: >-
+      Jaki lokal jest przedmiotem najmu? Podaj adres, powierzchnię, liczbę pomieszczeń, numer
+      księgi wieczystej oraz pomieszczenia przynależne i części wspólne objęte umową
+      (piwnica, miejsce postojowe, ogródek). Odnotuj, czy najem obejmuje wyposażenie i czy
+      dołączono jego wykaz. Jeżeli lokalu nie opisano, wpisz "Nie wskazano".
+  - index: 2
+    name: "Rodzaj najmu"
+    format: "text"
+    prompt: >-
+      Czy umowa jest najmem zwykłym, najmem okazjonalnym (art. 19a i nast. ustawy o ochronie
+      praw lokatorów) czy najmem instytucjonalnym (art. 19f i nast. tej ustawy)? Wskaż
+      podstawę tej kwalifikacji w treści umowy. Przy najmie okazjonalnym odnotuj, czy umowa
+      przewiduje oświadczenie najemcy w formie aktu notarialnego o poddaniu się egzekucji,
+      wskazanie innego lokalu oraz zgłoszenie umowy naczelnikowi urzędu skarbowego. Jeżeli
+      rodzaju najmu nie określono, wpisz "Nie wskazano".
+  - index: 3
+    name: "Czas trwania"
+    format: "text"
+    prompt: >-
+      Czy umowę zawarto na czas oznaczony czy nieoznaczony? Podaj datę rozpoczęcia i datę
+      zakończenia albo wskazanie, że czas jest nieoznaczony, oraz postanowienia o przedłużeniu
+      i o dorozumianym przedłużeniu. Podaj daty w formacie RRRR-MM-DD. Jeżeli czasu trwania
+      nie określono, wpisz "Nie wskazano".
+  - index: 4
+    name: "Czynsz"
+    format: "monetary_amount"
+    prompt: >-
+      Jaka jest wysokość czynszu? Podaj kwotę i walutę, okres rozliczeniowy, termin i sposób
+      płatności oraz wskazanie, czy czynsz obejmuje opłaty niezależne od właściciela. Podaj
+      też odsetki lub kary za opóźnienie, jeżeli je zastrzeżono. Jeżeli czynszu nie określono,
+      wpisz "Nie wskazano".
+  - index: 5
+    name: "Opłaty niezależne i media"
+    format: "text"
+    prompt: >-
+      Jakie opłaty poza czynszem obciążają najemcę: energia, gaz, woda, ogrzewanie, wywóz
+      odpadów, opłaty do wspólnoty lub spółdzielni, internet? Podaj sposób ich ustalania
+      i rozliczania (ryczałt, według liczników, zaliczki z rozliczeniem) oraz stan liczników,
+      jeżeli umowa go odnotowuje. Jeżeli opłat nie wskazano, wpisz "Nie wskazano".
+  - index: 6
+    name: "Podwyżka czynszu"
+    format: "text"
+    prompt: >-
+      Jak umowa reguluje podwyższenie czynszu? Podaj przesłanki, częstotliwość, tryb
+      i termin uprzedzenia oraz wskaźnik waloryzacji, jeżeli go zastrzeżono, i zacytuj
+      postanowienie dosłownie. Odnotuj, czy umowa odsyła do trybu wypowiedzenia wysokości
+      czynszu przewidzianego w ustawie o ochronie praw lokatorów (art. 8a). Jeżeli umowa
+      milczy, wpisz "Nie wskazano".
+  - index: 7
+    name: "Kaucja"
+    format: "text"
+    prompt: >-
+      Czy zastrzeżono kaucję zabezpieczającą? Podaj jej wysokość, termin wpłaty, zasady
+      potrąceń i termin zwrotu. Reguła ustawowa (art. 6 ust. 1 ustawy o ochronie praw
+      lokatorów): kaucja nie może przekraczać dwunastokrotności miesięcznego czynszu za dany
+      lokal, obliczonego według stawki obowiązującej w dniu zawarcia umowy najmu; zgodnie
+      z art. 6 ust. 4 tej ustawy kaucja podlega zwrotowi w ciągu miesiąca od dnia opróżnienia
+      lokalu, po potrąceniu należności wynajmującego z tytułu najmu. Przy najmie
+      instytucjonalnym limit jest inny - kaucja nie może przekraczać sześciokrotności
+      miesięcznego czynszu (art. 19f ustawy). Odnotuj kaucję przekraczającą limit właściwy dla
+      danego rodzaju najmu oraz termin zwrotu dłuższy niż ustawowy. Jeżeli kaucji nie
+      przewidziano, wpisz "Nie wskazano".
+  - index: 8
+    name: "Wypowiedzenie przez wynajmującego"
+    format: "text"
+    prompt: >-
+      Na jakich zasadach wynajmujący może wypowiedzieć umowę? Wymień przesłanki i terminy
+      zapisane w umowie i zacytuj je dosłownie. Odnotuj, czy umowa odsyła do katalogu przyczyn
+      i wymogów formalnych z art. 11 ustawy o ochronie praw lokatorów, oraz czy przewiduje
+      przyczyny spoza tego katalogu. Jeżeli umowa milczy, wpisz "Nie wskazano".
+  - index: 9
+    name: "Wypowiedzenie przez najemcę"
+    format: "text"
+    prompt: >-
+      Na jakich zasadach najemca może wypowiedzieć umowę? Podaj przesłanki, okres
+      wypowiedzenia i formę, a także ewentualne kary umowne lub przepadek kaucji w razie
+      wcześniejszego rozwiązania. Odnotuj, czy przy umowie na czas oznaczony w ogóle
+      przewidziano możliwość wypowiedzenia i w jakich wypadkach. Jeżeli umowa milczy,
+      wpisz "Nie wskazano".
+  - index: 10
+    name: "Stan lokalu i protokół"
+    format: "text"
+    prompt: >-
+      Jak udokumentowano stan lokalu przy wydaniu? Odnotuj, czy umowa przewiduje protokół
+      zdawczo-odbiorczy, dokumentację zdjęciową, wykaz wyposażenia i stan liczników, oraz
+      zasady zwrotu lokalu przy zakończeniu najmu, w tym dopuszczalne zużycie. Jeżeli umowa
+      milczy, wpisz "Nie wskazano".
+  - index: 11
+    name: "Naprawy i nakłady"
+    format: "text"
+    prompt: >-
+      Jak rozdzielono obowiązki utrzymania lokalu? Podaj, które naprawy i konserwacje obciążają
+      najemcę, a które wynajmującego, oraz zasady rozliczenia nakładów i ulepszeń dokonanych
+      przez najemcę. Reguła ustawowa: wynajmującego obciąża między innymi zapewnienie sprawnego
+      działania instalacji i urządzeń budynku oraz dokonywanie napraw budynku, jego pomieszczeń
+      i urządzeń (art. 6a ustawy o ochronie praw lokatorów), natomiast najemcę - naprawa
+      i konserwacja podłóg, posadzek i okładzin, okien i drzwi, mebli wbudowanych oraz trzonów
+      kuchennych i grzejników wody przepływowej (art. 6b tej ustawy). Odnotuj postanowienia
+      przenoszące na najemcę naprawy przypisane wynajmującemu. Jeżeli umowa milczy,
+      wpisz "Nie wskazano".
+  - index: 12
+    name: "Podnajem i osoby zamieszkujące"
+    format: "text"
+    prompt: >-
+      Co umowa stanowi o podnajmie, użyczeniu i o osobach uprawnionych do zamieszkiwania?
+      Podaj, czy wymagana jest zgoda wynajmującego i w jakiej formie oraz czy wskazano
+      maksymalną liczbę osób. Reguła ustawowa (art. 668 § 1 k.c.): najemca może oddać rzecz
+      w podnajem lub do bezpłatnego używania, jeżeli umowa mu tego nie zabrania. Jeżeli umowa
+      milczy, wpisz "Nie wskazano".
+  - index: 13
+    name: "Postanowienia odbiegające i sygnały ryzyka"
+    format: "bulleted_list"
+    prompt: >-
+      Wymień postanowienia nietypowe lub ograniczające ochronę lokatora: kaucja ponad ustawowy
+      limit, przyczyny wypowiedzenia spoza katalogu ustawowego, wypowiedzenie bez zachowania
+      formy pisemnej, przerzucenie na najemcę napraw obciążających właściciela, kary umowne za
+      rozwiązanie umowy, klauzule zmierzające do opróżnienia lokalu bez tytułu wykonawczego,
+      automatyczna waloryzacja czynszu bez trybu i uprzedzenia, przepadek kaucji bez
+      rozliczenia. Do każdej pozycji podaj jednostkę redakcyjną umowy. Nie przesądzaj
+      o nieważności - odnotuj rozbieżność. Jeżeli nie stwierdzono takich postanowień, wpisz
+      "Brak uwag".
