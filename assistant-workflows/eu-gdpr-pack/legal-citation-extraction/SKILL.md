@@ -21,7 +21,7 @@ Extraction is mechanical - by patterns and rules, not by judgement - on purpose:
 ## Three steps
 
 1. Extraction - recognise and capture every reference by the patterns below.
-2. Aggregation - resolve short references (ibid., id., supra, op. cit., "the above-cited judgment") to their full antecedent, so they count as one citation, not several.
+2. Aggregation - resolve short references (ibid., id., supra, op. cit., "the above-cited judgment") to their antecedents by the pointer-aware rules below, so they count as one citation, not several.
 3. Hand-off - pass the structured list to verification: does each cited authority exist, and does it say what the text claims.
 
 ## Citation patterns
@@ -41,7 +41,13 @@ Extraction is mechanical - by patterns and rules, not by judgement - on purpose:
 
 ## Aggregation - short references
 
-Resolve each short reference to the full citation given earlier: `ibid.`, `id.`, `supra`, `op. cit.`, `the cited judgment`, `the above-cited`, `loc. cit.`. Each points to the nearest matching antecedent in the text - count it as the same citation, but record where it occurs.
+Short reference forms carry different resolution rules - they cannot all be sent to the nearest antecedent:
+
+- `ibid.`, `id.`, `loc. cit.` - refer to the immediately preceding authority.
+- `supra`, `op. cit.` - often carry a pointer that overrides proximity: an author name, a title fragment, or a note number ("Kranenborg, op. cit., p. 12"; "supra note 14"). Resolve by the pointer first; fall back to proximity only when the reference is bare.
+- Descriptive forms (`the cited judgment`, `the above-cited`) - match by the described attributes (court, party, subject), not by position alone.
+
+Where more than one antecedent matches, or none does, mark the reference **unresolved - manual review** instead of guessing: a wrong merge silently fuses two distinct authorities into one. Count each resolved reference as the same citation as its antecedent, but record where it occurs.
 
 ## Output format
 

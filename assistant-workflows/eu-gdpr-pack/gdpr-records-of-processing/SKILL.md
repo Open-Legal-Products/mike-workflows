@@ -32,12 +32,19 @@ Validate completeness field by field. A missing field is a gap to report, not a 
 
 ## Processor register (Article 30(2))
 
-The processor's register is narrower: the categories of processing carried out on behalf of each controller, transfers with safeguards, and a general description of security measures. Record the controllers and any sub-processors by name.
+The processor's register has its own mandatory field list, validated field by field like the controller's:
+
+- the name and contact details of the processor or processors and of each controller on behalf of which the processor is acting, and, where applicable, of the controller's or the processor's representative and the DPO (Article 30(2)(a)),
+- the categories of processing carried out on behalf of each controller,
+- transfers to third countries or international organisations, with the identification of the country and, for transfers under the second subparagraph of Article 49(1), the documentation of suitable safeguards,
+- a general description of the technical and organisational security measures (Article 32(1)).
+
+A register that lists controllers and sub-processors but omits contact details, the representative, or the DPO is incomplete - report the gap, do not mark the activity complete.
 
 ## Cross-checks
 
 - Flag every activity whose description meets a DPIA trigger (profiling, large-scale special-category data, systematic monitoring) so it can be taken through a DPIA.
-- Test the Article 30(5) exemption honestly: it applies only to organisations under 250 employees whose processing is occasional, low-risk, and involves no special categories. In practice it rarely applies - most organisations process employee or customer data regularly.
+- Test the Article 30(5) exemption honestly, disqualifier by disqualifier - any one of them removes it. The exemption is unavailable if the organisation employs 250 persons or more; and regardless of size, if the processing is likely to result in a risk to rights and freedoms, is not occasional, includes special categories of data under Article 9(1), or includes personal data relating to criminal convictions and offences under Article 10. In practice it rarely applies - most organisations process employee or customer data regularly.
 - Where the register reveals a processor without a compliant processing contract, note it and route the contract itself to a DPA review workflow.
 
 ## Output

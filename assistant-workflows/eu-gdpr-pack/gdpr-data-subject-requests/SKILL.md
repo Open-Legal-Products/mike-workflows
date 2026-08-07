@@ -18,7 +18,7 @@ A rights request is a clock plus a legal assessment, not an automation. The work
 
 ## Step 0 - Identity and deadline
 
-- Identity verification (Article 12(6)): where reasonable doubt exists, request further information. This pauses the clock until identity is confirmed, but must not be used to obstruct the request.
+- Identity verification (Article 12(6)): where reasonable doubt exists, request further information. This does not pause the clock unconditionally. Per EDPB Guidelines 01/2022, the deadline may be suspended only where the additional information is necessary to confirm identity and the controller asked for it without undue delay. Always preserve the original receipt date in the register - a late or disproportionate identity request does not extend the deadline, and verification must not be used to obstruct the request.
 - Deadline: one month from receipt (Article 12(3)), extendable by up to two further months for complexity or number of requests - the data subject must be informed of the extension and its reasons within the first month. Compute the exact deadline dates and state them in the draft and register. Month arithmetic has traps: under Regulation (EEC) No 1182/71, a request received on 31 January runs to the last day of February.
 - Free of charge by default (Article 12(5)). A fee or refusal is allowed only where the request is manifestly unfounded or excessive, and the burden of proof is on the controller.
 
@@ -32,7 +32,7 @@ A rights request is a clock plus a legal assessment, not an automation. The work
 | 18 | Restriction | a freeze instead of erasure |
 | 20 | Portability | consent or contract basis plus automated processing only; structured, machine-readable format |
 | 21 | Objection | legitimate interest or direct marketing - the marketing objection is absolute |
-| 22 | Automated decisions | right to human intervention |
+| 22 | Automated decisions | the primary right is not to be subject to a solely automated decision producing legal or similarly significant effects; exceptions in 22(2) (contract, authorising law, explicit consent) trigger safeguards - at minimum human intervention, expressing one's view, and contesting the decision (22(3)) |
 
 A request can be informal - interpret its substance, not its heading.
 
@@ -42,7 +42,7 @@ Check the exemptions specific to the right invoked (especially Article 17(3) and
 
 ## Step 3 - Draft the response and the register entry
 
-Draft the response in clear and plain language (Article 12(1)), a list of the data and its sources drawn from the records of processing, and a register entry recording receipt date, request type, deadline, and outcome.
+Draft the response in clear and plain language (Article 12(1)), tailored to the right invoked. For an Article 15 request that means a copy of the personal data undergoing processing, retrieved from the operational systems that actually hold it, plus any available information on the data's source (Article 15(1)(g)). The records of processing supply only the general processing information - purposes, categories, recipients, retention - not the person's data or necessarily its sources; a response drafted from the RoPA alone is incomplete. Close with a register entry recording receipt date, request type, deadline, and outcome.
 
 ## Governance boundary
 

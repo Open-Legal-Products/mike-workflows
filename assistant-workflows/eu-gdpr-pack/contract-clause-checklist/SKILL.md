@@ -1,6 +1,6 @@
 ---
 name: "contract-clause-checklist"
-description: "Walk a single contract against 41 clause categories from the CUAD taxonomy and mark each one present, absent, or risky, quoting the clause when present, so that a safeguard the deal needs does not slip through by omission. Extractive: findings come from the contract text, not paraphrase. Use before signing, in negotiation, or in due diligence of one agreement, when the question is what is missing from this contract and which clauses bite. Jurisdiction-neutral framing with common-law roots; the assessment and the recommendation stay with the lawyer."
+description: "Walk a single contract against 41 clause categories from the CUAD taxonomy: first assess which categories this deal needs, then mark each applicable one present, absent, or risky, quoting the clause when present, so that a safeguard the deal needs does not slip through by omission. Extractive: findings come from the contract text, not paraphrase. Use before signing, in negotiation, or in due diligence of one agreement, when the question is what is missing from this contract and which clauses bite. Jurisdiction-neutral framing with common-law roots; the assessment and the recommendation stay with the lawyer."
 license: "MIT"
 metadata:
   version: "1.0.0"
@@ -18,9 +18,11 @@ The most expensive clauses are the ones that are not in the contract. Reviewing 
 
 It is extractive - what it shows comes from the contract, not from paraphrase. It flags presence and risk; the assessment and the call stay with the lawyer.
 
+One caution built into the method: CUAD is an extraction taxonomy, not a list of safeguards every agreement must contain. Several categories are deal-specific, and some are mutually exclusive pairs - uncapped liability versus a cap on liability, unlimited versus limited licence grants. Treating every absence as a red flag would bury the real gaps in false positives.
+
 ## The 41 categories (CUAD taxonomy)
 
-For each category: present / absent / risky, plus a quote when present.
+Each category is assessed in two steps. First, applicability: does this deal need the clause at all, given the contract type, the parties, and the subject matter? Then, for applicable categories only: present / absent / risky, plus a quote when present. Mutually exclusive pairs count as one decision - record which side the contract takes, not the "absence" of the other side.
 
 ### Contract metadata
 - Document name, Parties (verify authority to sign), Governing law.
@@ -50,8 +52,8 @@ For each category: present / absent / risky, plus a quote when present.
 
 Start with the red flags, then the full table:
 
-- RED FLAGS: each absent category with why it is a risk in this deal, and each risky category with how it is one-sided.
-- 41-CATEGORY TABLE with columns: Category, Status, Note, Quote (if present).
+- RED FLAGS: each category that is applicable and absent, with why this deal needs it, and each risky category with how it is one-sided. A category marked not applicable never becomes a red flag.
+- 41-CATEGORY TABLE with columns: Category, Applicable (yes/no + why), Status, Note, Quote (if present).
 
 ## Limits
 
