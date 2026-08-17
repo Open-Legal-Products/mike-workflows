@@ -1,0 +1,18 @@
+$schema: "../../workflow-schema/pack.schema.yaml"
+id: "legal-verification"
+title: "Legal Verification Pack"
+description: "Four jurisdiction-neutral workflows for stress-testing a finished legal deliverable before it goes out, arranged as a cost gradient. The rungs: a neutral cold-reader assessment of how a submission lands on a judge with no prior context; a single-pass opposing-counsel attack that reads the argument the way the other side will; a full adversarial debate (builder, attacker, synthesizer, verifier) reserved for high-stakes work; and a two-layer scorecard that separates mechanically checkable facts from rubric-based judgement, ending in a send / revise / verify decision. Every workflow assesses or attacks an existing text; none drafts, files, or sends - those acts stay with the lawyer."
+publisher:
+  name: "MateMatic Solutions"
+  url: "https://matematicsolutions.com"
+license: "MIT"
+version: "1.0.0"
+practice: "Legal Review"
+source:
+  repo: "https://github.com/matematicsolutions/awesome-matematic-skills-en"
+  url: "https://matematicsolutions.com"
+workflows:
+  - "judicial-first-impression"
+  - "opposing-counsel-attack"
+  - "adversarial-legal-review"
+  - "output-scoring"
