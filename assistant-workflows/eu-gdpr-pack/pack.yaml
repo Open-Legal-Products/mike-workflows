@@ -1,0 +1,21 @@
+$schema: "../../workflow-schema/pack.schema.yaml"
+id: "eu-gdpr"
+title: "EU GDPR Pack"
+description: "English-language GDPR compliance workflows for EU practice: breach notification under Articles 33-34 with the 72-hour clock, DPIA threshold screening and drafting under Articles 35-36, data subject request handling under Articles 12 and 15-22, and records of processing under Article 30. The pack also carries three method workflows: a 41-category contract clause checklist, an explicit legal syllogism scaffold, and mechanical extraction of ECLI, CELEX, and EU citations. Every workflow produces drafts for human review; notification, filing, signing, and sending stay with the lawyer."
+publisher:
+  name: "MateMatic Solutions"
+  url: "https://matematicsolutions.com"
+license: "MIT"
+version: "1.0.0"
+jurisdiction: "European Union"
+source:
+  repo: "https://github.com/matematicsolutions/awesome-matematic-skills-en"
+  url: "https://matematicsolutions.com"
+workflows:
+  - "gdpr-breach-notification"
+  - "gdpr-dpia"
+  - "gdpr-data-subject-requests"
+  - "gdpr-records-of-processing"
+  - "contract-clause-checklist"
+  - "legal-syllogism"
+  - "legal-citation-extraction"
