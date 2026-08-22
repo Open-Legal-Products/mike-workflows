@@ -1,0 +1,16 @@
+$schema: "../../workflow-schema/pack.schema.yaml"
+id: "china-pipl"
+title: "China PIPL Pack"
+description: "English-language Personal Information Protection Law workflows for PRC practice: outbound-transfer path selection under PIPL Articles 38-40 and the 2024 Cross-border Data Flow Provisions, personal-information protection impact assessment under Articles 55-56, individual rights requests under Articles 44-50, and incident notification under Article 57. Every workflow produces drafts for human review; filing, notifying, signing, and sending stay with the lawyer."
+publisher:
+  name: "Xing Peng"
+  url: "https://github.com/245678000000"
+license: "MIT"
+version: "1.0.0"
+practice: "Data Protection"
+jurisdiction: "People's Republic of China"
+workflows:
+  - "pipl-cross-border-triage"
+  - "pipl-impact-assessment"
+  - "pipl-individual-rights-requests"
+  - "pipl-incident-notification"
