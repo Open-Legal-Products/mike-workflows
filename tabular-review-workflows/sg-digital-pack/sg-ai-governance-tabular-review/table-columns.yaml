@@ -1,0 +1,76 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Framework Trigger & Fit
+  format: tag
+  tags:
+  - Model AI Governance Framework (2nd Ed) — traditional AI
+  - Model AI Governance Framework for Generative AI
+  - Model AI Governance Framework for Agentic AI
+  - Sector regulator overlay (MAS/MOH/PDPC/other)
+  - AI Verify / assurance engagement intended
+  - Non-SG users only — SG framework not engaged (confirm nexus)
+  prompt: Which Singapore governance instrument is engaged, and at what level of force? State whether the applicable IMDA framework text is the Model AI Governance Framework (2nd Ed, traditional AI), the Model AI Governance Framework for Generative AI, or the Model AI Governance Framework for Agentic AI (v1.5), and separately whether any sector regulator (MAS, MOH, PDPC, IMDA sector codes) imposes binding or supervisory-expectation obligations on this use case.
+- index: 1
+  name: System Description & Nexus to SG
+  format: text
+  prompt: 'Describe the AI system: purpose, model type (traditional ML, GenAI, agentic), level of autonomy (read-only / controlled write / full access), training approach (build, fine-tune, third-party API), and the SG nexus — offered to SG users, processed SG data, operated from SG, or deployed by an SG entity. State expressly whether the organisation positions itself as provider, deployer, or both under IMDA''s framework terminology, and whether the system is agentic (multi-step tool-using) — which changes which framework applies.'
+- index: 2
+  name: Agentic-AI Agency-Level Calibration
+  format: tag
+  tags:
+  - L0/L1 — Assisted/supervised agency (human-initiated, read-only)
+  - L2 — Conditional agency (controlled write with human approval)
+  - L3 — Conditional agency (broader write, bounded)
+  - L4 — Advanced agency (autonomous within guardrails)
+  - L5 — Full agency (minimal human intervention)
+  - Not agentic — standard GenAI or predictive system
+  prompt: If the system is agentic or partially agentic, calibrate it against the IMDA Agentic AI framework's risk-calibrated agency levels and state which governance pathway the framework contemplates for that level. If the system is not agentic, tag accordingly and assess whether any tool-use, self-modification, or delegated-execution feature pushes it into agentic territory.
+- index: 3
+  name: Accountability & Ownership Map
+  format: text
+  prompt: 'Map decision rights and accountability under the SG frameworks'' expectations: named accountable owner per system, clear allocation of responsibility across internal teams and external partners in the AI development chain (foundation-model vendor, fine-tuner, integrator, deployer), and a defined escalation path for high-risk or high-agency outcomes. State whether accountability is genuinely assigned to a person or diffused, and what the frameworks require for ''meaningful human accountability'' where the system acts with autonomy.'
+- index: 4
+  name: Risk Assessment & Impact Calibration
+  format: text
+  prompt: 'Describe the risk assessment performed or required for this system under the SG approach: the framework''s expectation to ''assess and bound the risks upfront'', the impact dimensions considered (safety, bias/fairness, privacy, security, societal, environmental), affected populations (minors, vulnerable groups), and how risks were bounded (scope limits, controls, human oversight). Identify any risk dimension the assessment omits that an IMDA-aligned or AI Verify review would probe, including model-toxic-output, hallucination in high-stakes contexts, and adversarial-prompt risks.'
+- index: 5
+  name: Alignment with AI Verify Testing
+  format: text
+  prompt: 'Assess the testing posture: whether the organisation''s evaluation plan maps to the AI Verify testing framework — its governance principles (transparency, explainability, repeatability/reproducibility, safety, security, robustness, fairness, data governance, accountability, human agency/oversight, inclusive growth/societal/environmental wellbeing) — and whether testing covers both traditional and GenAI use cases as the enhanced framework contemplates. State whether the organisation intends or has undergone AI Verify self-testing, the AI Verify Foundation assurance pilot, or IMDA''s GenAI Starter Kit pre-deployment testing practices, and what evidence each would produce.'
+- index: 6
+  name: Data Governance & Personal Data Compliance
+  format: text
+  prompt: 'Assess data practices against the PDPA and the SG frameworks'' data-governance chapters: consent or other lawful basis for personal data in training/inference, purpose limitation and notification under PDPA, data-quality and bias-in-training-data controls, provenance of datasets (licence chain for third-party data), retention and deletion, and protection against data leakage through prompts/outputs. Flag where the framework''s recommendation exceeds PDPA minimums — noting the frameworks are not law and the gap is governance risk, not breach exposure.'
+- index: 7
+  name: Transparency & User Communication
+  format: text
+  prompt: 'Set out transparency obligations and expectations for SG users: IMDA''s Transparency Guidelines for Generative AI Chatbots where a chatbot is used, disclosure that the user is interacting with AI, clear statement of the system''s capabilities and limitations, synthetic-content labelling, and any disclosure duties under sector rules or the Consumer Protection (Fair Trading) Act for AI-assisted representations. Distinguish binding disclosure (statutory or sectoral) from framework-expected disclosure and state each with its source.'
+- index: 8
+  name: Security & Incident Response
+  format: text
+  prompt: 'Assess the security controls expected for the system tier: prompt-injection and adversarial robustness, model and data access controls, supply-chain security for third-party models, monitoring for anomalous or unsafe behaviour post-deployment (continuous monitoring expectations in the Agentic framework), an incident-response plan with internal escalation thresholds, and any notifiable-data-breach obligations under the PDPA if incidents involve personal data. Note security expectations that are stricter for higher agency levels.'
+- index: 9
+  name: Documentation & Evidence Pack
+  format: text
+  prompt: 'List the documentation the organisation holds or must build to evidence SG-framework alignment, each item tagged [HELD], [TO BUILD], or [N/A]: system description and intended use, model card or equivalent, risk assessment, testing/evaluation records (AI Verify-aligned where applicable), data-governance and provenance records, incident log and post-deployment monitoring evidence, internal AI policy and governance approvals, and any published transparency statements. For an assurance review, identify which items an assessor would treat as core evidence.'
+- index: 10
+  name: Organisational AI Governance Maturity
+  format: text
+  prompt: 'Assess the organisation-level layer the SG frameworks expect: an internal AI governance policy or committee with defined escalation thresholds, staff AI literacy and training, an inventory of AI systems and their owners, procurement standards for third-party AI, and consequence frameworks for staff who act outside policy. State what exists today, what the gap is against framework expectations, and whether the gap affects only reputation or also supervisory relationships (e.g. in regulated sectors).'
+- index: 11
+  name: Sector & Adjacent Regulatory Overlay
+  format: text
+  prompt: 'Identify sector or adjacent regulators whose rules bind this system in Singapore beyond the IMDA frameworks: PDPC on personal data; MAS on AI in financial services (FEAT principles and supervisory expectations); MOH/Health Sciences Authority on AI in healthcare or medical devices; IMDA content/online-safety rules where AI generates or distributes content; and any licensing or liability rule on automated decisions. For each, state the binding instrument and what it requires in addition to framework practice, citing the specific provision or guidance.'
+- index: 12
+  name: Gap Analysis & Remediation Plan
+  format: text
+  prompt: 'Compare current practice against the applicable framework(s) and AI Verify expectations: list gaps with severity, whether each is a legal gap (binding rule) or governance gap (voluntary framework), the owning role, and a proportionate remediation action. Order by regulatory exposure first (PDPA/sector rules), then high-agency risks, then documentation completeness. Identify what must be fixed before any external assurance exercise and what can be deferred with justification.'
+- index: 13
+  name: Assurance & External-Comms Readiness
+  format: text
+  prompt: 'Assess readiness for external assurance or public accountability: whether the organisation could credibly participate in AI Verify Foundation assurance pilots or IMDA sandboxes, respond to a regulator''s governance questionnaire, or publish a transparency statement consistent with the frameworks without overstating alignment. Draft the boundaries of what may be claimed publicly (framework-aligned vs framework-certified — the frameworks do not certify) and flag any marketing language that overstates compliance.'
+- index: 14
+  name: Confidence & Open Questions
+  format: text
+  prompt: 'State confidence (high/medium/low) for the framework fit, agency-level calibration, and each remediation priority. List open questions: facts needed from engineering on model provenance or guardrails, pending framework updates (IMDA frameworks evolve — verify the current version and date before citing), sector-regulator expectations still forming, and any planned external assurance engagement. Where a framework version or SG regulator position is checkable against an official source, verify before answering; otherwise flag explicitly.'

@@ -1,0 +1,72 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Privacy Act Application & Entity Mapping
+  format: text
+  prompt: 'Confirm the Privacy Act applies and map roles: whether the organisation is an ''APP entity'' (agency or organisation with an Australian link under s 5B — incorporated in Australia, carrying on business in Australia, or collecting personal information in Australia), and whether it is an ''organisation'' with an annual-turnover exemption (small business operators under s 6D, with exceptions such as health service providers and those trading in personal information). For each data flow state who is the APP entity accountable under the APPs. If the entity claims a small-business exemption, verify the exception list before relying on it.'
+- index: 1
+  name: Processing Inventory & APP Basis
+  format: text
+  prompt: 'Describe the processing: purpose(s), personal information categories and sensitive information (as defined in s 6 — health, racial/ethnic origin, political opinions, religious beliefs, sexual orientation, etc.), data subjects, volume, collection sources, retention and destruction. For each purpose state the APP basis: collection reasonably necessary (APP 1/3), use and disclosure within the primary purpose or a related secondary purpose the individual would reasonably expect (APP 6, including the permitted situations in APP 6.2 and the ''directly related'' test), and the consent basis where sensitive information is collected (APP 3.3(a)).'
+- index: 2
+  name: PIA Necessity & OAIC Alignment
+  format: tag
+  tags:
+  - PIA warranted — high-risk / novel project per OAIC guidance
+  - PIA exists and follows OAIC PIA process
+  - PIA exists but outdated or incomplete
+  - PIA not warranted — routine, low-risk processing
+  - Sector or contract requires PIA
+  prompt: 'Assess whether a privacy impact assessment is warranted under OAIC''s expectations: the Privacy Act does not mandate a PIA, but OAIC''s ''Guide to undertaking privacy impact assessments'' recommends one for new or changed projects handling personal information, especially involving sensitive information, new technology, data matching, or cross-border disclosure. Tag whether a PIA is warranted, exists, and follows the OAIC PIA process (describe the project → map information flows → identify privacy impacts → evaluate against the APPs → identify mitigations → report and review).'
+- index: 3
+  name: Cross-Border Disclosure Analysis (APP 8)
+  format: text
+  prompt: 'Assess APP 8 compliance for each overseas disclosure: whether the entity has taken ''reasonable steps'' to ensure the overseas recipient does not breach the APPs (APP 8.1), and whether an exception applies — the recipient is subject to the APPs or a law substantially similar to the APPs (APP 8.2(a)), the individual consents after being told the recipient is not required to comply with the APPs (APP 8.2(b)), the disclosure is required or authorised by or under an Australian law or court order (APP 8.2(c)), or a permitted general situation (APP 8.2(d)). Apply OAIC''s APP 8 guidance, which treats contractual protections as a way to satisfy reasonable steps and warns that the disclosure itself (not the recipient) is what the APP entity must justify. For each leg, state the mechanism and how ''reasonable steps'' are evidenced.'
+- index: 4
+  name: Destination-Country & Recipient Assessment
+  format: text
+  prompt: 'Assess each destination and recipient: the recipient''s own privacy law and enforcement (and whether it is ''substantially similar'' to the APPs for the APP 8.2(a) exception — an assessment the entity must make with care), the recipient''s capacity to comply with the APPs, and destination-country conditions including government-access powers. Where the destination is not substantially similar, state the contractual and technical measures needed to evidence reasonable steps, and flag disclosures being made without any documented assessment.'
+- index: 5
+  name: Notification & Transparency (APP 1 & 5)
+  format: text
+  prompt: Assess transparency under APP 1 (open and transparent management — a clearly expressed and current APP Privacy Policy covering APP 1.4 matters) and APP 5 (notification of collection — when personal information is collected, the entity must notify or have notified the individual of the matters in APP 5.2, including the main consequences of non-provision, and whether disclosure to overseas recipients is likely and the countries involved). State whether privacy-policy and collection-notice content matches actual practice, is in plain language, and discloses overseas recipients by country or category where required.
+- index: 6
+  name: Use & Disclosure Limits (APP 6)
+  format: text
+  prompt: 'Assess APP 6 compliance for each use and disclosure: whether use/disclosure is within the primary purpose, within a related secondary purpose the individual would reasonably expect (with sensitivity of the information raising the bar), or within a permitted situation in APP 6.2 (including consent, health and safety situations, or required by law). Analyse the secondary-purpose reasoning explicitly for any data sharing with affiliates, analytics vendors or advertising partners, and identify disclosures that lack a defensible APP 6 basis.'
+- index: 7
+  name: Security & NDB Scheme Readiness
+  format: text
+  prompt: 'Assess APP 11 (security) compliance — reasonable steps to protect personal information from misuse, interference, loss, unauthorised access, modification or disclosure — and readiness for the Notifiable Data Breaches scheme (Part IIIC): the entity''s capability to assess whether an eligible data breach has occurred (unauthorised access/disclosure/loss likely to result in serious harm), and to notify the OAIC and affected individuals under the NDB timeline where required. Assess breach detection for data held by overseas processors and cloud providers.'
+- index: 8
+  name: Access, Correction & Deletion Obligations
+  format: text
+  prompt: 'Assess the individual-rights architecture under the APPs: APP 12 (access — providing access on request unless an exception applies, within a reasonable period, with permitted refusal reasons), APP 13 (correction — reasonable steps to correct and notify recipients of corrections), and APP 11.2 (destruction or de-identification where no longer needed, subject to legal retention). Assess whether requests can be honoured for data held overseas and whether the entity''s deletion capability covers vendor copies. Note the Privacy Act has no general erasure right — assess what applies instead.'
+- index: 9
+  name: Sensitive Information Handling
+  format: text
+  prompt: 'Where sensitive information is processed, apply the higher standard: collection consent requirement (APP 3.3(a)), the direct-related secondary-purpose limits, heightened security expectations, and the NDB serious-harm assessment for sensitive data. Consider sector overlays (health records under state/territory law or the My Health Records framework, credit reporting under Part IIIA) that impose stricter rules than the APPs, and state where the stricter regime governs.'
+- index: 10
+  name: Risk Register & Mitigations
+  format: text
+  prompt: 'Populate the PIA risk register in OAIC terms: risks to individuals from the project and from each overseas disclosure (identity theft, discrimination, embarrassment, financial harm, loss of control), likelihood and consequence ratings, existing controls, and residual risk. For each risk above the acceptable level state the mitigation (technical, organisational, contractual, localisation) and its status. Distinguish APP-compliance risk from reputational and community-expectation risk.'
+- index: 11
+  name: Accountability, Documentation & Governance
+  format: text
+  prompt: 'Audit the accountability layer: the PIA document (complete and current, with sign-off at the right level), the APP Privacy Policy as published and current, APP 5 notices in the collection channels, vendor and transfer documentation, NDB response plan, staff training, and internal complaint-handling under APP 1.6 (a mechanism for individuals to complain and for the entity to respond). Identify which records an OAIC investigation or complaint would draw first and whether each exists.'
+- index: 12
+  name: Privacy-Reform Pipeline Watch
+  format: text
+  prompt: 'Assess how the Privacy Act reform pipeline affects this project: the ongoing reform process (Privacy Act Review and the Government''s response, including proposals on a statutory tort for serious invasions of privacy, direct liability of entities for acts of overseas recipients, automated-decision transparency, and children''s privacy), and the current status of each relevant proposal. State which reform items, if enacted, would change this project''s obligations and the likely transition implications, and note whether any exposure draft or bill is currently before Parliament.'
+- index: 13
+  name: Gap Analysis & Remediation Plan
+  format: text
+  prompt: 'Consolidate gaps into a remediation plan: each gap with severity (critical — APP breach or undocumented cross-border disclosure; material — OAIC investigation likely; minor — hygiene), the APP provision engaged, the owner, the action, and a target date. Sequence APP 8 gaps first, then APP 5/6 notice and use gaps, then documentation. State gaps requiring architectural change and their interim treatment.'
+- index: 14
+  name: Sign-Off, Review Triggers & Residual Risk
+  format: text
+  prompt: 'Record the PIA sign-off (who approved and when — the APP entity''s accountable officer and privacy officer), residual risks accepted, and the review triggers: new or changed processing, new overseas recipient or destination, legislative change (including reform enactment), an OAIC determination or guidance update, a data breach, or the scheduled review date. State the maximum review period.'
+- index: 15
+  name: Confidence & Open Questions
+  format: text
+  prompt: 'State confidence (high/medium/low) for the APP 8 analysis, APP 6 basis, and each critical gap. List open questions: facts needed from the business on actual flows, the current text and status of Privacy Act provisions or reform instruments (verify against the Federal Register of Legislation and OAIC guidance rather than memory), and unsettled OAIC positions. Where a provision or guidance is checkable, verify before answering; otherwise mark explicitly.'

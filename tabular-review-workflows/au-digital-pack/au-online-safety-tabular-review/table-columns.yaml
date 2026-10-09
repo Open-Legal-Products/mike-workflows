@@ -1,0 +1,69 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Service Class & Code Coverage (AU)
+  format: text
+  prompt: 'Identify the organisation''s service class under the Online Safety Act 2021 (Cth) and the eSafety code framework: social media service (core features or messaging features), relevant electronic service, designated internet service, app distribution service, hosting service, internet carriage service, search engine service, or equipment. State which registered industry code(s) or standard(s) cover that class, which schedule of the relevant code applies, and whether the service is in scope of the current registered codes (check eSafety''s register — the age-restricted-material code set includes schedules registered 27 June 2025 and 9 September 2025 with effect dates 27 December 2025 and 9 March 2026 respectively).'
+- index: 1
+  name: Material Class & Applicable Obligation Set
+  format: tag
+  tags:
+  - Class 1A/1B — Unlawful Material Code or Standard
+  - Class 1C/2 — Age-Restricted Material Code
+  - Both unlawful-material and age-restricted-material sets
+  - eSafety standard applies (no code registered for the class)
+  - Basic online safety expectations apply
+  - Service not covered by a registered code (state why)
+  prompt: 'Which material class and obligation set applies to this service? Determine coverage against the statutory material classes — class 1A (prohibited content: child sexual abuse material, pro-terror content, crime/ violence material), class 1B (other unlawful material), class 1C (age-restricted material: sexual content etc.), class 2 (material that is or could be refused classification) — and which code or standard governs each class for this service type. Tag the sets that apply; a service may be covered by multiple codes for different material classes.'
+- index: 2
+  name: Code Provisions & Obligation Inventory
+  format: text
+  prompt: Extract each obligation from the applicable code schedule with pinpoint clause references (e.g. the eSafety codes' parts on complaints handling, reporting material to eSafety, proactive detection and takedown, age assurance, record-keeping, and annual transparency reporting), stating who is bound within the service class and the trigger for each obligation. Work from the actual registered code text (check eSafety's register for the current version — several codes were consolidated in the 9 September 2025 head terms) rather than from general summaries.
+- index: 3
+  name: Complaints-Handling Obligations
+  format: text
+  prompt: 'Assess the complaints-handling obligations the applicable code imposes: the requirement to have a complaints system for the relevant material class, how complaints are made (accessibility, no unreasonable barriers), response and resolution timelines, the person responsible for complaints, what records must be kept, and how complainants are informed of outcomes (including the eSafety complaints route if the service does not resolve the complaint). Walk the current workflow end-to-end and identify gaps against the code''s clause-level requirements.'
+- index: 4
+  name: Reporting & Takedown Duties (Unlawful Material)
+  format: text
+  prompt: 'For unlawful-material (class 1A/1B) obligations, assess: detection and removal of prohibited content, reporting duties to eSafety and to the Australian Federal Police for child sexual abuse material, the applicable timelines (including expedited handling of class 1A material), preservation of evidence considerations, and the interaction with eSafety''s content-scheme powers (removal notices, blocking notices). State the operational workflow for each duty and the gaps against the code or standard.'
+- index: 5
+  name: Age-Assurance & Restricted-Material Duties
+  format: text
+  prompt: 'For age-restricted-material (class 1C/2) obligations, assess what the code requires of this service class: age-assurance or age-gating measures to prevent minors'' access to age-restricted material, the code''s specified approach to age assurance and its testing expectations, restrictions on access by Australians, and any obligations specific to the service type (e.g. app stores'' obligations around age ratings, search services'' safe-search expectations). State what the code text actually requires (the registered codes'' age-assurance provisions differ by service class) versus what the organisation currently implements.'
+- index: 6
+  name: Proactive Measures & Moderation Systems
+  format: text
+  prompt: 'Assess the proactive-measure obligations in the applicable code: what the code requires in detection technology, content moderation systems, and risk-minimisation measures for the material class in scope, and whether those measures must be proportionate to the service''s size and function. Map the organisation''s current moderation stack against each requirement and identify the delta, including any code requirement to review and update measures periodically.'
+- index: 7
+  name: Transparency & Reporting Obligations
+  format: text
+  prompt: 'Assess the transparency-reporting obligations in the applicable code: what the code requires the service to publish (safety measures, complaint metrics, enforcement outcomes) and to report to eSafety, the reporting period and deadline, and any code requirement to publish the report on the service''s website. State whether the organisation currently produces the required report, whether the data pipeline supports the metrics, and what must change to comply — and note eSafety''s parallel power to require information under the Act.'
+- index: 8
+  name: Basic Online Safety Expectations
+  format: text
+  prompt: 'Assess the organisation''s alignment with the basic online safety expectations (BOSE) under the Online Safety Act: the expectations around minimising unlawful material and age-restricted material, protecting children, and providing clear complaint pathways — noting eSafety can take BOSE into account when deciding whether to make a standard or issue a notice where industry codes are inadequate. State where the organisation''s practices meet or fall short of the expectations and the risk that shortfall creates.'
+- index: 9
+  name: eSafety Powers & Direction Exposure
+  format: text
+  prompt: 'Assess exposure to eSafety''s statutory powers beyond the codes: removal notices for class 1/2 material, blocking notices to internet service providers, end-user notices and the civil-penalty exposure for non-compliance, the power to require information and reports, and the power to make an industry standard where a code is not registered or is inadequate (with the notice and consultation process that precedes it). State which powers could realistically be exercised against this service and the operational posture if one were issued.'
+- index: 10
+  name: Cross-Regime Interaction (AU)
+  format: text
+  prompt: 'Map interactions with adjacent Australian regimes covering the same content and conduct: the Criminal Code and AFP referral expectations for child sexual abuse material, the classification regime (Classification of Publications Act / National Classification Scheme for content that may be refused classification), state/territory laws on certain content, the Privacy Act for personal information in complaints and moderation, and the DSA-style obligations if the service also operates in the EU (noting divergence). State the posture that satisfies each regime and flag where one regime''s response conflicts with another''s requirements.'
+- index: 11
+  name: Enforcement & Penalty Exposure (AU)
+  format: text
+  prompt: 'State the enforcement exposure under the Online Safety Act and the codes with references and figures: eSafety''s enforcement toolkit (investigations, infringement notices, civil penalties in penalty units — state the unit value at the relevant date), the penalty exposure for non-compliance with a code or standard and for failing to comply with notices, and any criminal exposure. Assess the organisation''s practical exposure if it did not comply with the applicable code obligations, and note eSafety''s published enforcement approach.'
+- index: 12
+  name: Gap Analysis & Remediation Plan
+  format: text
+  prompt: 'Consolidate gaps into a remediation plan: each gap with severity (critical — code non-compliance or direction exposure; material — eSafety investigation likely; minor — process polish), the code clause or statutory power engaged, the owning team, the action, and a target date. Prioritise unlawful-material handling and age-assurance gaps over transparency-report polish. State gaps requiring product or architecture decisions, and flag whether any gap invites eSafety to consider a standard for the class.'
+- index: 13
+  name: Executive Summary & Priorities
+  format: text
+  prompt: 'Write a plain-English executive summary in no more than 250 words: WHAT obligations bind the service in Australia, under WHICH code or standard, WHAT operational changes are required (complaints, takedown, age assurance, transparency), the three highest-priority actions with dates, and the single biggest risk of inaction. Suitable for a non-lawyer executive briefing on Australian online-safety compliance.'
+- index: 14
+  name: Confidence & Open Questions
+  format: text
+  prompt: 'State confidence (high/medium/low) for the service-class analysis, the code-obligation inventory, and each priority action. List open questions requiring verification: which registered code version covers the service (check eSafety''s register of codes and standards — codes were consolidated and registered on different dates), the current code text including the 9 September 2025 head terms, and the current provisions of the Online Safety Act (Federal Register of Legislation). Where the code text, registration status, or statutory provision is checkable against an official source, verify before answering; otherwise mark ''verify current status'' explicitly.'

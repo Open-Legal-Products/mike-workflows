@@ -1,0 +1,77 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Applicable Instrument Mix
+  format: tag
+  tags:
+  - 'Voluntary: Guidance for AI Adoption (6 essential practices)'
+  - 'Voluntary: Voluntary AI Safety Standard (legacy guardrails)'
+  - 'Binding: Privacy Act 1988 (Cth) / APPs'
+  - 'Binding: ACL — misleading or deceptive conduct (s 18)'
+  - 'Binding: Anti-discrimination law (Cth/state)'
+  - 'Binding: eSafety online-safety obligations'
+  - 'Binding: Sector regulator (ASIC/APRA/TGA/other)'
+  prompt: 'Which Australian instruments are engaged and at what force? Identify the voluntary layer engaged (Guidance for AI Adoption / superseded Voluntary AI Safety Standard / AI Ethics Principles) and each binding layer that independently governs the use: Privacy Act 1988 (Cth), ACL / Competition and Consumer Act 2010 (Cth), anti-discrimination statutes (Cth and state), eSafety laws, sector regulators (ASIC/APRA for finance, TGA for medical). Tag the layers that apply to this system rather than assuming the voluntary standard is the whole story.'
+- index: 1
+  name: System Description & Australian Nexus
+  format: text
+  prompt: 'Describe the AI system: purpose, model type, level of autonomy and human oversight in place, training/deployment approach, and the Australian nexus — offered to Australian users, uses Australians'' personal information, operated by an Australian entity, or otherwise connected to Australia. State whether the organisation is a provider, deployer, or both under the Australian guidance''s framing, and identify which existing legal definitions the system engages (e.g. APP entity, ''personal information'').'
+- index: 2
+  name: Accountability & Governance Practice
+  format: tag
+  tags:
+  - Named accountable owner + documented governance framework
+  - Accountable owner exists, framework partial or informal
+  - Governance diffuse — no single accountable owner
+  - Third-party model provider governs; deployer has no own framework
+  - Under development — governance being stood up
+  - None evident from materials
+  prompt: Against Guidance for AI Adoption practice 1 ('decide who is accountable') and the record-keeping expectations, what is the organisation's governance posture for this system? Identify the named accountable role, the AI governance framework's existence and coverage, and where responsibility sits across the AI value chain (developer, deployer, third-party model provider). Tag the posture that best matches evidence, not intention.
+- index: 3
+  name: Essential-Practices Coverage Map
+  format: text
+  prompt: 'Map the system against each of the 6 essential practices in the Guidance for AI Adoption: (1) decide who is accountable; (2) manage risk and benefit; (3) maintain meaningful human oversight; (4) ensure data is fit for purpose and protected; (5) be transparent with users; (6) test, monitor and document. For each practice, state what the guidance expects for a system like this, what the organisation actually does (with evidence), and the gap. Keep the six-practice frame — do not silently revert to the 10 superseded Voluntary AI Safety Standard guardrails without noting the change.'
+- index: 4
+  name: Risk & Benefit Management
+  format: text
+  prompt: 'Describe the risk-management posture the guidance expects and what exists: identification of benefits and risks in context of use, risk appetite owned at the right level, risk controls proportionate to impact (on individuals, communities, environment), and escalation triggers for high-impact failures. Assess whether the organisation''s process would satisfy the guidance''s expectation of documented risk decisions, and identify risks unique to the system''s function (e.g. inaccurate outputs, bias against protected groups, over-reliance, misuse).'
+- index: 5
+  name: Meaningful Human Oversight
+  format: text
+  prompt: 'Assess human-oversight design against the guidance''s practice 3: where human review sits in the workflow, whether oversight is meaningful in practice (informed, empowered to override, not rubber-stamping), the competence and training of human reviewers, and fallback procedures when automation fails or operates outside intended scope. State specifically for consequential or high-autonomy systems how a failure would be caught by a human before irreversible harm, and whether the design evidence supports that claim.'
+- index: 6
+  name: Data Governance & Privacy Act Compliance
+  format: text
+  prompt: 'Analyse data practices under the Privacy Act 1988 (Cth) and APPs plus the guidance''s data practice: whether ''personal information'' is collected, used or disclosed in training/inference; APP 1–5 compliance (management, transparency via APP 1.4–1.6 privacy policies, notification of collection); APP 6 use/disclosure limits and any exceptions (e.g. APP 6.2 permitted situations); APP 11 security obligations; and the OAIC''s expectations on automated decision-making — including whether meaningful transparency requires explaining that automated decision-making occurs and the logic involved. Note where guidance expectations (data quality, minimisation, provenance) go beyond the APPs and are governance risk rather than breach exposure.'
+- index: 7
+  name: Consumer Law & Misleading Conduct Exposure
+  format: text
+  prompt: 'Assess exposure under the ACL: whether AI-generated outputs or AI-assisted representations could mislead consumers contrary to s 18 (misleading or deceptive conduct) or ss 29/33 (false representations), whether output accuracy is warranted anywhere in user-facing materials, and the liability posture of the organisation for third-party-content outputs (e.g. search/chat synthesis). Identify design mitigations (disclaimers, accuracy limits, human review of high-stakes outputs) and state the residual legal exposure in plain terms.'
+- index: 8
+  name: Anti-Discrimination & Fairness Exposure
+  format: text
+  prompt: 'Assess bias and discrimination risk under Australian anti-discrimination law (Racial Discrimination Act 1975 (Cth), Sex Discrimination Act 1984 (Cth), Disability Discrimination Act 1992 (Cth), Age Discrimination Act 2004 (Cth), and state equivalents): whether the system makes or influences decisions in covered areas (employment, goods and services, education), whether indirect-discrimination exposure arises from model behaviour, and what testing and mitigation evidence would support a defence posture. Note the current absence of an Australian-specific AI liability rule and the role of existing laws as the operative constraint.'
+- index: 9
+  name: Transparency & User-Facing Disclosures
+  format: text
+  prompt: 'Set out transparency expectations and duties for Australian users: the guidance''s practice 5 (be transparent with users about when and how AI is used), disclosure of AI interaction where reasonably expected, meaningful information for users affected by automated decisions under APP 1.4 and OAIC guidance, and any sector disclosure duties. Assess each disclosure''s sufficiency — whether a statement exists, whether it is findable and in plain language, and whether it would withstand an OAIC or ACL challenge.'
+- index: 10
+  name: Testing, Monitoring & Documentation Evidence
+  format: text
+  prompt: 'Audit the testing and evidence posture the guidance''s practice 6 expects: pre-deployment testing scope and records, ongoing monitoring and evaluation after deployment, incident and performance logs, and documentation of governance decisions. State which artefacts exist, which are missing, and which an Australian regulator or court would most likely subpoena or request in an investigation (records of risk decisions, testing, incidents, human-oversight design).'
+- index: 11
+  name: Security & Critical-Technology Considerations
+  format: text
+  prompt: 'Assess security expectations: alignment with the guidance''s security elements and ASD technical guidance for AI adoption, protection of training data and model weights, robustness against adversarial attack and prompt injection, and monitoring. Where relevant, note Australia''s critical-technology export and foreign-investment settings (DEFENCE TRADE CONTROLS ACT 2012, FIRB regime, critical infrastructure under the SOCI Act) if the AI involves sensitive technology or data; otherwise state not-engaged.'
+- index: 12
+  name: Gap Analysis & Remediation Plan
+  format: text
+  prompt: 'Compare current practice against both the voluntary guidance and binding Australian law: list each gap with severity, tagging whether it is a legal-compliance gap (Privacy Act/ACL/discrimination/eSafety/sector) or a voluntary-practice gap, the owning role, and a proportionate remediation action with effort estimate. Sequence by hard legal exposure first, then guidance-alignment, and state what cannot be remediated before go-live with the residual risk of proceeding.'
+- index: 13
+  name: Regulatory Trajectory Watch
+  format: text
+  prompt: 'Assess the trajectory of Australian AI regulation relevant to this system: the Government''s stated preference for voluntary guidance and targeted reforms over omnibus AI law, live reform items (Privacy Act reforms including automated-decision protections, AI-specific proposals, sector regulator guidance), and any consultation papers or committee reports that would convert current soft law into binding duties. State which pipeline item would most change this system''s compliance burden and the likely timing.'
+- index: 14
+  name: Confidence & Open Questions
+  format: text
+  prompt: 'State confidence (high/medium/low) for the instrument-mix finding, essential-practices coverage, and each legal exposure. List open questions: facts needed from engineering, OAIC or regulator positions still forming, and version drift in the guidance documents (the 21 October 2025 Guidance for AI Adoption superseded earlier material — verify the current document and date before citing). Where a statute or guidance version is checkable against an official source (Federal Register of Legislation, OAIC, industry.gov.au), verify before answering; otherwise flag explicitly.'

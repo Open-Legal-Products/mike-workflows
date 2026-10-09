@@ -1,0 +1,87 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Consultation Identification
+  format: text
+  prompt: 'Identify the consultation precisely: issuing regulator or ministry (exact name — e.g. IMDA, PDPC, AGC, MCI, MOM, MAS), paper title exactly as published, publication date, consultation reference number if any, response deadline date and submission channel (online form, email, REACH portal), and the instrument the consultation feeds (new Act, subsidiary legislation, code of practice, advisory guideline, framework). Verify the deadline and channel against the official page; if the response deadline has passed or is unknown, say so and ask whether to proceed on a best-efforts basis.'
+- index: 1
+  name: Issuing-Body Verification
+  format: tag
+  tags:
+  - IMDA consultation
+  - PDPC consultation
+  - AGC / Ministry legislative consultation
+  - MAS / other sector regulator consultation
+  - Issuing body unclear or mismatched — verify before drafting
+  - Statutory consultation vs policy consultation (state which)
+  prompt: Confirm who actually issued the consultation and the body's role, and flag any mismatch with the regulator assumed in the task instructions. State whether the paper is a statutory consultation (required before making subsidiary legislation or a code) or a policy consultation, and whether responses are published or confidential by default under the regulator's practice.
+- index: 2
+  name: Consultation Type & Legal Consequence
+  format: tag
+  tags:
+  - Legislation (Bill / subsidiary legislation) consultation
+  - Code of practice / standard consultation
+  - Advisory guideline / framework consultation
+  - Policy position paper (non-binding outcome)
+  - Outcome will bind designated entities
+  - Outcome is guidance / best practice only
+  prompt: What kind of consultation is this and what hangs on the response? Tag the instrument trajectory and state what the regulator will do with the feedback (finalise a code or guideline, revise a Bill, publish a response summary). Distinguish consultations where the outcome binds the organisation (code under a statute, subsidiary legislation) from those that are guidance-shaping, and note any industry-engagement events (workshops, closed-door sessions) alongside the written consultation.
+- index: 3
+  name: Question Reference Extraction
+  format: text
+  prompt: Extract every question, numbered item, or 'request for comment' point in the consultation paper, preserving the regulator's exact numbering and quoting the question text. For each, state its topic, the section of the paper it responds to, and whether it is a directed question (seeking a yes/no or specific position) or an open invitation for views. Do not merge or renumber the regulator's questions; where the paper contains no numbered questions, list the issues by section and paragraph reference.
+- index: 4
+  name: Stakeholder Position & Interest
+  format: text
+  prompt: 'For each question, state the organisation''s interest: which products, users, or business lines the issue affects, whether the organisation supports, opposes, or seeks modification of the proposal, and the strength of the position (core red-line vs flexible). Separate commercial interest from legal-compliance interest, and flag conflicts where a position that helps one business line harms another or the organisation''s stated values.'
+- index: 5
+  name: Issue & Option Analysis
+  format: text
+  prompt: 'For each position, set out the reasoned analysis: the problem the regulator is trying to solve, the options presented or available (regulatory, co-regulatory, self-regulatory, no-change), the trade-offs of each option (cost, effectiveness, enforceability, impact on innovation and users), and the organisation''s recommended option with justification grounded in the paper''s own framing and any evidence the organisation can supply. Address counterarguments a regulator would raise, including the ''if we exempt you, who else?'' consistency problem.'
+- index: 6
+  name: Legal & Regulatory Authority Map
+  format: text
+  prompt: 'For each substantive position, cite the legal and regulatory authorities that support or constrain it: existing Singapore statutes and subsidiary legislation (with section references), the regulator''s published guidelines and codes, prior consultation outcomes and response summaries, and where relevant comparable approaches in other jurisdictions (clearly labelled as comparative, not binding). Verify each authority is current (check Singapore Statutes Online for legislation and the regulator''s site for guidelines); mark any authority that cannot be verified as ''verify before finalising''.'
+- index: 7
+  name: Evidence & Data Support
+  format: text
+  prompt: 'Identify the evidence the organisation can marshal for each position: user data, safety or compliance metrics, technical feasibility analysis, cost estimates, incident data, and any prior engagement records with the regulator. For each piece of evidence, state its source, whether it is publishable in a public consultation response or should be marked confidential (and whether the regulator accepts confidential annexes), and whether the evidence is strong enough to carry the position or is merely illustrative.'
+- index: 8
+  name: Response Structure & Drafting Plan
+  format: text
+  prompt: 'Plan the response document structure following the regulator''s expected conventions: cover note (organisation, contact, confidentiality election), executive summary of positions, question-by-question responses preserving numbering, confidential annexes where needed, and any requested forms or templates. State the drafting conventions (concise paragraphs per question, position first then reasoning, plain English), the internal approval chain (subject-matter experts, legal, policy, sign-off level), and the production timeline working back from the deadline.'
+- index: 9
+  name: Draft Response Content
+  format: text
+  prompt: 'Draft the actual response content per question in the voice of the organisation''s regulatory counsel: clear position statement, concise reasoning with cited authority, requested modification in concrete drafting terms where the organisation proposes a change (suggested wording or principle), and acknowledgment of counterarguments. Where the organisation has no position or insufficient information, state that honestly with the reason rather than manufacturing a position. Flag every statement that asserts a fact requiring verification before submission.'
+- index: 10
+  name: Tone & Relationship Considerations
+  format: tag
+  tags:
+  - Constructive engagement — ongoing regulator relationship
+  - First-time submission
+  - Contested / high-stakes context
+  - Supportive submission (organisation agrees with proposals)
+  - Critical submission (organisation opposes or seeks major change)
+  - Balanced — support in part, seek modification in part
+  prompt: 'Assess the regulatory-relationship context: is this a constructive engagement with a regulator the organisation deals with regularly (IMDA/PDPC relationship), a first-time submission, or a response in a contested or enforcement-adjacent context? Tag the posture the draft should take, and state any language to avoid (overstatement, threats, unsubstantiated ''chilling innovation'' claims) and any signals to include (support for shared goals, offers to participate in pilots or working groups, implementation-readiness statements).'
+- index: 11
+  name: Consistency & Cross-Check
+  format: text
+  prompt: 'Cross-check the draft for internal and external consistency: positions consistent across questions (no accidental contradiction between the response to Q5 and Q12), consistent with the organisation''s prior public submissions and public statements, consistent with its other regulatory filings, and consistent across the regulators'' consultations when the same issue is consulted on by more than one body. Flag any inconsistency and resolve it before finalisation.'
+- index: 12
+  name: Risk & Sensitivity Review
+  format: text
+  prompt: 'Review the draft for risk: commercially sensitive statements that should be in a confidential annex, legal admissions that could be used in later proceedings or investigations, positions that contradict the organisation''s obligations under existing law, and reputational risk from the public nature of the submission (Singapore regulators generally publish consultation papers and may publish responses or summaries — check the paper''s confidentiality terms). Identify every sentence that should be reviewed by a second lawyer before submission.'
+- index: 13
+  name: Submission Mechanics & Record
+  format: text
+  prompt: 'Set out the submission mechanics: final file format and naming, the submission channel and any online form fields, confidentiality marking of the cover and annexes, the internal approval evidence (who cleared the final version and when), and the internal record to keep (final submitted version, sign-off, date and channel of submission, and confirmation of receipt where available). State the person responsible for submitting and the backstop time by which submission must occur to beat the deadline.'
+- index: 14
+  name: Post-Submission Monitoring
+  format: text
+  prompt: 'Plan post-submission follow-through: tracking the regulator''s published response summary or decisions, mapping final outcomes back to the organisation''s positions (accepted / partially accepted / rejected), updating the internal obligation map if the final instrument binds the organisation, and scheduling any follow-up engagement (industry sessions, clarification requests, implementation working groups). State who owns each follow-up item.'
+- index: 15
+  name: Confidence & Open Questions
+  format: text
+  prompt: 'State confidence (high/medium/low) for the question extraction, each position''s authority, and the drafting. List open questions requiring verification: the consultation''s actual deadline and channel, current law the response relies on, and any factual assertion needing the business''s confirmation. Where a statute, guideline, or consultation status is checkable against an official Singapore source, verify before answering; otherwise flag explicitly. Note any mismatch between the regulator named in the task and the actual issuing body.'

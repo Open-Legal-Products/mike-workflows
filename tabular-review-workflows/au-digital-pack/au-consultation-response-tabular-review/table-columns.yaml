@@ -1,0 +1,88 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Consultation Identification
+  format: text
+  prompt: 'Identify the consultation precisely: issuing body (exact name — eSafety Commissioner, ACMA, AGD, OAIC, Department of Industry/industry.gov.au, another department or agency), paper title exactly as published, publication date, reference number if any, response deadline and submission channel (online portal, email, submissions register), and the instrument or policy the consultation feeds (Bill, legislative instrument, registered industry code or standard, guidance, framework). Verify the deadline and channel against the official page; if the deadline has passed or is unknown, say so and ask whether to proceed on a best-efforts basis.'
+- index: 1
+  name: Issuing-Body Verification
+  format: tag
+  tags:
+  - eSafety Commissioner consultation
+  - ACMA consultation
+  - AGD / Commonwealth department consultation
+  - OAIC consultation
+  - industry.gov.au / Department of Industry consultation
+  - Issuing body unclear or mismatched — verify before drafting
+  - Statutory consultation vs policy consultation (state which)
+  prompt: Confirm who actually issued the consultation and flag any mismatch with the regulator assumed in the task (for example, a task saying 'ACMA' for an online-safety code consultation is likely actually eSafety — name the correct body). State whether the paper is a statutory consultation (e.g. eSafety's statutory process for registering industry codes and standards under the Online Safety Act 2021 (Cth)) or a policy consultation, and whether submissions are published on the agency's register or treated as confidential by default.
+- index: 2
+  name: Consultation Type & Legal Consequence
+  format: tag
+  tags:
+  - Industry code registration / variation consultation
+  - Industry standard consultation
+  - Legislation reform consultation (Bill / exposure draft)
+  - Guidance / framework consultation
+  - Outcome binds covered industry participants
+  - Outcome is guidance / policy direction only
+  prompt: What kind of consultation is this and what hangs on the response? Tag the instrument trajectory (e.g. proposed industry code submitted for eSafety registration, draft standard where no code is registered, legislative reform) and state what the regulator or government will do with feedback (register or vary a code, make a standard, revise a Bill, publish a summary of submissions). Distinguish consultations whose outcome binds the organisation (registered codes/standards) from guidance-shaping ones, and note parallel engagement (eSafety roundtables, code-development working groups, Senate committee inquiries) alongside the written consultation.
+- index: 3
+  name: Question Reference Extraction
+  format: text
+  prompt: Extract every question, numbered item, or request-for-comment point in the consultation paper, preserving the issuer's exact numbering and quoting the text. For each, state its topic, the section or schedule it responds to (e.g. a specific clause of a draft code schedule), and whether it is a directed question or an open invitation for views. Do not merge or renumber the issuer's questions; where the paper has no numbered questions, list issues by section and paragraph reference.
+- index: 4
+  name: Stakeholder Position & Interest
+  format: text
+  prompt: 'For each question, state the organisation''s interest: which products, users, or operations the issue affects (in Australian regulatory terms — e.g. service class under the Online Safety Act, carrier obligations, APP entity), whether the organisation supports, opposes, or seeks modification, and the strength of the position (core red-line vs flexible). Separate commercial from compliance interests and flag internal conflicts, including positions inconsistent with Australian user-safety expectations or prior public commitments.'
+- index: 5
+  name: Issue & Option Analysis
+  format: text
+  prompt: 'For each position, set out the reasoned analysis: the problem the consultation seeks to address, the options presented (regulatory, co-regulatory code, standard, no change), the trade-offs of each (cost, effectiveness, enforceability, impact on users and industry), and the organisation''s recommended option with justification grounded in the paper''s own framing and the organisation''s evidence. Address counterarguments a regulator would raise, including consistency across the industry and the risk that a weak code invites a regulator-made standard.'
+- index: 6
+  name: Legal & Regulatory Authority Map
+  format: text
+  prompt: 'For each substantive position, cite the Australian authorities supporting or constraining it: Commonwealth Acts and legislative instruments (with section references, verified against the Federal Register of Legislation), the Online Safety Act''s objects and the basic online safety expectations where relevant, eSafety''s published position on codes and standards, ACMA rules, OAIC guidance, and comparative approaches in other jurisdictions (clearly labelled as comparative). Mark any authority that cannot be verified as ''verify before finalising''.'
+- index: 7
+  name: Evidence & Data Support
+  format: text
+  prompt: 'Identify the evidence the organisation can marshal for each position: Australian user and safety metrics, complaint-handling data, technical feasibility and cost analysis, incident data, and records of prior engagement with the regulator (including participation in earlier code development rounds). For each piece, state the source, whether it can be published in the submission or should be a confidential annex (and the agency''s confidentiality practice), and whether it is strong enough to carry the position.'
+- index: 8
+  name: Response Structure & Drafting Plan
+  format: text
+  prompt: 'Plan the response document: cover note (organisation, contact, confidentiality election, public-submission consent), executive summary of positions, question-by-question or clause-by-clause responses preserving the issuer''s numbering, confidential annexes, and any statutory forms or templates the process requires. State the drafting conventions (position first, concise reasoning, plain English, concrete drafting suggestions where the organisation proposes a change), the internal approval chain, and the production timeline working back from the deadline.'
+- index: 9
+  name: Draft Response Content
+  format: text
+  prompt: 'Draft the actual response content in the voice of the organisation''s regulatory counsel: clear position per question, concise reasoning with cited authority, suggested drafting changes expressed concretely (proposed clause wording or principle), and acknowledgment of counterarguments. Where the organisation has no position or insufficient information, say so honestly with the reason. Flag every factual assertion requiring verification before submission, and keep language calibrated for a regulator that can register a code the organisation must live under.'
+- index: 10
+  name: Tone & Relationship Considerations
+  format: tag
+  tags:
+  - Constructive engagement — ongoing regulator relationship
+  - First-time submission
+  - Contested / standard-making risk context
+  - Supportive submission
+  - Critical submission (opposes or seeks major change)
+  - Balanced — support in part, seek modification in part
+  prompt: 'Assess the regulatory-relationship context: ongoing engagement with eSafety/ACMA/OAIC (including existing code-compliance relationship), first-time submission, or a contested context (e.g. responding where a standard may be made because industry did not deliver a workable code). Tag the posture the draft should take and state language to avoid (unsubstantiated claims, refusal-to-engage signals) and signals to include (support for regulatory objects like child safety, offers to participate in implementation or assurance work, evidence of good-faith effort).'
+- index: 11
+  name: Consistency & Cross-Check
+  format: text
+  prompt: 'Cross-check the draft for consistency: positions consistent across questions, consistent with the organisation''s prior submissions (including earlier code-development rounds for the same code), consistent with its public statements and regulatory filings in Australia, and aligned across agencies where the same issue is consulted on by multiple bodies (e.g. eSafety code consultation and a related ACMA or department consultation). Flag and resolve every inconsistency before finalisation.'
+- index: 12
+  name: Risk & Sensitivity Review
+  format: text
+  prompt: 'Review the draft for risk: commercially sensitive content for confidential annexes, legal admissions that could be used in later enforcement or litigation (e.g. statements about the organisation''s current compliance gaps), positions that contradict existing Australian legal obligations, and reputational risk from the public submissions register. Identify sentences requiring a second-lawyer review and any statement that could be read as an admission of non-compliance with a registered code or the basic online safety expectations.'
+- index: 13
+  name: Submission Mechanics & Record
+  format: text
+  prompt: 'Set out the submission mechanics: final file format and naming, the submission channel (agency portal, email, submissions register), confidentiality and public-disclosure election on the cover, internal approval evidence, and the record to keep (final version, sign-off, date and channel, confirmation of receipt). State who submits and the backstop time to beat the deadline. Note whether the agency publishes submissions and whether the organisation consents to publication.'
+- index: 14
+  name: Post-Submission Monitoring
+  format: text
+  prompt: 'Plan post-submission follow-through: tracking the regulator''s decision (e.g. eSafety registration of a code with amendments, the making of a standard, the government''s response to a reform consultation), mapping outcomes to the organisation''s positions, updating internal obligation maps if the final instrument binds the organisation, and scheduling follow-up engagement. State who owns each follow-up item and the trigger for re-engaging with the regulator.'
+- index: 15
+  name: Confidence & Open Questions
+  format: text
+  prompt: 'State confidence (high/medium/low) for the question extraction, each position''s authority, and the drafting. List open questions requiring verification: the consultation''s actual deadline and channel, the current text of the Act or instrument the response relies on, and factual assertions needing business confirmation. Where a statute, code, or consultation status is checkable against an official Australian source (Federal Register of Legislation, eSafety register, agency site), verify before answering; otherwise flag explicitly. Note any mismatch between the regulator named in the task and the actual issuing body.'

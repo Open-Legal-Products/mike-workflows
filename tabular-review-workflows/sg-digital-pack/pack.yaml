@@ -1,0 +1,17 @@
+$schema: ../../workflow-schema/pack.schema.yaml
+id: sg-digital
+title: Singapore Digital Regulation Pack
+description: 'Tabular review workflows for Singapore digital-regulation practice: DPIA and cross-border transfer assessment under the Personal Data Protection Act 2012 (PDPA) with PDPC guidance, privacy notice and consent flow review, AI governance readiness anchored on IMDA''s Model AI Governance Frameworks and AI Verify, regulator consultation response drafting (IMDA, PDPC, AGC, ministries), regulatory horizon scanning and obligation mapping over SSO and Gazette instruments, and online-safety obligation mapping under the Broadcasting Act online-safety part introduced by the Online Safety (Miscellaneous Amendments) Act 2022. Original work by the contributor; every workflow produces drafts for human review.'
+publisher:
+  name: Si Han Xu
+  url: https://github.com/voidstar-x
+license: MIT
+version: 1.0.0
+jurisdiction: Singapore
+workflows:
+- sg-dpia-cross-border-tabular-review
+- sg-privacy-notice-consent-tabular-review
+- sg-ai-governance-tabular-review
+- sg-consultation-response-tabular-review
+- sg-horizon-scan-tabular-review
+- sg-online-safety-tabular-review

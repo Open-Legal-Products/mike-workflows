@@ -1,0 +1,97 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Instrument Identification (SG)
+  format: text
+  prompt: 'Identify the Singapore instrument precisely: short title exactly as printed, Act number and year of assent (e.g. ''Online Safety (Miscellaneous Amendments) Act 2022 (No. 38 of 2022)'') or subsidiary-legislation citation, instrument type (Act / subsidiary legislation / code of practice / standard / direction / advisory guideline / consultation paper), the issuing body, and the official consolidated source (Singapore Statutes Online for Acts and subsidiary legislation; IMDA, PDPC or the issuing regulator''s site for codes and guidelines). If the instrument is not identifiable as Singapore law, STOP and ask rather than assuming.'
+- index: 1
+  name: Issuing & Administering Body (SG)
+  format: tag
+  tags:
+  - Parliament (Act)
+  - Government ministry (specify)
+  - IMDA
+  - PDPC / PDPA administration
+  - MAS (monetary/financial)
+  - Other statutory board (specify)
+  - Multiple bodies (split by function)
+  prompt: Name the Singapore body that issued and will administer or enforce the instrument, using its exact styling, and tag the body type. Note where legislation is administered by one body but enforced through another (e.g. statutes administered by a ministry with operational enforcement by IMDA/PDPC), and where a code is issued by the regulator under a statutory power.
+- index: 2
+  name: Legal Force & Regulated Class (SG)
+  format: tag
+  tags:
+  - Act — binding (in force / assented)
+  - Subsidiary legislation — binding
+  - Code of practice — binding on designated entities
+  - Direction / order — binds on issue
+  - Advisory guideline / framework — non-binding
+  - Consultation paper / draft — not yet law
+  - In force / pending commencement / proposed (state which)
+  prompt: 'What legal force does the Singapore instrument carry and who does it bind? Distinguish: Act binding all persons; subsidiary legislation binding all persons; code of practice binding designated entities (e.g. designated online communication services under the Broadcasting Act, or designated app distribution services); regulator direction binding on issue; advisory guidelines or frameworks that are non-binding; and consultation papers. State whether in force now, commencing later, or proposed.'
+- index: 3
+  name: Status Tracker — SG Lifecycle
+  format: tag
+  tags:
+  - Consultation open or published
+  - Bill introduced / before Parliament
+  - Assented — commencement pending
+  - In force — full
+  - In force — phased (note which provisions live)
+  - Compliance deadline passed
+  - Superseded / amended (note details)
+  prompt: 'Track the instrument''s status in the Singapore lifecycle accurately, verifying against official sources (Singapore Statutes Online for commencement; IMDA/PDPC/REACH pages for consultations and codes): is it a consultation paper, a Bill before Parliament, assented but not commenced, commenced in full or in phases, or already in application? If the status or commencement is not ascertainable, flag for verification instead of guessing.'
+- index: 4
+  name: Key Dates & Commencement (SG)
+  format: text
+  prompt: 'State every operative date with its source: publication/consultation dates, date of assent, commencement date(s) (Singapore Acts typically provide for commencement by the Minister''s notification in the Gazette — state the notification date if published, otherwise say commencement is pending notification), phasing by obligation or entity class, transitional periods, and the final compliance deadline for codes (e.g. a code taking effect from a stated date with a transition for designated entities). Apply s 1 of the Act for commencement; do not guess unpublished dates.'
+- index: 5
+  name: Obligation Inventory (SG)
+  format: text
+  prompt: 'Extract each discrete obligation with pinpoint section, regulation, or code-clause references: who is bound (entity class, e.g. designated online communication services with significant reach or impact, app distribution services), what must be done (system-level measures, reporting, user-safety tools, transparency reports), and the trigger (continuing, event-based, on designation, annual). State whether the standard is absolute or qualified (''reasonable'', ''practicable''). Keep each obligation as its own enumerated item with its reference.'
+- index: 6
+  name: In-Scope Products & Services (SG)
+  format: tag
+  tags:
+  - In-scope — product/service obligations (SG users)
+  - In-scope — operational obligations (reporting, complaints, safety)
+  - Designated / likely-designated entity
+  - Adjacent — monitored but not currently designated
+  - Out of scope for current portfolio
+  - Scope uncertain — legal confirmation needed
+  prompt: 'Map the instrument''s scope onto the organisation''s products and operations serving Singapore users: which products or features are within the instrument''s defined scope (using the instrument''s statutory definitions, e.g. online communication service, app distribution service, social media service), which are designated or could become designated, and which are outside. List each in-scope item explicitly.'
+- index: 7
+  name: Obligation-to-Product & Owner Map
+  format: text
+  prompt: For each obligation, name the in-scope product or workflow, the internal owner role (product, trust-and-safety, engineering, legal, policy), and dependencies. Identify obligations with no current owner, obligations landing on the same team with conflicting deadlines, and any obligation that requires a regulator-facing artefact (report to IMDA/PDPC, published transparency report, notice to users).
+- index: 8
+  name: Gap Analysis — Current vs Required (SG)
+  format: text
+  prompt: 'Compare the organisation''s current state (from the materials) against each obligation by the compliance date: product/process/documentation delta, indicative effort, and severity by enforcement risk and deadline proximity. Where current-state evidence is missing, say so explicitly and mark the assessment as assumption-based pending the product team''s confirmation.'
+- index: 9
+  name: Compliance Workstream & Artefacts (SG)
+  format: text
+  prompt: 'Consolidate obligations into named workstreams with accountable owner roles and target dates before the legal deadline: product changes, policy and process build, regulator-facing reports (e.g. IMDA annual online-safety reports for designated services), user-facing measures (reporting tools, safety settings), training, and contracting. Name the artefact each workstream produces and the regulator or channel it serves, and flag workstreams blocked on regulator guidance or designation.'
+- index: 10
+  name: Cross-Instrument Interaction (SG)
+  format: text
+  prompt: 'Map interactions with other Singapore instruments covering the same conduct: the parent Act and its subsidiary legislation, related codes (e.g. the social-media and app-distribution online-safety codes under the Broadcasting Act), PDPC rules and advisories where personal data is involved, the Protection from Online Falsehoods and Manipulation Act 2019 (POFMA) where content is involved, sector rules, and any express precedence or non-derogation clause. State the posture that satisfies all regimes and flag double-regulation or conflicting deadlines.'
+- index: 11
+  name: Enforcement & Penalty Exposure (SG)
+  format: text
+  prompt: 'State the Singapore enforcement toolkit and penalty exposure with references and figures as enacted (no currency conversion): regulator powers (directions, codes, investigations, composition sums), penalty bands (e.g. fines in Singapore dollars, per-day penalties, imprisonment where applicable), whether penalties fall on the entity or officers, and enforcement-start dates. Assess the organisation''s practical exposure if it took no action before the compliance deadline.'
+- index: 12
+  name: Consultation & Engagement Tracking
+  format: text
+  prompt: 'Track the instrument''s consultation history and the organisation''s engagement posture: past consultation papers and their response deadlines, the organisation''s submitted positions (if any), the regulator''s published responses or summaries, and any opportunity to engage on implementation (industry sessions, pilot or sandbox participation). Identify the current consultation window, if open, and the decision deadline for whether to respond.'
+- index: 13
+  name: Monitoring & Review Triggers (SG)
+  format: text
+  prompt: 'Define the forward monitoring plan for Singapore sources: Singapore Statutes Online updates, the Government Gazette, IMDA/PDPC regulator pages and consultation lists, REACH/AGC consultation listings, and parliamentary Bill tracking. Set the cadence and the trigger events that require re-running this map (new code, direction to the organisation, amendment, guidance publication, designation), and state the next expected milestone for this instrument if known.'
+- index: 14
+  name: Executive Summary & Priorities (SG)
+  format: text
+  prompt: 'Write a plain-English executive summary in no more than 250 words: WHAT the instrument does, WHO it binds, WHAT obligations land on the organisation''s SG-facing products, the three highest-priority actions with dates, and the single biggest risk of inaction. Suitable for a non-lawyer executive briefing on Singapore compliance.'
+- index: 15
+  name: Confidence & Open Questions (SG)
+  format: text
+  prompt: 'State confidence (high/medium/low) for the status stage, obligation inventory, and priorities. List open questions requiring verification against official Singapore sources: current commencement status (check Singapore Statutes Online), exact penalty figures, codes or subsidiary legislation not yet published, and regulator guidance in draft. Where the current text or status is checkable, verify before answering; otherwise flag ''verify current status'' explicitly.'

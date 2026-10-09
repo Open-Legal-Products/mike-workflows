@@ -1,0 +1,97 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Instrument Identification (AU)
+  format: text
+  prompt: 'Identify the Australian instrument precisely: short title exactly as printed with year (e.g. ''Online Safety Act 2021 (Cth)''), the Act number and assent date or the delegated-legislation registration number (FRLI/registration on the Federal Register of Legislation), instrument type (Act / legislative instrument / industry code / industry standard / guidance / consultation paper), the issuing body, and whether it is Commonwealth or state/territory law. If the jurisdiction is not identifiable, STOP and ask.'
+- index: 1
+  name: Issuing & Administering Body (AU)
+  format: tag
+  tags:
+  - Parliament (Commonwealth Act)
+  - eSafety Commissioner (online safety)
+  - ACMA (communications/media)
+  - OAIC (privacy)
+  - ACCC / ASIC / APRA (market conduct/finance)
+  - State/territory body (specify)
+  - Multiple bodies (split by function)
+  prompt: Name the Australian body that issued and will administer or enforce the instrument, using its exact styling, and tag the body type. Note where a code is developed by an industry body but registered and enforced by a regulator (e.g. eSafety registers and enforces online-safety codes and standards), and where responsibility is split across regulators.
+- index: 2
+  name: Legal Force & Regulated Class (AU)
+  format: tag
+  tags:
+  - Act (Cth) — binding
+  - Legislative instrument / delegated legislation — binding
+  - Registered industry code — binding within scope
+  - Industry standard (eSafety/ACMA) — binding where applied
+  - Regulator guidance — non-binding
+  - State/territory Act — binding
+  - Exposure draft / consultation — not yet law
+  prompt: 'What legal force does the Australian instrument carry and who does it bind? Distinguish: Act binding broadly; legislative instrument (delegated legislation) binding; industry code registered under the Online Safety Act binding on the industry participants within its scope (with standards applying where no code is registered); ACMA codes/standards binding on carriers or class(es); regulator guidance non-binding; and exposure drafts/consultation papers. State whether in force now, commencing later, or proposed.'
+- index: 3
+  name: Status Tracker — AU Lifecycle
+  format: tag
+  tags:
+  - Consultation / exposure draft
+  - Introduced / before Parliament
+  - Assented — not yet commenced
+  - In force — full
+  - In force — partial/phased (note which provisions)
+  - Compliance deadline passed
+  - Superseded / amended (note details)
+  prompt: 'Track the instrument''s status in the Australian lifecycle accurately, verifying against official sources (Federal Register of Legislation for Acts and instruments with their commencement information; eSafety''s register of codes and standards; ACMA/OAIC pages): consultation open, introduced to Parliament, assented but not commenced, in force in full or part, or compliance deadline passed. If commencement is by proclamation or is otherwise unascertainable, flag for verification rather than estimating.'
+- index: 4
+  name: Key Dates & Commencement (AU)
+  format: text
+  prompt: 'State every operative date with its source: publication and consultation dates, assent date, commencement date(s) including phased commencement by provision or class (check the instrument''s commencement provisions and the Federal Register''s commencement information), transitional provisions, and compliance deadlines for industry codes (e.g. eSafety codes generally have a 6-month transition from registration to commencement — state the actual dates). Apply the Legislation Act 2003 (Cth) default commencement rules where the instrument is silent; do not guess unascertainable dates.'
+- index: 5
+  name: Obligation Inventory (AU)
+  format: text
+  prompt: 'Extract each discrete obligation with pinpoint references: section of the Act, clause of a registered industry code (e.g. eSafety code provisions on complaint handling, reporting illegal material, age assurance, transparency reporting), or term of a standard. For each state who is bound (industry class, e.g. ''app distribution service'', ''social media service'' under the Online Safety Act schedules), what must be done, and the trigger (continuing, event-based, on notice). Distinguish absolute duties from ''reasonable steps'' qualified duties and note any safe harbour or immunity.'
+- index: 6
+  name: In-Scope Products & Services (AU)
+  format: tag
+  tags:
+  - In-scope — product/service obligations (AU users)
+  - In-scope — operational obligations (complaints, reporting, takedown)
+  - Captured by registered code / standard
+  - Adjacent — monitored but not captured
+  - Out of scope for current portfolio
+  - Scope uncertain — legal confirmation needed
+  prompt: 'Map the instrument''s scope onto the organisation''s products serving Australian users: which products or services fall within the statutory definitions or industry-class scope (e.g. a service covered by an eSafety code schedule — social media, messaging, relevant electronic service, designated internet service, app distribution, hosting, search), which are captured or exempted, and which are outside. List each in-scope item explicitly.'
+- index: 7
+  name: Obligation-to-Product & Owner Map
+  format: text
+  prompt: For each obligation, name the in-scope product or operational workflow, the internal owner role (product, trust-and-safety, legal, policy, engineering), and dependencies. Identify obligations with no current owner, obligations requiring regulator-facing artefacts (eSafety transparency reports, ACMA reports, OAIC notifications), and conflicting deadlines across obligations landing on the same team.
+- index: 8
+  name: Gap Analysis — Current vs Required (AU)
+  format: text
+  prompt: 'Compare current state (from the materials) against each obligation by the compliance date: product/process/documentation delta, indicative effort, and severity by enforcement risk and deadline proximity. Where current-state evidence is missing, say so explicitly and mark the assessment as assumption-based pending confirmation from the product or operations team.'
+- index: 9
+  name: Compliance Workstream & Artefacts (AU)
+  format: text
+  prompt: 'Consolidate obligations into named workstreams with accountable owner roles and target dates ahead of the legal deadline: product and safety-tooling changes, complaint-handling process build, regulator-facing reports (e.g. eSafety annual transparency reports), user-facing measures, training, and contracting. Name the artefact each workstream produces and the regulator or channel it serves, and flag workstreams blocked on regulator guidance or code registration.'
+- index: 10
+  name: Cross-Instrument Interaction (AU)
+  format: text
+  prompt: 'Map interactions with other Australian instruments covering the same conduct: the parent Act and related delegated legislation, other codes/standards under the Online Safety Act, the Broadcasting Services Act 1992 (Cth) and ACMA rules for media/content, Privacy Act and APPs where personal information is involved, the Competition and Consumer Act 2010 (Cth)/ACL for consumer-facing conduct, and state/territory law where relevant. State the posture that satisfies all regimes and flag double-regulation or conflicting deadlines, including the interaction between eSafety codes and the basic online safety expectations.'
+- index: 11
+  name: Enforcement & Penalty Exposure (AU)
+  format: text
+  prompt: 'State the Australian enforcement toolkit and penalty exposure with references and figures as enacted (no currency conversion): regulator powers (investigations, infringement notices, enforceable undertakings, court proceedings), penalty units and their dollar value as set at the relevant date (note penalty-unit indexation), civil penalties, and any criminal exposure. Assess the organisation''s practical exposure if it took no action before the compliance deadline, and note whether penalties attach to the body corporate or individuals.'
+- index: 12
+  name: Consultation & Engagement Tracking
+  format: text
+  prompt: 'Track the instrument''s consultation history and the organisation''s engagement posture: past consultation papers and response deadlines (e.g. eSafety code development consultations, ACMA or government policy consultations), the organisation''s submitted positions, the regulator''s published decisions and explanatory statements (e.g. eSafety''s registration statements for codes), and upcoming engagement opportunities. Identify the current open consultation, if any, and the decision deadline for responding.'
+- index: 13
+  name: Monitoring & Review Triggers (AU)
+  format: text
+  prompt: 'Define the forward monitoring plan for Australian sources: Federal Register of Legislation updates and registered-instrument feeds, eSafety''s register of codes and standards, ACMA and OAIC pages, and Commonwealth consultation portals. Set the cadence and the trigger events requiring re-running this map (new code registration or standard, amendment, regulator guidance, enforcement action signalling interpretation), and state the next expected milestone if known.'
+- index: 14
+  name: Executive Summary & Priorities (AU)
+  format: text
+  prompt: 'Write a plain-English executive summary in no more than 250 words: WHAT the instrument does, WHO it binds, WHAT obligations land on the organisation''s AU-facing products, the three highest-priority actions with dates, and the single biggest risk of inaction. Suitable for a non-lawyer executive briefing on Australian compliance.'
+- index: 15
+  name: Confidence & Open Questions (AU)
+  format: text
+  prompt: 'State confidence (high/medium/low) for the status stage, obligation inventory, and priorities. List open questions requiring verification against official Australian sources: current commencement status (Federal Register of Legislation), exact penalty-unit values and dates, code text where a schedule was recently registered or varied (check eSafety''s register), and guidance in draft. Where the current text or status is checkable, verify before answering; otherwise flag ''verify current status'' explicitly.'

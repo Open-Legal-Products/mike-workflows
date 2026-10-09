@@ -1,0 +1,69 @@
+$schema: ../../../workflow-schema/table-columns.schema.yaml
+columns:
+- index: 0
+  name: Service & Designation Status (SG)
+  format: text
+  prompt: 'Identify the organisation''s service(s) in Singapore regulatory terms: is it an online communication service, and of which type — social media service, app distribution service, or other — as defined under the Broadcasting Act''s online-safety part (as amended by the Online Safety (Miscellaneous Amendments) Act 2022)? State whether IMDA has designated the service (by notification under the Act) as having significant reach or impact, whether designation is likely, or whether the service is not currently designated. Confirm the service''s accessibility to Singapore users, which is the trigger for the statutory powers.'
+- index: 1
+  name: Applicable Code & Legal Force
+  format: tag
+  tags:
+  - Social-media Code of Practice — designated service
+  - App Distribution Services Code of Practice — designated service
+  - Code applies but service not yet designated
+  - IMDA direction received / risk of direction
+  - Not currently regulated under the online-safety regime
+  - Code status unclear — verify designation before mapping
+  prompt: Which code or statutory regime applies to this service, and with what force? Identify the specific code (Code of Practice for Online Safety for social media services; Code of Practice for Online Safety for App Distribution Services), whether the organisation is a designated entity bound by it, and the underlying statutory powers (IMDA directions to disable access to egregious content, code-compliance directions). Distinguish code obligations (binding on designated services) from powers that bite on a direction, and from IMDA's non-binding guidance.
+- index: 2
+  name: Harmful-Content Definitions & Scope
+  format: text
+  prompt: 'Set out the content categories the regime addresses and the definitions the code and Act use: ''egregious content'' under the Act (the categories of content IMDA can direct to be disabled — including sexual content, content inciting terrorism or violence, content endangering public health or safety, content prejudicial to racial harmony) and the code''s harmful-content categories and user-safety measures. Quote the definitions the code uses and state which categories map to which operational obligations (proactive detection, reactive takedown on report, user-facing safety measures).'
+- index: 3
+  name: System-Level Measures Obligations
+  format: text
+  prompt: 'For each code obligation imposing system-level measures, state what the code requires (with clause references): measures to minimise users'' exposure to harmful content (especially for children), content moderation systems proportionate to risk, and the specific duties for app distribution services (curtailing the risk of exposure to harmful content, age-appropriateness measures). Assess the organisation''s current implementation against each measure and identify the delta with the owning team.'
+- index: 4
+  name: User Reporting & Complaints Workflow
+  format: text
+  prompt: 'Assess the user-facing reporting mechanics the code requires: effective and easy-to-use reporting tools, how reports are triaged and actioned, response-time expectations, user notification of outcomes, and appeal or review routes where the code or the organisation''s own process provides them. Walk the current workflow end-to-end (user report -> queue -> review -> action -> user communication) and identify where it falls short of the code''s user-safety expectations or would fail an IMDA compliance assessment.'
+- index: 5
+  name: Takedown & Direction-Response Workflow
+  format: text
+  prompt: 'Assess readiness to respond to IMDA directions to disable access to egregious content: the statutory response timeline for directions, the operational capability to disable access by Singapore users to specific content quickly and reliably, the escalation path when a direction is received (legal review, technical execution, record-keeping), and the interface with the code''s proactive and reactive duties. Identify gaps in geographic access control, content identification, or internal authority that would delay a compliant response to a direction.'
+- index: 6
+  name: Child-Safety & Age-Appropriateness Measures
+  format: text
+  prompt: 'Assess the measures directed at protecting children: the code''s expectations for safeguarding child users (age assurance where the code contemplates it, default safety settings, restrictions on harmful content exposure, app-store age-rating and parental-control expectations for app distribution services), and how the organisation''s product design implements or fails them. State which measures are live, which are planned, and which the code requires but the product does not currently support.'
+- index: 7
+  name: Transparency Reporting Obligations
+  format: text
+  prompt: 'Assess the transparency-reporting obligations under the code: the online-safety report the code requires of designated services, its content (safety measures, content-action metrics, user-safety data), the reporting period and deadline, the audience (published for users and submitted to IMDA for compliance assessment), and any requirement to report additional safety metrics on request. State whether the organisation currently produces the report, whether the data pipeline supports the required metrics, and what would need to change to comply.'
+- index: 8
+  name: Content-Moderation Operations
+  format: text
+  prompt: 'Assess the content-moderation operation that underpins code compliance: the moderation stack (automated detection, human review, prioritisation queues), coverage of Singapore-language content and local context, quality and training of reviewers, and the escalation path for borderline content. Identify where operational capacity is insufficient for the code''s expectations (e.g. detection of the categories most likely to draw a direction) and the risk that creates.'
+- index: 9
+  name: IMDA Engagement & Compliance History
+  format: text
+  prompt: 'Assess the organisation''s engagement posture with IMDA: past designation notifications, code-compliance assessments and their outcomes, any directions received, correspondence or information requests, and participation in IMDA consultations or industry engagement on online safety. State what the engagement history signals about IMDA''s current focus on this service and what proactive engagement would help (clarification requests, implementation updates, voluntary safety reporting).'
+- index: 10
+  name: Cross-Regime Interaction (SG)
+  format: text
+  prompt: 'Map interactions with adjacent Singapore regimes covering the same content: POFMA (Protection from Online Falsehoods and Manipulation Act 2019) directions, the Protection from Harassment Act 2014 orders, the Undesirable Publications Act, the Penal Code for prohibited content, PDPA for personal data in moderation and reporting, and the Code of Practice for App Distribution Services where the organisation operates a store. State the posture that satisfies each regime without conflicting responses, and flag where a takedown under one regime may trigger obligations under another.'
+- index: 11
+  name: Enforcement & Penalty Exposure (SG)
+  format: text
+  prompt: 'State the enforcement exposure under the online-safety regime with references: IMDA''s powers to issue directions to disable access, directions to comply with the code, the penalty provisions in the Act for non-compliance (fines in Singapore dollars, per-day penalties for continuing contravention — quote the sections and amounts as enacted), and any avenue of appeal or review of IMDA decisions. Assess the organisation''s practical exposure if a direction were ignored or code compliance lapsed.'
+- index: 12
+  name: Gap Analysis & Remediation Plan
+  format: text
+  prompt: 'Consolidate gaps into a remediation plan: each gap with severity (critical — direction-response or code-breach risk; material — compliance-assessment failure likely; minor — process polish), the code clause or statutory power engaged, the owning team, the action, and a target date. Prioritise direction-response capability and child-safety gaps over transparency-report polish. State gaps that require product or architecture decisions and the interim risk treatment.'
+- index: 13
+  name: Executive Summary & Priorities
+  format: text
+  prompt: 'Write a plain-English executive summary in no more than 250 words: WHAT obligations bind the service in Singapore, WHO is designated or at risk of designation, WHAT operational changes are required (moderation, reporting, takedown, transparency), the three highest-priority actions with dates, and the single biggest risk of inaction. Suitable for a non-lawyer executive briefing.'
+- index: 14
+  name: Confidence & Open Questions
+  format: text
+  prompt: 'State confidence (high/medium/low) for the designation analysis, the code-obligation inventory, and each priority action. List open questions requiring verification: the service''s current designation status (check IMDA''s published lists and notifications), the current code text (IMDA''s site), and the current provisions of the Broadcasting Act''s online-safety part (Singapore Statutes Online). Where the code text, designation, or statutory provision is checkable against an official Singapore source, verify before answering; otherwise mark ''verify current status'' explicitly.'
