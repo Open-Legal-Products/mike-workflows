@@ -1,6 +1,6 @@
 ---
 name: au-online-safety-tabular-review
-description: Use this workflow to australian online-safety obligation mapping for services regulated under the Online Safety Act 2021 (Cth) and eSafety's registered industry codes and standards
+description: Map Australian online-safety obligations under the Online Safety Act 2021 (Cth) and applicable eSafety codes and standards.
 license: MIT
 metadata:
   version: 1.0.0
@@ -26,6 +26,9 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Australian online-safety obligation mapping for services regulated under the Online Safety Act 2021 (Cth) and eSafety's registered industry codes and standards.
-- Covers the class 1A/1B (unlawful material) codes and standards and the class 1C/2 (age-restricted material) codes — including the six age-restricted-material codes registered 9 September 2025 and in effect 9 March 2026 (social media core features, messaging, relevant electronic services, designated internet services, app distribution, equipment) and the three registered 27 June 2025 in effect 27 December 2025 (hosting, internet carriage, search) — plus the basic online safety expectations and eSafety's complaints, blocking, and transparency powers.
-- The workflow maps each obligation onto the organisation's operational workflows — complaints handling, content moderation, takedown, reporting — with each column requiring the correct code schedule and service class, not generic 'eSafety obligations'.
+- Determine service and material classes under the current Online Safety Act 2021 (Cth), eSafety register, applicable registered code/standard and clause.
+- The six additional age-restricted-material codes were registered on 9 September 2025 and commenced from 9 March 2026, with some measures commencing later. Identify the applicable service’s code or standard and each relevant measure’s commencement date; do not assume every measure applied on 9 March 2026.
+- Apply the registered Head Terms: class 1A material comprises child sexual exploitation material, pro-terror material and extreme crime and violence material, subject to the defined criteria. Class 1B is the remaining class 1 material as defined in those Head Terms. Do not classify generic crime or violence material as class 1A.
+- Apply the registered age-restricted Head Terms: class 1C is class 1 material describing or depicting specific fetish practices or fantasies, excluding class 1A and class 1B material. Apply the definition of class 2 material in s 107 of the Online Safety Act 2021. Do not classify generic sexual content as class 1C.
+- Distinguish code/standard duties, Basic Online Safety Expectations and statutory notice/reporting powers. Verify the version, service schedule, trigger and date for each measure. Compare only with supplied complaints, moderation, testing, reporting and incident evidence.
+- Separate document facts, supplied organisational materials (identify source/version), cited law with pinpoint references and current official-source version/status, and labelled assessments/proposals. Return Not found for missing facts and Not assessed for unsupported analysis. Never infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence. Proposed actions require human approval; do not submit, publish, deploy or accept residual risk.

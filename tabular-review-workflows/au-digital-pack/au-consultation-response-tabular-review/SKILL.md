@@ -1,6 +1,6 @@
 ---
 name: au-consultation-response-tabular-review
-description: Use this workflow to australian regulator and government consultation-paper response drafting and review
+description: Draft and review Australian regulator and government consultation responses for human approval.
 license: MIT
 metadata:
   version: 1.0.0
@@ -13,7 +13,7 @@ metadata:
   jurisdictions: Australia
 ---
 
-# Consultation Response Drafting — Australia (eSafety/ACMA/AGD/industry.gov.au)
+# Consultation Response Drafting — Australia (eSafety/ACMA/OAIC/Commonwealth Departments)
 
 ## Instructions
 
@@ -26,8 +26,9 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Australian regulator and government consultation-paper response drafting and review.
-- Supports responses to consultations issued by Australian regulators and agencies — eSafety Commissioner (online safety codes and standards, complaints and transparency frameworks), ACMA (communications and media regulation), the Attorney-General's Department and other Commonwealth departments on legislative and policy proposals, OAIC on privacy matters, and the Department of Industry/industry.gov.au on AI and technology policy.
-- The workflow extracts question references, forms positions, and scaffolds a structured response with cited Australian authority (Federal Register of Legislation, regulator guidance, explanatory material).
-- Prompts keep regulator identity honest — naming the actual issuing body and flagging any mismatch with the regulator assumed in the task (e.g.
-- ACMA is Australian; eSafety is a separate statutory office for online-safety matters).
+- Review the consultation paper and draft responses using the issuer’s exact question numbering. Verify the actual issuing body, deadline, submission channel and publication/confidentiality rules from its official paper and page. Do not presume ACMA and eSafety are interchangeable.
+- Use supplied approved positions, prior submissions, complete response drafts, metrics and confidentiality/sign-off records. Label unsupported positions and drafting plans as proposals.
+- The Privacy Act does not impose a universal PIA requirement. Agencies covered by the Privacy (Australian Government Agencies — Governance) APP Code 2017 must conduct a PIA for all high privacy risk projects. Assess whether that Code applies; otherwise use OAIC guidance to determine whether a PIA is warranted.
+- The six additional age-restricted-material codes were registered on 9 September 2025 and commenced from 9 March 2026, with some measures commencing later. Identify the applicable service’s code or standard and each relevant measure’s commencement date; do not assume every measure applied on 9 March 2026.
+- Verify the applicable code/standard, current register entry and clause before stating any legal consequence.
+- Separate document facts, supplied organisational materials (identify source/version), cited law with pinpoint references and current official-source version/status, and labelled assessments/proposals. Return Not found for missing facts and Not assessed for unsupported analysis. Never infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence. Proposed actions require human approval; do not submit, publish, deploy or accept residual risk.

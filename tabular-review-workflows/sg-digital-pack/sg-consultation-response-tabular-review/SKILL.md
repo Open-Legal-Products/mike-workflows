@@ -1,6 +1,6 @@
 ---
 name: sg-consultation-response-tabular-review
-description: Use this workflow to singapore regulator consultation-paper response drafting and review
+description: Review Singapore consultation papers and prepare evidence-grounded draft responses, consistency checks and submission plans for human approval.
 license: MIT
 metadata:
   version: 1.0.0
@@ -26,7 +26,8 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Singapore regulator consultation-paper response drafting and review.
-- Supports responses to consultations issued by Singapore regulators and government bodies — including IMDA (content, media, telecoms, AI frameworks), PDPC (data protection), the Attorney-General's Chambers and ministries on legislative proposals, and sector regulators — where the organisation must extract question references, form a position, and draft a structured public response with cited authority and evidence.
-- The workflow keeps regulator identity honest: prompts require naming the actual issuing body and its consultation conventions (e.g.
-- IMDA's numbered consultation questions, PDPC's advisory-guideline consultations, public consultation papers published via REACH or the agency site), and flag any mismatch between the regulator named in the task and the regulator that actually issued the paper.
+- Identify the actual issuing body, paper, current deadline, channel and confidentiality terms from the official consultation source; distinguish statutory and policy consultations with a cited basis.
+- Use supplied organisational positions and evidence to prepare question-by-question draft content. Preserve question numbering and label proposed positions, timelines and owners.
+- Compare the full supplied draft with supplied prior filings and statements (for example, submissions to IMDA, PDPC or sector regulators). Report missing comparison materials rather than inferring consistency.
+- Use the complete consultation paper and official notice; use supplied organisational positions, evidence, prior filings and public statements, approval records and the full response draft for cross-question checks. Report missing or partial inputs and limit the comparison accordingly. Distinguish document facts (cite the reviewed passage), operational facts (cite supplied organisational materials), external law or guidance (identify the current source/version and pinpoint provision), and labelled assessments or proposals. Return Not found for missing facts and Not assessed for unsupported analysis; do not infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence.
+- Keep all drafts and proposed actions subject to human review. Do not submit, publish, approve deployment or accept residual risk without human approval.

@@ -1,6 +1,6 @@
 ---
 name: sg-dpia-cross-border-tabular-review
-description: Use this workflow to singapore-specific data-protection impact assessment and cross-border transfer review under the Personal Data Protection Act 2012 (PDPA) as administered by the Personal Data Protection Commission (PDPC)
+description: Review Singapore data-protection impact assessments and cross-border transfers against the PDPA and identified PDPC guidance.
 license: MIT
 metadata:
   version: 1.0.0
@@ -26,6 +26,8 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Singapore-specific data-protection impact assessment and cross-border transfer review under the Personal Data Protection Act 2012 (PDPA) as administered by the Personal Data Protection Commission (PDPC).
-- Covers: whether a DPIA is warranted under PDPC guidance (the PDPA does not mandate a DPIA for all processing; PDPC recommends DPIAs for high-risk processing and provides a DPIA framework), the PDPA's consent, notification and purpose-limitation obligations, and the transfer-limitation obligation (s 26) — noting Singapore moved away from the prescribed-whitelist approach and instead requires the transferring organisation to ensure the recipient is bound by comparable protection, with PDPC-recognised mechanisms including contractual terms and binding corporate rules.
-- Prompts distinguish PDPA obligations from PDPC advisory guidance and from GDPR-derived expectations where a multinational adopts EU-style practice in Singapore.
+- Determine PDPA application, roles and each consent or exception basis from current identified statutory provisions and supplied processing evidence.
+- Determine DPIA necessity and process from the identified dated PDPC Guide to Data Protection Impact Assessments and any sector source; verify currency rather than asserting the latest version. Assess compliance with s 26 and the prescribed requirements in Part 3 of the Personal Data Protection Regulations 2021, including the required comparable standard of protection and the applicable legally enforceable obligation or exception. Do not assert a former prescribed-whitelist regime.
+- Distinguish binding PDPA requirements, PDPC guidance and voluntarily adopted GDPR practice. Propose mitigations; record sign-off and risk acceptance only from supplied approval records.
+- Use supplied processing and transfer inventories, recipient contracts, due-diligence records, DPIA, control evidence, request logs and sign-off records; do not infer actual flows or effective controls from policy text. Distinguish document facts (cite the reviewed passage), operational facts (cite supplied organisational materials), external law or guidance (identify the current source/version and pinpoint provision), and labelled assessments or proposals. Return Not found for missing facts and Not assessed for unsupported analysis; do not infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence.
+- Keep all drafts and proposed actions subject to human review. Do not submit, publish, approve deployment or accept residual risk without human approval.

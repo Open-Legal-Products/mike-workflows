@@ -1,6 +1,6 @@
 ---
 name: sg-horizon-scan-tabular-review
-description: Use this workflow to singapore regulatory horizon scanning and obligation mapping for digital, content, data and AI regulation
+description: Map Singapore regulatory instruments, legal force, commencement and obligations to supplied product and compliance evidence.
 license: MIT
 metadata:
   version: 1.0.0
@@ -26,6 +26,8 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Singapore regulatory horizon scanning and obligation mapping for digital, content, data and AI regulation.
-- Ingests new or amended Singapore instruments — Acts (via Singapore Statutes Online / SSO and the Government Gazette), subsidiary legislation, IMDA codes of practice and directions, PDPC advisories and guidelines, MAS or other sector rules, and public consultation papers — and maps each obligation onto the organisation's products, features and owners, tracking status from proposed through assented and in force to compliance due.
-- Prompts anchor on Singapore's official sources (SSO/AGC for statutes, IMDA and PDPC websites for codes and guidance, REACH/AGC for consultations) and Singapore's commencement conventions (e.g. section 1 of each Act specifying commencement).
+- Identify each Singapore instrument, official point-in-time version, lifecycle stage, regulated class and document-supported product nexus.
+- Determine legal force and each provision’s commencement from the particular instrument and any notification, designation or direction with pinpoint citations. Do not treat assent or enactment year as commencement.
+- Separate enacted obligations and penalties from guidance and proposed workstreams. Use supplied inventories, control evidence, owner records and prior filings for organisational mapping.
+- Use the identified instrument and official lifecycle sources, plus supplied product inventories, owner records, compliance evidence and prior engagement records for organisational mapping. Distinguish document facts (cite the reviewed passage), operational facts (cite supplied organisational materials), external law or guidance (identify the current source/version and pinpoint provision), and labelled assessments or proposals. Return Not found for missing facts and Not assessed for unsupported analysis; do not infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence.
+- Keep all drafts and proposed actions subject to human review. Do not submit, publish, approve deployment or accept residual risk without human approval.

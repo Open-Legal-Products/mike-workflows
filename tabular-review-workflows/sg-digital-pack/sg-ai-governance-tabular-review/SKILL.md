@@ -1,12 +1,12 @@
 ---
 name: sg-ai-governance-tabular-review
-description: Use this workflow to singapore-specific AI governance assessment and readiness review of an AI system or feature
+description: Review Singapore AI governance, agency calibration, testing evidence and sector overlays against identified current sources.
 license: MIT
 metadata:
   version: 1.0.0
   author: Si Han Xu
   language: English
-  mike-display-name: SG Ai Governance Tabular Review
+  mike-display-name: SG AI Governance Tabular Review
   mike-type: tabular
   mike-availability: add-on
   practice: AI Governance
@@ -26,8 +26,8 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Singapore-specific AI governance assessment and readiness review of an AI system or feature.
-- Anchors on IMDA's Model AI Governance Framework (2nd Ed), the Model AI Governance Framework for Generative AI (May 2024, IMDA/AI Verify Foundation), the Model AI Governance Framework for Agentic AI (v1.5, 2026) and the AI Verify testing/assurance toolkit.
-- Singapore's frameworks are voluntary — this workflow separates 'what the framework recommends', 'what sector regulators separately require' (e.g.
-- MAS, MOH, PDPC where AI touches their remits), and 'what is market expectation'.
-- Uses AI Verify as the assurance/testing vehicle and identifies the accountability and evidence posture expected of a provider or deployer operating in or serving users from Singapore.
+- Identify the applicable traditional, generative and agentic Model AI Governance Framework versions and cite the relevant passages. Determine agency taxonomy and pathways from the identified text, not display tags.
+- Determine AI Verify coverage, limitations, evidence requirements and assurance/certification claims from the identified current scheme source. Determine chatbot disclosures from the identified dated Transparency Guidelines for Generative AI Chatbots and cite each relevant passage.
+- Distinguish source-backed framework recommendations, sector requirements and market expectations (for example, MAS, MOH, PDPC or IMDA sources). Compare supplied system and governance evidence; do not presume controls or approvals.
+- Use supplied system inventories, architecture, risk assessments, evaluation records, governance policies and approval records; do not treat a single system document as an organisation-wide inventory. Distinguish document facts (cite the reviewed passage), operational facts (cite supplied organisational materials), external law or guidance (identify the current source/version and pinpoint provision), and labelled assessments or proposals. Return Not found for missing facts and Not assessed for unsupported analysis; do not infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence.
+- Keep all drafts and proposed actions subject to human review. Do not submit, publish, approve deployment or accept residual risk without human approval.

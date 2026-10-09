@@ -1,6 +1,6 @@
 ---
 name: sg-privacy-notice-consent-tabular-review
-description: Use this workflow to clause-by-clause review of privacy notices and consent flows under the Singapore Personal Data Protection Act 2012 (PDPA) and PDPC guidance
+description: Review Singapore privacy notices and consent flows against the PDPA and identified PDPC guidance; propose evidence-grounded redlines.
 license: MIT
 metadata:
   version: 1.0.0
@@ -26,7 +26,8 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Clause-by-clause review of privacy notices and consent flows under the Singapore Personal Data Protection Act 2012 (PDPA) and PDPC guidance.
-- Covers: whether the PDPA's consent model (or an exception) applies to each collection, use and disclosure; whether the notification obligations in s 20 (inform of purposes on or before collection) are met in content, timing and accessibility; whether consent is valid (s 14 — freely given, informed, specific, and capable of withdrawal) under PDPC's interpretation; and whether the notice architecture withstands a PDPC investigation.
-- Prompts distinguish the PDPA's opt-in consent baseline from its exceptions (including the deemed-consent limbs and the business-improvement legitimate-interests exception), and check marketing-consent mechanics against the PDPC's Spam Control Act-adjacent expectations only where relevant.
-- Every review is jurisdiction-locked to Singapore and must not import GDPR-isms as if they were PDPA requirements.
+- Identify the supplied notice, dated user journeys and processing/recipient evidence. Determine the applicable Singapore PDPA consent or exception basis and notification duties from cited current provisions, not a fixed GDPR comparison.
+- Determine consent validity, NRIC use and other sensitive-context expectations from identified current statutory or PDPC passages; reconcile dated guidance with current advisory and enforcement developments.
+- Compare notice wording with evidenced collection, default choices, withdrawal and request handling; do not infer working channels or actual flows from text alone. Assess marketing and transfer requirements from identified cited sources.
+- Use supplied notices and dated flow captures, processing/recipient inventories, request and withdrawal logs and control evidence; a notice alone cannot establish actual practice or a working channel. Distinguish document facts (cite the reviewed passage), operational facts (cite supplied organisational materials), external law or guidance (identify the current source/version and pinpoint provision), and labelled assessments or proposals. Return Not found for missing facts and Not assessed for unsupported analysis; do not infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence.
+- Keep all drafts and proposed actions subject to human review. Do not submit, publish, approve deployment or accept residual risk without human approval.

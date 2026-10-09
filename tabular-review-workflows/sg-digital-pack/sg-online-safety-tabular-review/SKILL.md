@@ -1,6 +1,6 @@
 ---
 name: sg-online-safety-tabular-review
-description: Use this workflow to singapore online-safety obligation mapping for designated online communication services
+description: Review Singapore online-safety designation, applicable codes and operational evidence to propose compliance priorities.
 license: MIT
 metadata:
   version: 1.0.0
@@ -26,6 +26,8 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Singapore online-safety obligation mapping for designated online communication services.
-- Anchors on the Online Safety (Miscellaneous Amendments) Act 2022, which introduced the online-safety part into the Broadcasting Act 1994, the Code of Practice for Online Safety for social media services (in force since 2023 for designated social media services), the Code of Practice for Online Safety for App Distribution Services (effective 31 March 2025 for designated app distribution services such as the major app stores), and IMDA's directions powers (including directions to disable access to egregious content).
-- The workflow maps each code obligation onto the organisation's operational workflows — content moderation, user reporting, takedown, transparency reporting — distinguishing obligations binding only designated services (with significant reach or impact) from those that bind on a direction, and separating the code's system-level measures from the underlying statutory powers.
+- Identify service scope and current designation from cited Broadcasting Act provisions and official notifications. Determine commencement of amendments from the identified commencement source, not the year of the Online Safety (Miscellaneous Amendments) Act 2022.
+- Identify the actual Code of Practice for Online Safety — Social Media Services or App Distribution Services and its version; map clause-level duties only after scope, designation and commencement are established.
+- Compare requirements with supplied moderation, direction-response, complaints and reporting evidence. Determine adjacent-law application from identified current provisions, including the Penal Code and Undesirable Publications Act, without assuming blanket coverage.
+- Use the identified code/version and clauses, official designation notifications and any received directions, plus supplied service inventories, moderation/reporting records, metrics and correspondence. Do not presume designation or code application. Distinguish document facts (cite the reviewed passage), operational facts (cite supplied organisational materials), external law or guidance (identify the current source/version and pinpoint provision), and labelled assessments or proposals. Return Not found for missing facts and Not assessed for unsupported analysis; do not infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence.
+- Keep all drafts and proposed actions subject to human review. Do not submit, publish, approve deployment or accept residual risk without human approval.

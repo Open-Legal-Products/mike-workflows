@@ -1,6 +1,6 @@
 ---
 name: au-dpia-cross-border-tabular-review
-description: Use this workflow to australia-specific privacy impact assessment and cross-border disclosure review under the Privacy Act 1988 (Cth) and Australian Privacy Principles (APPs), as administered by the Office of the Australian Information Commissioner (OAIC)
+description: Assess Australian privacy impacts and cross-border disclosures under the Privacy Act 1988 (Cth), APPs and OAIC guidance.
 license: MIT
 metadata:
   version: 1.0.0
@@ -13,7 +13,7 @@ metadata:
   jurisdictions: Australia
 ---
 
-# DPIA & Transfer Assessment — Australia (Privacy Act / APPs)
+# PIA & Cross-Border Disclosure Assessment — Australia (Privacy Act / APPs)
 
 ## Instructions
 
@@ -26,6 +26,10 @@ metadata:
 - Render the completed results as an exportable Excel (`.xlsx`) file. If Excel output is not possible, render the results as a Markdown table.
 ## Scope and legal anchors
 
-- Australia-specific privacy impact assessment and cross-border disclosure review under the Privacy Act 1988 (Cth) and Australian Privacy Principles (APPs), as administered by the Office of the Australian Information Commissioner (OAIC).
-- Covers: whether a PIA is warranted under OAIC guidance (a PIA is not mandatory under the Act but the OAIC recommends and expects one for high-risk projects and for APP 8 assessments); the APP 8 cross-border disclosure framework — the 'reasonable steps' obligation, the exception where the recipient is bound by the APPs or a prescribed scheme, the reduced protections where an exception applies, and accountability for onward disclosure; and the interaction with the Notifiable Data Breaches (NDB) scheme under Part IIIC.
-- Prompts flag the Privacy Act reform pipeline (including proposed automated-decision transparency obligations) where it affects current assessment practice.
+- Assess Australian privacy impact and cross-border disclosure risks under the Privacy Act 1988 (Cth), APPs and identified OAIC guidance.
+- Identifiers retain 'DPIA' for cross-jurisdiction familiarity while the Australian task is a PIA / cross-border disclosure review under the Privacy Act.
+- The Privacy Act does not impose a universal PIA requirement. Agencies covered by the Privacy (Australian Government Agencies — Governance) APP Code 2017 must conduct a PIA for all high privacy risk projects. Assess whether that Code applies; otherwise use OAIC guidance to determine whether a PIA is warranted.
+- For APP 8.2(a), assess the reasonable belief that the recipient is subject to a substantially similar protective law or binding scheme and that the individual can access mechanisms to enforce that protection. For APP 8.2(b), assess express informed consent after telling the individual that APP 8.1 will not apply to the disclosure.
+- Determine APP 8.1 reasonable steps and any other exception from its full statutory conditions. Review onward disclosures and NDB Part IIIC separately using current authority and supplied flow, contract, testing and response-plan evidence.
+- Determine current enactment and commencement status of each relevant reform from the Federal Register of Legislation and AGD/OAIC official sources, citing the instrument, provision, version, commencement table and assessment date. Separate proposals, enacted future duties and commenced duties; do not describe an enacted reform as merely proposed or assume a proposal is law.
+- Separate document facts, supplied organisational materials (identify source/version), cited law with pinpoint references and current official-source version/status, and labelled assessments/proposals. Return Not found for missing facts and Not assessed for unsupported analysis. Never infer consent, ownership, approval, deadlines, prior positions or deployed controls from silence. Proposed actions require human approval; do not submit, publish, deploy or accept residual risk.

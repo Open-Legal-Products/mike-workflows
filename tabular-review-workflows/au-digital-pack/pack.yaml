@@ -1,7 +1,7 @@
 $schema: ../../workflow-schema/pack.schema.yaml
 id: au-digital
 title: Australia Digital Regulation Pack
-description: 'Tabular review workflows for Australian digital-regulation practice: privacy impact assessment and cross-border disclosure review under the Privacy Act 1988 (Cth) and the Australian Privacy Principles with OAIC guidance, privacy notice and consent flow review, AI governance readiness anchored on the Australian Government''s Guidance for AI Adoption (2025), consultation response drafting for eSafety, ACMA and Attorney-General''s Department processes, regulatory horizon scanning over the Federal Register of Legislation and regulator instruments, and online-safety obligation mapping under the Online Safety Act 2021 (Cth) and eSafety''s registered industry codes and standards. Original work by the contributor; every workflow produces drafts for human review.'
+description: 'Tabular reviews for Australian privacy impact and cross-border disclosure assessment, privacy notices and consent flows, AI governance against current official guidance, consultation response drafting, Commonwealth and state/territory regulatory horizon scanning, and online-safety codes and standards. Original work by the contributor. All outputs are drafts for human review; submission, publication, deployment approval and residual-risk acceptance remain human decisions.'
 publisher:
   name: Si Han Xu
   url: https://github.com/voidstar-x
