@@ -1,0 +1,17 @@
+$schema: ../../workflow-schema/pack.schema.yaml
+id: au-digital
+title: Australia Digital Regulation Pack
+description: 'Tabular reviews for Australian privacy impact and cross-border disclosure assessment, privacy notices and consent flows, AI governance against current official guidance, consultation response drafting, Commonwealth and state/territory regulatory horizon scanning, and online-safety codes and standards. Original work by the contributor. All outputs are drafts for human review; submission, publication, deployment approval and residual-risk acceptance remain human decisions.'
+publisher:
+  name: Si Han Xu
+  url: https://github.com/voidstar-x
+license: MIT
+version: 1.0.0
+jurisdiction: Australia
+workflows:
+- au-dpia-cross-border-tabular-review
+- au-privacy-notice-consent-tabular-review
+- au-ai-governance-tabular-review
+- au-consultation-response-tabular-review
+- au-horizon-scan-tabular-review
+- au-online-safety-tabular-review

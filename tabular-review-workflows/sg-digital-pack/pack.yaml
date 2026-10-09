@@ -1,0 +1,17 @@
+$schema: ../../workflow-schema/pack.schema.yaml
+id: sg-digital
+title: Singapore Digital Regulation Pack
+description: Singapore digital-regulation workflows for AI governance, consultation responses, data-protection impact and transfer assessments, regulatory horizon scanning, online safety, and privacy notices and consent. Every workflow produces drafts for human review. Determine applicable instruments, versions, commencement and designation from identified cited sources; submission, publication, deployment approval and residual-risk acceptance require human approval.
+publisher:
+  name: Si Han Xu
+  url: https://github.com/voidstar-x
+license: MIT
+version: 1.0.0
+jurisdiction: Singapore
+workflows:
+- sg-dpia-cross-border-tabular-review
+- sg-privacy-notice-consent-tabular-review
+- sg-ai-governance-tabular-review
+- sg-consultation-response-tabular-review
+- sg-horizon-scan-tabular-review
+- sg-online-safety-tabular-review
